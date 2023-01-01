@@ -998,3 +998,4 @@
 63618. feat: add user authentication #63618
 20050. feat: add export to CSV option #20050
 17822. fix: fix null pointer exception on login #17822
+71179. test: mock database connection in test suite #71179
