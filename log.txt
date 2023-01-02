@@ -1001,3 +1001,4 @@
 71179. test: mock database connection in test suite #71179
 29496. test: add unit test for quiz service #29496
 9724. feat: enable dark mode toggle #9724
+4188. perf: lazy-load components #4188
