@@ -2001,3 +2001,4 @@
 53008. docs: improve code comments in utils #53008
 10576. docs: update README with setup steps #10576
 48909. feat: create admin dashboard #48909
+46766. refactor: clean up auth middleware #46766
