@@ -1003,3 +1003,4 @@
 9724. feat: enable dark mode toggle #9724
 4188. perf: lazy-load components #4188
 86639. test: increase coverage on auth module #86639
+61230. style: apply consistent indentation #61230
