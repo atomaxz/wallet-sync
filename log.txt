@@ -3009,3 +3009,4 @@
 40120. feat: add export to CSV option #40120
 0544. perf: reduce image load time #544
 52934. feat: add user authentication #52934
+23010. perf: reduce image load time #23010
