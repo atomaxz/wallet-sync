@@ -10,3 +10,4 @@
 97573. test: add integration test for /submit endpoint #97573
 10598. chore: add GitHub actions badge #10598
 91918. docs: clarify environment setup #91918
+87313. feat: add user authentication #87313
