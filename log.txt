@@ -8,3 +8,4 @@
 1247. docs: add API usage examples #1247
 16178. docs: write FAQ section #16178
 97573. test: add integration test for /submit endpoint #97573
+10598. chore: add GitHub actions badge #10598
