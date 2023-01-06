@@ -1011,3 +1011,4 @@
 59638. docs: write FAQ section #59638
 77030. docs: add API usage examples #77030
 64185. fix: fix broken CSS in mobile view #64185
+67269. test: increase coverage on auth module #67269
