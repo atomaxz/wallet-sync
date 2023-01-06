@@ -1010,3 +1010,4 @@
 12631. refactor: organize models into subfolders #12631
 59638. docs: write FAQ section #59638
 77030. docs: add API usage examples #77030
+64185. fix: fix broken CSS in mobile view #64185
