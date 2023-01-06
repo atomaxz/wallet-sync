@@ -11,3 +11,4 @@
 10598. chore: add GitHub actions badge #10598
 91918. docs: clarify environment setup #91918
 87313. feat: add user authentication #87313
+73382. perf: lazy-load components #73382
