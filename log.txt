@@ -1013,3 +1013,4 @@
 64185. fix: fix broken CSS in mobile view #64185
 67269. test: increase coverage on auth module #67269
 2049. fix: fix null pointer exception on login #2049
+45537. feat: create admin dashboard #45537
