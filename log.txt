@@ -1012,3 +1012,4 @@
 77030. docs: add API usage examples #77030
 64185. fix: fix broken CSS in mobile view #64185
 67269. test: increase coverage on auth module #67269
+2049. fix: fix null pointer exception on login #2049
