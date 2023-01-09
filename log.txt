@@ -2014,3 +2014,4 @@
 76829. refactor: clean up auth middleware #76829
 34816. feat: add export to CSV option #34816
 59559. perf: cache repeated calculations #59559
+80670. feat: enable dark mode toggle #80670
