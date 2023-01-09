@@ -3020,3 +3020,4 @@
 52175. style: reformat files with black #52175
 42892. refactor: remove redundant code blocks #42892
 61774. refactor: remove redundant code blocks #61774
+75399. fix: fix null pointer exception on login #75399
