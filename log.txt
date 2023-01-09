@@ -2013,3 +2013,4 @@
 83778. style: remove trailing whitespace #83778
 76829. refactor: clean up auth middleware #76829
 34816. feat: add export to CSV option #34816
+59559. perf: cache repeated calculations #59559
