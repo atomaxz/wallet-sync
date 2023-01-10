@@ -24,3 +24,4 @@
 38364. perf: reduce image load time #38364
 35003. test: increase coverage on auth module #35003
 41230. chore: clean up unused files #41230
+83517. refactor: split large controller into smaller functions #83517
