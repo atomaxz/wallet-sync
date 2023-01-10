@@ -25,3 +25,4 @@
 35003. test: increase coverage on auth module #35003
 41230. chore: clean up unused files #41230
 83517. refactor: split large controller into smaller functions #83517
+57688. perf: lazy-load components #57688
