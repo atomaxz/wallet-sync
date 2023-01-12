@@ -1024,3 +1024,4 @@
 70065. perf: cache repeated calculations #70065
 90278. chore: update .gitignore #90278
 77652. chore: bump dependencies #77652
+72031. test: increase coverage on auth module #72031
