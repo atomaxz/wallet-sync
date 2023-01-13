@@ -2028,3 +2028,4 @@
 70019. test: mock database connection in test suite #70019
 59257. feat: implement quiz timer feature #59257
 21460. chore: rename env.example #21460
+6161. docs: write FAQ section #6161
