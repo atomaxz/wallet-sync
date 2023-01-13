@@ -1026,3 +1026,4 @@
 77652. chore: bump dependencies #77652
 72031. test: increase coverage on auth module #72031
 42857. fix: handle 500 error in quiz API #42857
+34333. perf: optimize database query for quiz results #34333
