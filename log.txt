@@ -39,3 +39,4 @@
 73144. test: mock database connection in test suite #73144
 84488. feat: support email verification #84488
 43223. perf: optimize database query for quiz results #43223
+83547. fix: resolve issue with date parsing #83547
