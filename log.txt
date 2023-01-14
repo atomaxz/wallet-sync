@@ -1031,3 +1031,4 @@
 60538. test: add unit test for quiz service #60538
 95142. docs: improve code comments in utils #95142
 15498. perf: optimize database query for quiz results #15498
+45226. test: add integration test for /submit endpoint #45226
