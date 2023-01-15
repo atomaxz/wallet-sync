@@ -2031,3 +2031,4 @@
 6161. docs: write FAQ section #6161
 41496. feat: add export to CSV option #41496
 37691. perf: reduce image load time #37691
+63161. fix: handle 500 error in quiz API #63161
