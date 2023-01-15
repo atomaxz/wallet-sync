@@ -1034,3 +1034,4 @@
 45226. test: add integration test for /submit endpoint #45226
 74801. chore: add GitHub actions badge #74801
 15125. refactor: refactor quiz grading logic #15125
+45541. test: add unit test for quiz service #45541
