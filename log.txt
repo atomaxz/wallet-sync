@@ -3029,3 +3029,4 @@
 9772. fix: resolve issue with date parsing #9772
 88739. fix: handle 500 error in quiz API #88739
 5172. fix: handle 500 error in quiz API #5172
+53512. test: mock database connection in test suite #53512
