@@ -3031,3 +3031,4 @@
 5172. fix: handle 500 error in quiz API #5172
 53512. test: mock database connection in test suite #53512
 38303. perf: reduce image load time #38303
+30054. perf: lazy-load components #30054
