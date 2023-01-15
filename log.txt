@@ -1036,3 +1036,4 @@
 15125. refactor: refactor quiz grading logic #15125
 45541. test: add unit test for quiz service #45541
 84131. perf: cache repeated calculations #84131
+47319. style: standardize quote style #47319
