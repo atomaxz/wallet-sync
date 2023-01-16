@@ -3036,3 +3036,4 @@
 61844. refactor: remove redundant code blocks #61844
 23034. feat: create admin dashboard #23034
 42069. test: test user registration edge cases #42069
+40310. style: apply consistent indentation #40310
