@@ -3032,3 +3032,4 @@
 53512. test: mock database connection in test suite #53512
 38303. perf: reduce image load time #38303
 30054. perf: lazy-load components #30054
+99815. docs: add API usage examples #99815
