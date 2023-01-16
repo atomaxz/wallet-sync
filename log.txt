@@ -2034,3 +2034,4 @@
 63161. fix: handle 500 error in quiz API #63161
 4868. test: mock database connection in test suite #4868
 19783. test: add unit test for quiz service #19783
+87680. feat: enable dark mode toggle #87680
