@@ -2037,3 +2037,4 @@
 87680. feat: enable dark mode toggle #87680
 89748. refactor: organize models into subfolders #89748
 63836. test: add unit test for quiz service #63836
+46046. perf: lazy-load components #46046
