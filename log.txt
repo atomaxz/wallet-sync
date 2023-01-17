@@ -3039,3 +3039,4 @@
 40310. style: apply consistent indentation #40310
 90501. style: remove trailing whitespace #90501
 56402. fix: correct typo in registration form #56402
+61548. feat: support email verification #61548
