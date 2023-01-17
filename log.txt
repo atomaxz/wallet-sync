@@ -1043,3 +1043,4 @@
 69379. chore: rename env.example #69379
 61888. feat: support email verification #61888
 3908. fix: fix broken CSS in mobile view #3908
+70424. style: rename variables for clarity #70424
