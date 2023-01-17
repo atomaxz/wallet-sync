@@ -1041,3 +1041,4 @@
 77775. chore: bump dependencies #77775
 22285. docs: document token refresh logic #22285
 69379. chore: rename env.example #69379
+61888. feat: support email verification #61888
