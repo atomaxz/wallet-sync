@@ -2038,3 +2038,4 @@
 89748. refactor: organize models into subfolders #89748
 63836. test: add unit test for quiz service #63836
 46046. perf: lazy-load components #46046
+13283. fix: fix broken CSS in mobile view #13283
