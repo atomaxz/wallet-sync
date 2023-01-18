@@ -3041,3 +3041,4 @@
 56402. fix: correct typo in registration form #56402
 61548. feat: support email verification #61548
 87655. docs: document token refresh logic #87655
+5464. perf: cache repeated calculations #5464
