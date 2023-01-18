@@ -3040,3 +3040,4 @@
 90501. style: remove trailing whitespace #90501
 56402. fix: correct typo in registration form #56402
 61548. feat: support email verification #61548
+87655. docs: document token refresh logic #87655
