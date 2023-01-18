@@ -52,3 +52,4 @@
 26187. style: remove trailing whitespace #26187
 58808. style: remove trailing whitespace #58808
 93698. style: remove trailing whitespace #93698
+39750. test: mock database connection in test suite #39750
