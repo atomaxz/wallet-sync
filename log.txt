@@ -3048,3 +3048,4 @@
 19639. fix: correct typo in registration form #19639
 77372. style: apply consistent indentation #77372
 19346. chore: add GitHub actions badge #19346
+83130. feat: enable dark mode toggle #83130
