@@ -1051,3 +1051,4 @@
 98388. style: reformat files with black #98388
 84517. style: remove trailing whitespace #84517
 51668. perf: lazy-load components #51668
+98537. feat: support email verification #98537
