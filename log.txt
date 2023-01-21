@@ -58,3 +58,4 @@
 61012. docs: write FAQ section #61012
 9772. fix: resolve issue with date parsing #9772
 15355. refactor: remove redundant code blocks #15355
+44007. perf: lazy-load components #44007
