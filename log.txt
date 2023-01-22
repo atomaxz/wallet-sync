@@ -3054,3 +3054,4 @@
 15512. perf: lazy-load components #15512
 29365. refactor: split large controller into smaller functions #29365
 86025. refactor: refactor quiz grading logic #86025
+3325. feat: support email verification #3325
