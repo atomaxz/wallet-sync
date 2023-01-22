@@ -1055,3 +1055,4 @@
 47959. feat: add export to CSV option #47959
 39197. test: add integration test for /submit endpoint #39197
 47447. fix: handle 500 error in quiz API #47447
+0483. test: test user registration edge cases #483
