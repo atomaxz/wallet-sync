@@ -3055,3 +3055,4 @@
 29365. refactor: split large controller into smaller functions #29365
 86025. refactor: refactor quiz grading logic #86025
 3325. feat: support email verification #3325
+73868. fix: handle 500 error in quiz API #73868
