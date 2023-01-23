@@ -3059,3 +3059,4 @@
 18210. refactor: clean up auth middleware #18210
 30073. docs: update README with setup steps #30073
 39555. chore: add GitHub actions badge #39555
+6821. docs: document token refresh logic #6821
