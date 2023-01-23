@@ -63,3 +63,4 @@
 10463. style: reformat files with black #10463
 48626. test: test user registration edge cases #48626
 69590. fix: handle 500 error in quiz API #69590
+82116. feat: add user authentication #82116
