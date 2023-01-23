@@ -3057,3 +3057,4 @@
 3325. feat: support email verification #3325
 73868. fix: handle 500 error in quiz API #73868
 18210. refactor: clean up auth middleware #18210
+30073. docs: update README with setup steps #30073
