@@ -3058,3 +3058,4 @@
 73868. fix: handle 500 error in quiz API #73868
 18210. refactor: clean up auth middleware #18210
 30073. docs: update README with setup steps #30073
+39555. chore: add GitHub actions badge #39555
