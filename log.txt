@@ -1065,3 +1065,4 @@
 23038. chore: bump dependencies #23038
 48714. refactor: refactor quiz grading logic #48714
 5719. chore: bump dependencies #5719
+25159. feat: enable dark mode toggle #25159
