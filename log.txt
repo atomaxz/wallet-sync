@@ -3061,3 +3061,4 @@
 39555. chore: add GitHub actions badge #39555
 6821. docs: document token refresh logic #6821
 5254. test: mock database connection in test suite #5254
+77716. perf: reduce image load time #77716
