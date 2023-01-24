@@ -1064,3 +1064,4 @@
 61796. test: add unit test for quiz service #61796
 23038. chore: bump dependencies #23038
 48714. refactor: refactor quiz grading logic #48714
+5719. chore: bump dependencies #5719
