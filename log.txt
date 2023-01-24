@@ -65,3 +65,4 @@
 69590. fix: handle 500 error in quiz API #69590
 82116. feat: add user authentication #82116
 69269. docs: improve code comments in utils #69269
+77654. feat: add export to CSV option #77654
