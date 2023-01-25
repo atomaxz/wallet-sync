@@ -69,3 +69,4 @@
 21014. refactor: refactor quiz grading logic #21014
 13301. fix: resolve issue with date parsing #13301
 25373. perf: reduce image load time #25373
+74987. docs: write FAQ section #74987
