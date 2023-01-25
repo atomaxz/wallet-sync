@@ -70,3 +70,4 @@
 13301. fix: resolve issue with date parsing #13301
 25373. perf: reduce image load time #25373
 74987. docs: write FAQ section #74987
+24178. refactor: split large controller into smaller functions #24178
