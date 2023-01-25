@@ -1068,3 +1068,4 @@
 25159. feat: enable dark mode toggle #25159
 51012. test: add unit test for quiz service #51012
 81325. feat: enable dark mode toggle #81325
+21707. fix: handle 500 error in quiz API #21707
