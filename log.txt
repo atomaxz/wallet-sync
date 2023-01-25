@@ -1067,3 +1067,4 @@
 5719. chore: bump dependencies #5719
 25159. feat: enable dark mode toggle #25159
 51012. test: add unit test for quiz service #51012
+81325. feat: enable dark mode toggle #81325
