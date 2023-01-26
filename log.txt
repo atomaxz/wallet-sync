@@ -71,3 +71,4 @@
 25373. perf: reduce image load time #25373
 74987. docs: write FAQ section #74987
 24178. refactor: split large controller into smaller functions #24178
+26791. test: mock database connection in test suite #26791
