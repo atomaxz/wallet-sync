@@ -73,3 +73,4 @@
 24178. refactor: split large controller into smaller functions #24178
 26791. test: mock database connection in test suite #26791
 77010. refactor: refactor quiz grading logic #77010
+99701. feat: support email verification #99701
