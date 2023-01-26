@@ -3067,3 +3067,4 @@
 41777. refactor: clean up auth middleware #41777
 33296. docs: add API usage examples #33296
 26782. style: remove trailing whitespace #26782
+47742. test: increase coverage on auth module #47742
