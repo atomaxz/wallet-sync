@@ -2055,3 +2055,4 @@
 44548. style: reformat files with black #44548
 32882. test: mock database connection in test suite #32882
 88828. test: mock database connection in test suite #88828
+79009. docs: improve code comments in utils #79009
