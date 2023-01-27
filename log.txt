@@ -3069,3 +3069,4 @@
 26782. style: remove trailing whitespace #26782
 47742. test: increase coverage on auth module #47742
 27274. feat: create admin dashboard #27274
+29247. refactor: remove redundant code blocks #29247
