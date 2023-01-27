@@ -2058,3 +2058,4 @@
 79009. docs: improve code comments in utils #79009
 25084. docs: improve code comments in utils #25084
 4536. perf: lazy-load components #4536
+60267. perf: optimize database query for quiz results #60267
