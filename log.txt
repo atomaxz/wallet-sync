@@ -77,3 +77,4 @@
 88584. test: test user registration edge cases #88584
 78943. perf: cache repeated calculations #78943
 79952. fix: correct typo in registration form #79952
+68978. fix: resolve issue with date parsing #68978
