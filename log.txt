@@ -79,3 +79,4 @@
 79952. fix: correct typo in registration form #79952
 68978. fix: resolve issue with date parsing #68978
 92902. docs: update README with setup steps #92902
+20774. style: reformat files with black #20774
