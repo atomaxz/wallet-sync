@@ -76,3 +76,4 @@
 99701. feat: support email verification #99701
 88584. test: test user registration edge cases #88584
 78943. perf: cache repeated calculations #78943
+79952. fix: correct typo in registration form #79952
