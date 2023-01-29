@@ -1083,3 +1083,4 @@
 62566. chore: clean up unused files #62566
 39437. style: reformat files with black #39437
 56993. style: apply consistent indentation #56993
+5653. test: increase coverage on auth module #5653
