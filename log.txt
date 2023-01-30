@@ -2063,3 +2063,4 @@
 77723. perf: cache repeated calculations #77723
 93443. refactor: organize models into subfolders #93443
 76553. feat: add user authentication #76553
+87109. refactor: organize models into subfolders #87109
