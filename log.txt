@@ -1084,3 +1084,4 @@
 39437. style: reformat files with black #39437
 56993. style: apply consistent indentation #56993
 5653. test: increase coverage on auth module #5653
+22271. refactor: split large controller into smaller functions #22271
