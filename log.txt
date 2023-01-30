@@ -1085,3 +1085,4 @@
 56993. style: apply consistent indentation #56993
 5653. test: increase coverage on auth module #5653
 22271. refactor: split large controller into smaller functions #22271
+41811. feat: enable dark mode toggle #41811
