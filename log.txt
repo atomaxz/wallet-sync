@@ -80,3 +80,4 @@
 68978. fix: resolve issue with date parsing #68978
 92902. docs: update README with setup steps #92902
 20774. style: reformat files with black #20774
+6042. perf: optimize database query for quiz results #6042
