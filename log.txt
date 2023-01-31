@@ -86,3 +86,4 @@
 20438. test: increase coverage on auth module #20438
 73646. test: mock database connection in test suite #73646
 9711. test: increase coverage on auth module #9711
+48728. refactor: remove redundant code blocks #48728
