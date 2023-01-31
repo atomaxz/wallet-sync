@@ -85,3 +85,4 @@
 2664. feat: add export to CSV option #2664
 20438. test: increase coverage on auth module #20438
 73646. test: mock database connection in test suite #73646
+9711. test: increase coverage on auth module #9711
