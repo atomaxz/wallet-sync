@@ -3080,3 +3080,4 @@
 98712. fix: resolve issue with date parsing #98712
 24008. fix: correct typo in registration form #24008
 53628. refactor: organize models into subfolders #53628
+35977. test: add integration test for /submit endpoint #35977
