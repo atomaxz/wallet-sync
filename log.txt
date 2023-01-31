@@ -83,3 +83,4 @@
 6042. perf: optimize database query for quiz results #6042
 48643. style: standardize quote style #48643
 2664. feat: add export to CSV option #2664
+20438. test: increase coverage on auth module #20438
