@@ -1090,3 +1090,4 @@
 32313. test: add unit test for quiz service #32313
 65169. fix: prevent crash on empty input #65169
 71962. docs: update README with setup steps #71962
+45049. test: add integration test for /submit endpoint #45049
