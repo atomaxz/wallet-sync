@@ -2065,3 +2065,4 @@
 76553. feat: add user authentication #76553
 87109. refactor: organize models into subfolders #87109
 89359. docs: add API usage examples #89359
+37963. fix: correct typo in registration form #37963
