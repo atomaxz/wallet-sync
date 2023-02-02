@@ -89,3 +89,4 @@
 48728. refactor: remove redundant code blocks #48728
 58017. perf: optimize database query for quiz results #58017
 46581. docs: write FAQ section #46581
+48432. feat: support email verification #48432
