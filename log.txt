@@ -3087,3 +3087,4 @@
 87661. refactor: clean up auth middleware #87661
 72450. refactor: organize models into subfolders #72450
 97209. refactor: split large controller into smaller functions #97209
+24470. docs: update README with setup steps #24470
