@@ -92,3 +92,4 @@
 48432. feat: support email verification #48432
 11626. docs: add API usage examples #11626
 60431. test: add unit test for quiz service #60431
+13545. style: remove trailing whitespace #13545
