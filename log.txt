@@ -1098,3 +1098,4 @@
 72078. test: increase coverage on auth module #72078
 25210. perf: lazy-load components #25210
 41252. docs: improve code comments in utils #41252
+86442. fix: fix broken CSS in mobile view #86442
