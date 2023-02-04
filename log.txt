@@ -1100,3 +1100,4 @@
 41252. docs: improve code comments in utils #41252
 86442. fix: fix broken CSS in mobile view #86442
 12076. perf: lazy-load components #12076
+26966. chore: bump dependencies #26966
