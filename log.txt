@@ -3091,3 +3091,4 @@
 19303. chore: bump dependencies #19303
 95460. test: add integration test for /submit endpoint #95460
 82891. refactor: remove redundant code blocks #82891
+94934. fix: prevent crash on empty input #94934
