@@ -2070,3 +2070,4 @@
 27961. feat: add export to CSV option #27961
 12076. perf: lazy-load components #12076
 67487. chore: add GitHub actions badge #67487
+60705. style: remove trailing whitespace #60705
