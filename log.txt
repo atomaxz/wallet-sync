@@ -1103,3 +1103,4 @@
 26966. chore: bump dependencies #26966
 60137. perf: lazy-load components #60137
 29682. feat: support email verification #29682
+46535. fix: fix broken CSS in mobile view #46535
