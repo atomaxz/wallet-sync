@@ -3095,3 +3095,4 @@
 69924. feat: support email verification #69924
 43778. docs: update README with setup steps #43778
 91022. chore: rename env.example #91022
+90162. fix: fix broken CSS in mobile view #90162
