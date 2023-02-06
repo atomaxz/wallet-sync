@@ -97,3 +97,4 @@
 74325. docs: document token refresh logic #74325
 40694. refactor: split large controller into smaller functions #40694
 57016. test: test user registration edge cases #57016
+52004. chore: bump dependencies #52004
