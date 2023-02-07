@@ -1108,3 +1108,4 @@
 64927. feat: add user authentication #64927
 73360. chore: clean up unused files #73360
 46246. style: remove trailing whitespace #46246
+49205. perf: optimize database query for quiz results #49205
