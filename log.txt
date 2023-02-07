@@ -3099,3 +3099,4 @@
 91480. style: standardize quote style #91480
 74709. style: remove trailing whitespace #74709
 29854. chore: add GitHub actions badge #29854
+30116. docs: write FAQ section #30116
