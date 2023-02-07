@@ -2080,3 +2080,4 @@
 29423. chore: clean up unused files #29423
 48991. feat: create admin dashboard #48991
 67926. docs: clarify environment setup #67926
+71188. perf: lazy-load components #71188
