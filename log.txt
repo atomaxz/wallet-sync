@@ -98,3 +98,4 @@
 40694. refactor: split large controller into smaller functions #40694
 57016. test: test user registration edge cases #57016
 52004. chore: bump dependencies #52004
+33763. chore: add GitHub actions badge #33763
