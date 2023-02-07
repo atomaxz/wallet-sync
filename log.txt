@@ -2076,3 +2076,4 @@
 33879. fix: fix null pointer exception on login #33879
 93435. style: reformat files with black #93435
 40849. feat: support email verification #40849
+30802. refactor: clean up auth middleware #30802
