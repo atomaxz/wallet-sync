@@ -3098,3 +3098,4 @@
 90162. fix: fix broken CSS in mobile view #90162
 91480. style: standardize quote style #91480
 74709. style: remove trailing whitespace #74709
+29854. chore: add GitHub actions badge #29854
