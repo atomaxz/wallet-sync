@@ -3102,3 +3102,4 @@
 30116. docs: write FAQ section #30116
 8711. docs: improve code comments in utils #8711
 32128. feat: add export to CSV option #32128
+40565. fix: resolve issue with date parsing #40565
