@@ -2084,3 +2084,4 @@
 94121. fix: handle 500 error in quiz API #94121
 27312. feat: add user authentication #27312
 8107. refactor: split large controller into smaller functions #8107
+4831. fix: resolve issue with date parsing #4831
