@@ -1109,3 +1109,4 @@
 73360. chore: clean up unused files #73360
 46246. style: remove trailing whitespace #46246
 49205. perf: optimize database query for quiz results #49205
+53356. test: increase coverage on auth module #53356
