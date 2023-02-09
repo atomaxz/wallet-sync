@@ -105,3 +105,4 @@
 15196. docs: improve code comments in utils #15196
 86155. fix: fix broken CSS in mobile view #86155
 62696. perf: reduce image load time #62696
+67506. chore: add GitHub actions badge #67506
