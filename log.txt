@@ -2087,3 +2087,4 @@
 4831. fix: resolve issue with date parsing #4831
 59608. chore: add GitHub actions badge #59608
 96917. style: reformat files with black #96917
+41604. perf: lazy-load components #41604
