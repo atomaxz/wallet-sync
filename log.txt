@@ -3103,3 +3103,4 @@
 8711. docs: improve code comments in utils #8711
 32128. feat: add export to CSV option #32128
 40565. fix: resolve issue with date parsing #40565
+70428. test: increase coverage on auth module #70428
