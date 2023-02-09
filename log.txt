@@ -2086,3 +2086,4 @@
 8107. refactor: split large controller into smaller functions #8107
 4831. fix: resolve issue with date parsing #4831
 59608. chore: add GitHub actions badge #59608
+96917. style: reformat files with black #96917
