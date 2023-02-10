@@ -1116,3 +1116,4 @@
 56602. docs: improve code comments in utils #56602
 87990. style: reformat files with black #87990
 74320. style: standardize quote style #74320
+74890. fix: fix null pointer exception on login #74890
