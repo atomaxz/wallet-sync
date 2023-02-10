@@ -1117,3 +1117,4 @@
 87990. style: reformat files with black #87990
 74320. style: standardize quote style #74320
 74890. fix: fix null pointer exception on login #74890
+69172. docs: document token refresh logic #69172
