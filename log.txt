@@ -110,3 +110,4 @@
 23776. refactor: clean up auth middleware #23776
 29839. test: add unit test for quiz service #29839
 81581. test: test user registration edge cases #81581
+90938. feat: add export to CSV option #90938
