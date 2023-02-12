@@ -2091,3 +2091,4 @@
 10039. test: add unit test for quiz service #10039
 25983. fix: correct typo in registration form #25983
 1803. feat: implement quiz timer feature #1803
+6024. fix: fix null pointer exception on login #6024
