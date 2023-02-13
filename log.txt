@@ -1121,3 +1121,4 @@
 62087. feat: add export to CSV option #62087
 16370. docs: improve code comments in utils #16370
 72797. chore: bump dependencies #72797
+28802. feat: add user authentication #28802
