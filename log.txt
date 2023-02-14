@@ -123,3 +123,4 @@
 50216. style: rename variables for clarity #50216
 75460. style: rename variables for clarity #75460
 21251. chore: rename env.example #21251
+78588. docs: clarify environment setup #78588
