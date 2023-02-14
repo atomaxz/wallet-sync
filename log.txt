@@ -1124,3 +1124,4 @@
 28802. feat: add user authentication #28802
 80858. fix: handle 500 error in quiz API #80858
 13391. refactor: split large controller into smaller functions #13391
+29385. test: add unit test for quiz service #29385
