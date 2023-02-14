@@ -3113,3 +3113,4 @@
 54840. refactor: refactor quiz grading logic #54840
 69593. refactor: refactor quiz grading logic #69593
 53721. test: mock database connection in test suite #53721
+30951. feat: add user authentication #30951
