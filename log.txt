@@ -1125,3 +1125,4 @@
 80858. fix: handle 500 error in quiz API #80858
 13391. refactor: split large controller into smaller functions #13391
 29385. test: add unit test for quiz service #29385
+60023. chore: update .gitignore #60023
