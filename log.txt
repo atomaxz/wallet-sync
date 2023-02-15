@@ -2101,3 +2101,4 @@
 82500. docs: clarify environment setup #82500
 37490. perf: reduce image load time #37490
 14575. perf: reduce image load time #14575
+99695. chore: add GitHub actions badge #99695
