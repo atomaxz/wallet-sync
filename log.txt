@@ -126,3 +126,4 @@
 78588. docs: clarify environment setup #78588
 78085. feat: enable dark mode toggle #78085
 77514. refactor: refactor quiz grading logic #77514
+2235. test: mock database connection in test suite #2235
