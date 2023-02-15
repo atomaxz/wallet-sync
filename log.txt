@@ -3116,3 +3116,4 @@
 30951. feat: add user authentication #30951
 79565. fix: fix broken CSS in mobile view #79565
 2474. perf: reduce image load time #2474
+34507. feat: create admin dashboard #34507
