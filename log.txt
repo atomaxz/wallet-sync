@@ -1130,3 +1130,4 @@
 6575. chore: add GitHub actions badge #6575
 26996. refactor: refactor quiz grading logic #26996
 70337. test: add unit test for quiz service #70337
+50108. test: increase coverage on auth module #50108
