@@ -1131,3 +1131,4 @@
 26996. refactor: refactor quiz grading logic #26996
 70337. test: add unit test for quiz service #70337
 50108. test: increase coverage on auth module #50108
+50952. fix: fix null pointer exception on login #50952
