@@ -2104,3 +2104,4 @@
 99695. chore: add GitHub actions badge #99695
 17063. fix: fix broken CSS in mobile view #17063
 51216. chore: add GitHub actions badge #51216
+90447. fix: fix null pointer exception on login #90447
