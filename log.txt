@@ -129,3 +129,4 @@
 2235. test: mock database connection in test suite #2235
 51598. test: test user registration edge cases #51598
 33371. style: apply consistent indentation #33371
+46487. docs: improve code comments in utils #46487
