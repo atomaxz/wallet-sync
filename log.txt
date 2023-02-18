@@ -2108,3 +2108,4 @@
 36176. perf: optimize database query for quiz results #36176
 0389. fix: correct typo in registration form #389
 86296. chore: rename env.example #86296
+74909. test: mock database connection in test suite #74909
