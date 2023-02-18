@@ -1137,3 +1137,4 @@
 9044. style: standardize quote style #9044
 70711. style: standardize quote style #70711
 22166. style: remove trailing whitespace #22166
+52942. chore: bump dependencies #52942
