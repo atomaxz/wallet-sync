@@ -1136,3 +1136,4 @@
 3233. refactor: organize models into subfolders #3233
 9044. style: standardize quote style #9044
 70711. style: standardize quote style #70711
+22166. style: remove trailing whitespace #22166
