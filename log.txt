@@ -1138,3 +1138,4 @@
 70711. style: standardize quote style #70711
 22166. style: remove trailing whitespace #22166
 52942. chore: bump dependencies #52942
+4168. fix: handle 500 error in quiz API #4168
