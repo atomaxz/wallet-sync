@@ -1140,3 +1140,4 @@
 52942. chore: bump dependencies #52942
 4168. fix: handle 500 error in quiz API #4168
 20711. refactor: clean up auth middleware #20711
+41366. chore: update .gitignore #41366
