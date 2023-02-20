@@ -135,3 +135,4 @@
 32360. feat: enable dark mode toggle #32360
 74652. chore: add GitHub actions badge #74652
 5799. feat: support email verification #5799
+86202. feat: add export to CSV option #86202
