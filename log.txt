@@ -3132,3 +3132,4 @@
 56362. style: remove trailing whitespace #56362
 45228. feat: support email verification #45228
 47988. docs: improve code comments in utils #47988
+7083. test: test user registration edge cases #7083
