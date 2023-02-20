@@ -133,3 +133,4 @@
 61044. docs: write FAQ section #61044
 67420. perf: reduce image load time #67420
 32360. feat: enable dark mode toggle #32360
+74652. chore: add GitHub actions badge #74652
