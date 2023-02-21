@@ -2116,3 +2116,4 @@
 14868. feat: implement quiz timer feature #14868
 44913. chore: rename env.example #44913
 25083. refactor: refactor quiz grading logic #25083
+43968. fix: prevent crash on empty input #43968
