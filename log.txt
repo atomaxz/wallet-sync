@@ -1148,3 +1148,4 @@
 20875. docs: write FAQ section #20875
 91508. test: add unit test for quiz service #91508
 88199. refactor: refactor quiz grading logic #88199
+28062. fix: correct typo in registration form #28062
