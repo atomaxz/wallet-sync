@@ -2118,3 +2118,4 @@
 25083. refactor: refactor quiz grading logic #25083
 43968. fix: prevent crash on empty input #43968
 30801. docs: clarify environment setup #30801
+56784. refactor: clean up auth middleware #56784
