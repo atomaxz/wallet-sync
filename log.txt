@@ -141,3 +141,4 @@
 10139. refactor: organize models into subfolders #10139
 44946. fix: resolve issue with date parsing #44946
 76195. style: remove trailing whitespace #76195
+88660. feat: enable dark mode toggle #88660
