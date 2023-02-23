@@ -143,3 +143,4 @@
 76195. style: remove trailing whitespace #76195
 88660. feat: enable dark mode toggle #88660
 68519. chore: add GitHub actions badge #68519
+67409. perf: reduce image load time #67409
