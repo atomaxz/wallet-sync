@@ -3137,3 +3137,4 @@
 69291. style: standardize quote style #69291
 30979. perf: lazy-load components #30979
 13622. fix: correct typo in registration form #13622
+77725. fix: prevent crash on empty input #77725
