@@ -2124,3 +2124,4 @@
 17205. fix: fix null pointer exception on login #17205
 82656. refactor: remove redundant code blocks #82656
 40403. chore: bump dependencies #40403
+71324. feat: add user authentication #71324
