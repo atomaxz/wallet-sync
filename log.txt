@@ -3141,3 +3141,4 @@
 35273. fix: fix null pointer exception on login #35273
 68207. style: remove trailing whitespace #68207
 1520. style: rename variables for clarity #1520
+15870. fix: correct typo in registration form #15870
