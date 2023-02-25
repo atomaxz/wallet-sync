@@ -1158,3 +1158,4 @@
 2685. chore: update .gitignore #2685
 64476. test: add unit test for quiz service #64476
 0068. chore: clean up unused files #68
+25340. fix: correct typo in registration form #25340
