@@ -2131,3 +2131,4 @@
 65134. perf: cache repeated calculations #65134
 63617. docs: improve code comments in utils #63617
 72306. chore: clean up unused files #72306
+44460. chore: bump dependencies #44460
