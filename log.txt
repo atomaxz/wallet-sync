@@ -1164,3 +1164,4 @@
 77344. chore: bump dependencies #77344
 21408. chore: update .gitignore #21408
 73986. style: reformat files with black #73986
+81132. fix: handle 500 error in quiz API #81132
