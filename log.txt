@@ -1169,3 +1169,4 @@
 15191. perf: lazy-load components #15191
 23107. fix: correct typo in registration form #23107
 71691. perf: optimize database query for quiz results #71691
+5791. chore: update .gitignore #5791
