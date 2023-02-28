@@ -1167,3 +1167,4 @@
 81132. fix: handle 500 error in quiz API #81132
 1812. perf: reduce image load time #1812
 15191. perf: lazy-load components #15191
+23107. fix: correct typo in registration form #23107
