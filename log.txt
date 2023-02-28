@@ -153,3 +153,4 @@
 22794. style: remove trailing whitespace #22794
 73813. test: test user registration edge cases #73813
 37934. docs: write FAQ section #37934
+58015. feat: create admin dashboard #58015
