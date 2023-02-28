@@ -1168,3 +1168,4 @@
 1812. perf: reduce image load time #1812
 15191. perf: lazy-load components #15191
 23107. fix: correct typo in registration form #23107
+71691. perf: optimize database query for quiz results #71691
