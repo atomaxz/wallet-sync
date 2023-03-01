@@ -3153,3 +3153,4 @@
 97163. test: test user registration edge cases #97163
 30183. fix: fix null pointer exception on login #30183
 82806. test: test user registration edge cases #82806
+96808. perf: cache repeated calculations #96808
