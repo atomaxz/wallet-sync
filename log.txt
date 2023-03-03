@@ -3155,3 +3155,4 @@
 82806. test: test user registration edge cases #82806
 96808. perf: cache repeated calculations #96808
 35469. chore: add GitHub actions badge #35469
+39653. feat: support email verification #39653
