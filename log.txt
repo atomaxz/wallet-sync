@@ -1174,3 +1174,4 @@
 87670. test: test user registration edge cases #87670
 90842. perf: cache repeated calculations #90842
 21620. test: increase coverage on auth module #21620
+46728. perf: lazy-load components #46728
