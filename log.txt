@@ -163,3 +163,4 @@
 81003. perf: reduce image load time #81003
 80817. chore: clean up unused files #80817
 40747. fix: prevent crash on empty input #40747
+36657. feat: add user authentication #36657
