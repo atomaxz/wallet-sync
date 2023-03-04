@@ -2144,3 +2144,4 @@
 75724. test: increase coverage on auth module #75724
 28339. docs: add API usage examples #28339
 49939. perf: optimize database query for quiz results #49939
+2406. feat: add user authentication #2406
