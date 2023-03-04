@@ -2143,3 +2143,4 @@
 48907. perf: reduce image load time #48907
 75724. test: increase coverage on auth module #75724
 28339. docs: add API usage examples #28339
+49939. perf: optimize database query for quiz results #49939
