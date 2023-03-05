@@ -171,3 +171,4 @@
 93846. perf: reduce image load time #93846
 41197. feat: create admin dashboard #41197
 95947. docs: document token refresh logic #95947
+15406. fix: correct typo in registration form #15406
