@@ -3163,3 +3163,4 @@
 61788. perf: reduce image load time #61788
 63044. docs: write FAQ section #63044
 63624. chore: bump dependencies #63624
+98023. fix: prevent crash on empty input #98023
