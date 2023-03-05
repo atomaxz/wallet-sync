@@ -2147,3 +2147,4 @@
 2406. feat: add user authentication #2406
 88580. feat: add export to CSV option #88580
 32287. perf: reduce image load time #32287
+69923. chore: bump dependencies #69923
