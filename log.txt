@@ -3164,3 +3164,4 @@
 63044. docs: write FAQ section #63044
 63624. chore: bump dependencies #63624
 98023. fix: prevent crash on empty input #98023
+71528. test: mock database connection in test suite #71528
