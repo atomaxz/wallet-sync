@@ -174,3 +174,4 @@
 15406. fix: correct typo in registration form #15406
 60277. perf: lazy-load components #60277
 41346. fix: handle 500 error in quiz API #41346
+14743. refactor: remove redundant code blocks #14743
