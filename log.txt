@@ -3170,3 +3170,4 @@
 58850. chore: rename env.example #58850
 23605. feat: implement quiz timer feature #23605
 13270. feat: add export to CSV option #13270
+92198. fix: correct typo in registration form #92198
