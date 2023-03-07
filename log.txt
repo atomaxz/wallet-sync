@@ -176,3 +176,4 @@
 41346. fix: handle 500 error in quiz API #41346
 14743. refactor: remove redundant code blocks #14743
 38121. perf: optimize database query for quiz results #38121
+95103. docs: write FAQ section #95103
