@@ -177,3 +177,4 @@
 14743. refactor: remove redundant code blocks #14743
 38121. perf: optimize database query for quiz results #38121
 95103. docs: write FAQ section #95103
+79923. style: standardize quote style #79923
