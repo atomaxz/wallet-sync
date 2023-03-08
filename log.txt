@@ -3172,3 +3172,4 @@
 13270. feat: add export to CSV option #13270
 92198. fix: correct typo in registration form #92198
 19083. style: apply consistent indentation #19083
+88741. style: rename variables for clarity #88741
