@@ -180,3 +180,4 @@
 79923. style: standardize quote style #79923
 14804. test: add integration test for /submit endpoint #14804
 69124. docs: document token refresh logic #69124
+90726. test: increase coverage on auth module #90726
