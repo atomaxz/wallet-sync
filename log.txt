@@ -178,3 +178,4 @@
 38121. perf: optimize database query for quiz results #38121
 95103. docs: write FAQ section #95103
 79923. style: standardize quote style #79923
+14804. test: add integration test for /submit endpoint #14804
