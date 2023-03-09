@@ -181,3 +181,4 @@
 14804. test: add integration test for /submit endpoint #14804
 69124. docs: document token refresh logic #69124
 90726. test: increase coverage on auth module #90726
+31843. test: increase coverage on auth module #31843
