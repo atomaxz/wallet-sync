@@ -185,3 +185,4 @@
 82633. test: mock database connection in test suite #82633
 97428. perf: optimize database query for quiz results #97428
 75505. fix: resolve issue with date parsing #75505
+92689. perf: optimize database query for quiz results #92689
