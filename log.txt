@@ -191,3 +191,4 @@
 23550. refactor: split large controller into smaller functions #23550
 57029. style: standardize quote style #57029
 40954. test: add unit test for quiz service #40954
+16347. feat: support email verification #16347
