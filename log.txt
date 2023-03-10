@@ -3179,3 +3179,4 @@
 26315. test: mock database connection in test suite #26315
 98218. feat: add export to CSV option #98218
 74531. chore: rename env.example #74531
+47207. fix: resolve issue with date parsing #47207
