@@ -1190,3 +1190,4 @@
 43801. feat: enable dark mode toggle #43801
 8563. test: add integration test for /submit endpoint #8563
 24679. feat: enable dark mode toggle #24679
+76761. chore: update .gitignore #76761
