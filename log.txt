@@ -1188,3 +1188,4 @@
 45363. refactor: clean up auth middleware #45363
 72839. fix: handle 500 error in quiz API #72839
 43801. feat: enable dark mode toggle #43801
+8563. test: add integration test for /submit endpoint #8563
