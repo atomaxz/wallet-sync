@@ -196,3 +196,4 @@
 63371. style: rename variables for clarity #63371
 72296. test: increase coverage on auth module #72296
 26636. style: apply consistent indentation #26636
+79098. test: add integration test for /submit endpoint #79098
