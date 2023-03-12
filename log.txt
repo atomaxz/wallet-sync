@@ -3183,3 +3183,4 @@
 3021. fix: correct typo in registration form #3021
 6804. refactor: refactor quiz grading logic #6804
 79333. style: remove trailing whitespace #79333
+75240. feat: enable dark mode toggle #75240
