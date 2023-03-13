@@ -2155,3 +2155,4 @@
 15919. docs: write FAQ section #15919
 31068. test: add unit test for quiz service #31068
 57143. feat: enable dark mode toggle #57143
+15918. test: add integration test for /submit endpoint #15918
