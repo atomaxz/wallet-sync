@@ -200,3 +200,4 @@
 0857. fix: resolve issue with date parsing #857
 21887. test: test user registration edge cases #21887
 2845. feat: enable dark mode toggle #2845
+45776. refactor: refactor quiz grading logic #45776
