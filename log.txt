@@ -198,3 +198,4 @@
 26636. style: apply consistent indentation #26636
 79098. test: add integration test for /submit endpoint #79098
 0857. fix: resolve issue with date parsing #857
+21887. test: test user registration edge cases #21887
