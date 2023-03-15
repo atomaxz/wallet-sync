@@ -3193,3 +3193,4 @@
 66204. perf: reduce image load time #66204
 3334. perf: lazy-load components #3334
 25856. feat: add export to CSV option #25856
+56064. feat: add user authentication #56064
