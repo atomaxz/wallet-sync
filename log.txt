@@ -2165,3 +2165,4 @@
 65860. style: reformat files with black #65860
 20109. feat: implement quiz timer feature #20109
 95446. feat: add user authentication #95446
+40961. perf: optimize database query for quiz results #40961
