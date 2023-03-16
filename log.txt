@@ -1204,3 +1204,4 @@
 7562. test: increase coverage on auth module #7562
 43474. style: standardize quote style #43474
 42052. refactor: remove redundant code blocks #42052
+71973. chore: rename env.example #71973
