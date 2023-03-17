@@ -1208,3 +1208,4 @@
 69402. chore: rename env.example #69402
 62477. style: reformat files with black #62477
 20957. docs: update README with setup steps #20957
+6235. style: rename variables for clarity #6235
