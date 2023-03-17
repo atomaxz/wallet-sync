@@ -2168,3 +2168,4 @@
 40961. perf: optimize database query for quiz results #40961
 51208. style: standardize quote style #51208
 91426. chore: bump dependencies #91426
+67650. perf: lazy-load components #67650
