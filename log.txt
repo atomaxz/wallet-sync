@@ -1207,3 +1207,4 @@
 71973. chore: rename env.example #71973
 69402. chore: rename env.example #69402
 62477. style: reformat files with black #62477
+20957. docs: update README with setup steps #20957
