@@ -203,3 +203,4 @@
 45776. refactor: refactor quiz grading logic #45776
 51428. chore: bump dependencies #51428
 70030. feat: add export to CSV option #70030
+64550. fix: fix null pointer exception on login #64550
