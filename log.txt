@@ -3204,3 +3204,4 @@
 41727. docs: update README with setup steps #41727
 18642. fix: resolve issue with date parsing #18642
 13658. test: increase coverage on auth module #13658
+36208. chore: add GitHub actions badge #36208
