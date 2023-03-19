@@ -2173,3 +2173,4 @@
 99583. perf: cache repeated calculations #99583
 65716. style: apply consistent indentation #65716
 17227. feat: create admin dashboard #17227
+67045. refactor: clean up auth middleware #67045
