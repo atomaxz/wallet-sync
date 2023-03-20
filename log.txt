@@ -3206,3 +3206,4 @@
 13658. test: increase coverage on auth module #13658
 36208. chore: add GitHub actions badge #36208
 11501. chore: rename env.example #11501
+70204. refactor: remove redundant code blocks #70204
