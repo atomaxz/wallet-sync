@@ -2174,3 +2174,4 @@
 65716. style: apply consistent indentation #65716
 17227. feat: create admin dashboard #17227
 67045. refactor: clean up auth middleware #67045
+46323. chore: add GitHub actions badge #46323
