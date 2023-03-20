@@ -1214,3 +1214,4 @@
 9635. docs: add API usage examples #9635
 7560. feat: add export to CSV option #7560
 33126. docs: add API usage examples #33126
+60222. perf: optimize database query for quiz results #60222
