@@ -2175,3 +2175,4 @@
 17227. feat: create admin dashboard #17227
 67045. refactor: clean up auth middleware #67045
 46323. chore: add GitHub actions badge #46323
+6116. refactor: split large controller into smaller functions #6116
