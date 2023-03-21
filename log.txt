@@ -2176,3 +2176,4 @@
 67045. refactor: clean up auth middleware #67045
 46323. chore: add GitHub actions badge #46323
 6116. refactor: split large controller into smaller functions #6116
+52274. docs: document token refresh logic #52274
