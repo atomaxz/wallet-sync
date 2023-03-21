@@ -1218,3 +1218,4 @@
 16725. fix: correct typo in registration form #16725
 36667. fix: fix broken CSS in mobile view #36667
 72362. refactor: remove redundant code blocks #72362
+58914. refactor: remove redundant code blocks #58914
