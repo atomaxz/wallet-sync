@@ -1219,3 +1219,4 @@
 36667. fix: fix broken CSS in mobile view #36667
 72362. refactor: remove redundant code blocks #72362
 58914. refactor: remove redundant code blocks #58914
+2506. style: apply consistent indentation #2506
