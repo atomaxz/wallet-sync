@@ -210,3 +210,4 @@
 67638. feat: enable dark mode toggle #67638
 13220. refactor: split large controller into smaller functions #13220
 63256. refactor: clean up auth middleware #63256
+8271. docs: update README with setup steps #8271
