@@ -2178,3 +2178,4 @@
 6116. refactor: split large controller into smaller functions #6116
 52274. docs: document token refresh logic #52274
 27762. feat: enable dark mode toggle #27762
+73638. fix: resolve issue with date parsing #73638
