@@ -1221,3 +1221,4 @@
 58914. refactor: remove redundant code blocks #58914
 2506. style: apply consistent indentation #2506
 89719. feat: add export to CSV option #89719
+70647. perf: reduce image load time #70647
