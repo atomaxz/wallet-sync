@@ -2180,3 +2180,4 @@
 27762. feat: enable dark mode toggle #27762
 73638. fix: resolve issue with date parsing #73638
 89788. test: test user registration edge cases #89788
+44626. refactor: clean up auth middleware #44626
