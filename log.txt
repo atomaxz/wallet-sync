@@ -1223,3 +1223,4 @@
 89719. feat: add export to CSV option #89719
 70647. perf: reduce image load time #70647
 72192. feat: enable dark mode toggle #72192
+6250. fix: handle 500 error in quiz API #6250
