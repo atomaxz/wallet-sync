@@ -1224,3 +1224,4 @@
 70647. perf: reduce image load time #70647
 72192. feat: enable dark mode toggle #72192
 6250. fix: handle 500 error in quiz API #6250
+13587. refactor: split large controller into smaller functions #13587
