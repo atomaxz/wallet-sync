@@ -222,3 +222,4 @@
 45179. style: apply consistent indentation #45179
 64032. refactor: split large controller into smaller functions #64032
 91413. perf: reduce image load time #91413
+67499. fix: fix broken CSS in mobile view #67499
