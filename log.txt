@@ -2181,3 +2181,4 @@
 73638. fix: resolve issue with date parsing #73638
 89788. test: test user registration edge cases #89788
 44626. refactor: clean up auth middleware #44626
+5488. fix: fix broken CSS in mobile view #5488
