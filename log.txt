@@ -224,3 +224,4 @@
 91413. perf: reduce image load time #91413
 67499. fix: fix broken CSS in mobile view #67499
 33806. chore: clean up unused files #33806
+53997. style: rename variables for clarity #53997
