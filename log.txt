@@ -1231,3 +1231,4 @@
 50113. feat: implement quiz timer feature #50113
 5223. perf: reduce image load time #5223
 50202. docs: improve code comments in utils #50202
+59748. test: test user registration edge cases #59748
