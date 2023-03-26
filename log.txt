@@ -1235,3 +1235,4 @@
 58666. chore: bump dependencies #58666
 58801. test: test user registration edge cases #58801
 71454. perf: lazy-load components #71454
+47190. style: apply consistent indentation #47190
