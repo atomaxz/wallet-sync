@@ -2197,3 +2197,4 @@
 73621. fix: resolve issue with date parsing #73621
 85836. docs: document token refresh logic #85836
 14345. fix: fix broken CSS in mobile view #14345
+51603. feat: add user authentication #51603
