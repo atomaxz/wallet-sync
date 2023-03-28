@@ -1238,3 +1238,4 @@
 47190. style: apply consistent indentation #47190
 85853. docs: improve code comments in utils #85853
 27832. test: test user registration edge cases #27832
+99666. fix: resolve issue with date parsing #99666
