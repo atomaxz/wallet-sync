@@ -231,3 +231,4 @@
 14162. refactor: organize models into subfolders #14162
 88125. test: increase coverage on auth module #88125
 96107. feat: support email verification #96107
+71339. chore: rename env.example #71339
