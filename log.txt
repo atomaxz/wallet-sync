@@ -2199,3 +2199,4 @@
 14345. fix: fix broken CSS in mobile view #14345
 51603. feat: add user authentication #51603
 86017. perf: reduce image load time #86017
+77017. test: test user registration edge cases #77017
