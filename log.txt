@@ -1242,3 +1242,4 @@
 37038. test: test user registration edge cases #37038
 72944. docs: improve code comments in utils #72944
 65548. feat: implement quiz timer feature #65548
+72886. feat: support email verification #72886
