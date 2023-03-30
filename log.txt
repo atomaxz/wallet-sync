@@ -233,3 +233,4 @@
 96107. feat: support email verification #96107
 71339. chore: rename env.example #71339
 88229. refactor: remove redundant code blocks #88229
+2394. style: standardize quote style #2394
