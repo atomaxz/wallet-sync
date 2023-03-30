@@ -234,3 +234,4 @@
 71339. chore: rename env.example #71339
 88229. refactor: remove redundant code blocks #88229
 2394. style: standardize quote style #2394
+18017. fix: fix broken CSS in mobile view #18017
