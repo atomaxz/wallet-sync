@@ -2208,3 +2208,4 @@
 9968. docs: clarify environment setup #9968
 35080. fix: resolve issue with date parsing #35080
 79784. feat: create admin dashboard #79784
+59910. feat: add user authentication #59910
