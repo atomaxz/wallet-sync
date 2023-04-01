@@ -236,3 +236,4 @@
 2394. style: standardize quote style #2394
 18017. fix: fix broken CSS in mobile view #18017
 35336. docs: add API usage examples #35336
+52429. fix: handle 500 error in quiz API #52429
