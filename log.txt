@@ -2209,3 +2209,4 @@
 35080. fix: resolve issue with date parsing #35080
 79784. feat: create admin dashboard #79784
 59910. feat: add user authentication #59910
+36929. test: test user registration edge cases #36929
