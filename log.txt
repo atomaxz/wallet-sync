@@ -2211,3 +2211,4 @@
 59910. feat: add user authentication #59910
 36929. test: test user registration edge cases #36929
 13181. refactor: refactor quiz grading logic #13181
+38300. fix: prevent crash on empty input #38300
