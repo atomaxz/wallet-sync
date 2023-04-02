@@ -1254,3 +1254,4 @@
 95896. feat: enable dark mode toggle #95896
 5095. perf: cache repeated calculations #5095
 73801. chore: update .gitignore #73801
+27500. refactor: clean up auth middleware #27500
