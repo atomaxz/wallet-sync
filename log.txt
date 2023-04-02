@@ -241,3 +241,4 @@
 61208. docs: write FAQ section #61208
 19239. refactor: split large controller into smaller functions #19239
 38017. test: increase coverage on auth module #38017
+26140. test: increase coverage on auth module #26140
