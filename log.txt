@@ -242,3 +242,4 @@
 19239. refactor: split large controller into smaller functions #19239
 38017. test: increase coverage on auth module #38017
 26140. test: increase coverage on auth module #26140
+80429. fix: fix null pointer exception on login #80429
