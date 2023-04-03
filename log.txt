@@ -245,3 +245,4 @@
 80429. fix: fix null pointer exception on login #80429
 56126. refactor: split large controller into smaller functions #56126
 20660. perf: reduce image load time #20660
+92551. fix: prevent crash on empty input #92551
