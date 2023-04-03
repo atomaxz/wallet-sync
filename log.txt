@@ -3235,3 +3235,4 @@
 56585. test: test user registration edge cases #56585
 78345. fix: prevent crash on empty input #78345
 28527. chore: add GitHub actions badge #28527
+15212. docs: update README with setup steps #15212
