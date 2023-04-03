@@ -3237,3 +3237,4 @@
 28527. chore: add GitHub actions badge #28527
 15212. docs: update README with setup steps #15212
 60104. feat: enable dark mode toggle #60104
+81842. docs: update README with setup steps #81842
