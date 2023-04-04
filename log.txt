@@ -247,3 +247,4 @@
 20660. perf: reduce image load time #20660
 92551. fix: prevent crash on empty input #92551
 18431. style: apply consistent indentation #18431
+12389. chore: bump dependencies #12389
