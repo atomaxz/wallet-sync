@@ -1261,3 +1261,4 @@
 49998. feat: create admin dashboard #49998
 95459. style: reformat files with black #95459
 68126. style: standardize quote style #68126
+65491. feat: enable dark mode toggle #65491
