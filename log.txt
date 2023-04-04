@@ -3241,3 +3241,4 @@
 25897. docs: clarify environment setup #25897
 33479. fix: resolve issue with date parsing #33479
 40969. feat: enable dark mode toggle #40969
+61729. refactor: clean up auth middleware #61729
