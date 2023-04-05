@@ -3244,3 +3244,4 @@
 61729. refactor: clean up auth middleware #61729
 72402. style: standardize quote style #72402
 41288. test: add unit test for quiz service #41288
+37373. test: add integration test for /submit endpoint #37373
