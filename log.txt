@@ -249,3 +249,4 @@
 18431. style: apply consistent indentation #18431
 12389. chore: bump dependencies #12389
 15618. docs: write FAQ section #15618
+0510. perf: lazy-load components #510
