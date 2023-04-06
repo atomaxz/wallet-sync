@@ -248,3 +248,4 @@
 92551. fix: prevent crash on empty input #92551
 18431. style: apply consistent indentation #18431
 12389. chore: bump dependencies #12389
+15618. docs: write FAQ section #15618
