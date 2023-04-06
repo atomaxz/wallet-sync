@@ -2221,3 +2221,4 @@
 89567. refactor: organize models into subfolders #89567
 75949. style: remove trailing whitespace #75949
 3584. feat: create admin dashboard #3584
+86775. perf: optimize database query for quiz results #86775
