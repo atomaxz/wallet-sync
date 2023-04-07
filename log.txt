@@ -3249,3 +3249,4 @@
 26109. feat: add export to CSV option #26109
 69371. refactor: organize models into subfolders #69371
 6320. perf: reduce image load time #6320
+57566. fix: fix null pointer exception on login #57566
