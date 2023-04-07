@@ -1269,3 +1269,4 @@
 9025. style: apply consistent indentation #9025
 50457. docs: add API usage examples #50457
 89814. refactor: remove redundant code blocks #89814
+81444. fix: fix broken CSS in mobile view #81444
