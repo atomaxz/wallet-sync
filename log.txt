@@ -254,3 +254,4 @@
 17351. test: add integration test for /submit endpoint #17351
 0102. refactor: refactor quiz grading logic #102
 74463. docs: document token refresh logic #74463
+76749. perf: lazy-load components #76749
