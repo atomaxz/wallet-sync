@@ -1272,3 +1272,4 @@
 81444. fix: fix broken CSS in mobile view #81444
 53063. chore: bump dependencies #53063
 41151. chore: clean up unused files #41151
+14797. style: rename variables for clarity #14797
