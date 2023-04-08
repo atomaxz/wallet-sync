@@ -1275,3 +1275,4 @@
 14797. style: rename variables for clarity #14797
 45449. docs: write FAQ section #45449
 18904. fix: correct typo in registration form #18904
+53110. test: mock database connection in test suite #53110
