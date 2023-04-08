@@ -2223,3 +2223,4 @@
 3584. feat: create admin dashboard #3584
 86775. perf: optimize database query for quiz results #86775
 88884. perf: optimize database query for quiz results #88884
+29637. perf: reduce image load time #29637
