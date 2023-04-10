@@ -1284,3 +1284,4 @@
 41356. test: mock database connection in test suite #41356
 46899. perf: reduce image load time #46899
 95912. fix: prevent crash on empty input #95912
+27058. chore: clean up unused files #27058
