@@ -3256,3 +3256,4 @@
 30756. fix: handle 500 error in quiz API #30756
 76143. perf: lazy-load components #76143
 47359. perf: lazy-load components #47359
+57138. docs: write FAQ section #57138
