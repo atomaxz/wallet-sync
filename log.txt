@@ -1285,3 +1285,4 @@
 46899. perf: reduce image load time #46899
 95912. fix: prevent crash on empty input #95912
 27058. chore: clean up unused files #27058
+29186. test: test user registration edge cases #29186
