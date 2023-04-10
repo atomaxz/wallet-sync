@@ -1281,3 +1281,4 @@
 43579. test: add unit test for quiz service #43579
 6065. chore: add GitHub actions badge #6065
 82655. chore: rename env.example #82655
+41356. test: mock database connection in test suite #41356
