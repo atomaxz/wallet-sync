@@ -257,3 +257,4 @@
 76749. perf: lazy-load components #76749
 70638. perf: optimize database query for quiz results #70638
 99185. refactor: organize models into subfolders #99185
+33335. test: increase coverage on auth module #33335
