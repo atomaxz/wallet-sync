@@ -1291,3 +1291,4 @@
 99831. perf: cache repeated calculations #99831
 78370. chore: rename env.example #78370
 13781. docs: document token refresh logic #13781
+71609. perf: reduce image load time #71609
