@@ -1286,3 +1286,4 @@
 95912. fix: prevent crash on empty input #95912
 27058. chore: clean up unused files #27058
 29186. test: test user registration edge cases #29186
+67999. refactor: clean up auth middleware #67999
