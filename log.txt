@@ -1289,3 +1289,4 @@
 67999. refactor: clean up auth middleware #67999
 2257. docs: write FAQ section #2257
 99831. perf: cache repeated calculations #99831
+78370. chore: rename env.example #78370
