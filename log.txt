@@ -262,3 +262,4 @@
 95584. fix: fix broken CSS in mobile view #95584
 56322. test: increase coverage on auth module #56322
 79770. chore: add GitHub actions badge #79770
+75724. test: increase coverage on auth module #75724
