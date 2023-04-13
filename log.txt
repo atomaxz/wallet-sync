@@ -2235,3 +2235,4 @@
 99232. fix: fix broken CSS in mobile view #99232
 0012. docs: update README with setup steps #12
 98239. docs: improve code comments in utils #98239
+82765. feat: support email verification #82765
