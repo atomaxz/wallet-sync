@@ -2233,3 +2233,4 @@
 9392. chore: bump dependencies #9392
 10785. docs: clarify environment setup #10785
 99232. fix: fix broken CSS in mobile view #99232
+0012. docs: update README with setup steps #12
