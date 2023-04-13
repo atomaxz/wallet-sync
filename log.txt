@@ -265,3 +265,4 @@
 75724. test: increase coverage on auth module #75724
 82738. docs: clarify environment setup #82738
 38595. style: reformat files with black #38595
+15126. test: mock database connection in test suite #15126
