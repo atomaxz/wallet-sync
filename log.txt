@@ -1298,3 +1298,4 @@
 35748. feat: add user authentication #35748
 46041. style: reformat files with black #46041
 80754. docs: clarify environment setup #80754
+70031. fix: fix broken CSS in mobile view #70031
