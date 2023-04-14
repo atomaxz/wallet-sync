@@ -2240,3 +2240,4 @@
 90553. perf: optimize database query for quiz results #90553
 66324. chore: add GitHub actions badge #66324
 35581. style: reformat files with black #35581
+20737. fix: fix null pointer exception on login #20737
