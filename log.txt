@@ -2238,3 +2238,4 @@
 82765. feat: support email verification #82765
 86769. test: mock database connection in test suite #86769
 90553. perf: optimize database query for quiz results #90553
+66324. chore: add GitHub actions badge #66324
