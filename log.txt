@@ -268,3 +268,4 @@
 15126. test: mock database connection in test suite #15126
 2739. perf: lazy-load components #2739
 32956. fix: resolve issue with date parsing #32956
+20080. feat: add export to CSV option #20080
