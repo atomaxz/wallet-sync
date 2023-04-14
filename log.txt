@@ -1294,3 +1294,4 @@
 71609. perf: reduce image load time #71609
 84149. chore: bump dependencies #84149
 64770. chore: rename env.example #64770
+63647. perf: optimize database query for quiz results #63647
