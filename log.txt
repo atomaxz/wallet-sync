@@ -1296,3 +1296,4 @@
 64770. chore: rename env.example #64770
 63647. perf: optimize database query for quiz results #63647
 35748. feat: add user authentication #35748
+46041. style: reformat files with black #46041
