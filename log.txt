@@ -270,3 +270,4 @@
 32956. fix: resolve issue with date parsing #32956
 20080. feat: add export to CSV option #20080
 47541. refactor: refactor quiz grading logic #47541
+69223. chore: add GitHub actions badge #69223
