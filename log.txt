@@ -2241,3 +2241,4 @@
 66324. chore: add GitHub actions badge #66324
 35581. style: reformat files with black #35581
 20737. fix: fix null pointer exception on login #20737
+46574. refactor: refactor quiz grading logic #46574
