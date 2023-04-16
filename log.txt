@@ -274,3 +274,4 @@
 68768. chore: rename env.example #68768
 50644. test: increase coverage on auth module #50644
 57463. feat: add export to CSV option #57463
+78995. test: increase coverage on auth module #78995
