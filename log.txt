@@ -278,3 +278,4 @@
 48894. chore: rename env.example #48894
 86075. feat: enable dark mode toggle #86075
 32076. test: increase coverage on auth module #32076
+80407. feat: support email verification #80407
