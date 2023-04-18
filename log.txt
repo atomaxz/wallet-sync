@@ -281,3 +281,4 @@
 80407. feat: support email verification #80407
 84552. refactor: clean up auth middleware #84552
 24969. test: add unit test for quiz service #24969
+58963. refactor: clean up auth middleware #58963
