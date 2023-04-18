@@ -3284,3 +3284,4 @@
 65482. fix: fix null pointer exception on login #65482
 74818. refactor: split large controller into smaller functions #74818
 91502. perf: reduce image load time #91502
+11843. feat: add export to CSV option #11843
