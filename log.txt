@@ -1311,3 +1311,4 @@
 29980. docs: add API usage examples #29980
 59220. fix: resolve issue with date parsing #59220
 30359. refactor: split large controller into smaller functions #30359
+25628. test: increase coverage on auth module #25628
