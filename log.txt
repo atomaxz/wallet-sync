@@ -284,3 +284,4 @@
 58963. refactor: clean up auth middleware #58963
 75588. docs: clarify environment setup #75588
 42025. fix: fix null pointer exception on login #42025
+74437. refactor: clean up auth middleware #74437
