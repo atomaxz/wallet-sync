@@ -1312,3 +1312,4 @@
 59220. fix: resolve issue with date parsing #59220
 30359. refactor: split large controller into smaller functions #30359
 25628. test: increase coverage on auth module #25628
+61838. docs: update README with setup steps #61838
