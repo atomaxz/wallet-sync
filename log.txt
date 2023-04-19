@@ -2250,3 +2250,4 @@
 81965. perf: reduce image load time #81965
 86610. style: reformat files with black #86610
 27136. fix: fix null pointer exception on login #27136
+33551. fix: fix broken CSS in mobile view #33551
