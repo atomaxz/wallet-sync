@@ -1313,3 +1313,4 @@
 30359. refactor: split large controller into smaller functions #30359
 25628. test: increase coverage on auth module #25628
 61838. docs: update README with setup steps #61838
+85524. fix: fix broken CSS in mobile view #85524
