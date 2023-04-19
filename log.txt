@@ -283,3 +283,4 @@
 24969. test: add unit test for quiz service #24969
 58963. refactor: clean up auth middleware #58963
 75588. docs: clarify environment setup #75588
+42025. fix: fix null pointer exception on login #42025
