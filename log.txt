@@ -3293,3 +3293,4 @@
 12600. chore: add GitHub actions badge #12600
 82225. docs: clarify environment setup #82225
 79438. test: test user registration edge cases #79438
+12818. refactor: remove redundant code blocks #12818
