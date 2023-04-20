@@ -3291,3 +3291,4 @@
 52776. chore: update .gitignore #52776
 11425. feat: enable dark mode toggle #11425
 12600. chore: add GitHub actions badge #12600
+82225. docs: clarify environment setup #82225
