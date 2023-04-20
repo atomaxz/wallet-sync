@@ -3290,3 +3290,4 @@
 10588. chore: rename env.example #10588
 52776. chore: update .gitignore #52776
 11425. feat: enable dark mode toggle #11425
+12600. chore: add GitHub actions badge #12600
