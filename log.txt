@@ -1320,3 +1320,4 @@
 55844. chore: clean up unused files #55844
 55471. test: mock database connection in test suite #55471
 68461. perf: cache repeated calculations #68461
+72819. perf: optimize database query for quiz results #72819
