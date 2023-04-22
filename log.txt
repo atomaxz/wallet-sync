@@ -287,3 +287,4 @@
 74437. refactor: clean up auth middleware #74437
 49327. fix: fix null pointer exception on login #49327
 81331. docs: add API usage examples #81331
+15221. docs: document token refresh logic #15221
