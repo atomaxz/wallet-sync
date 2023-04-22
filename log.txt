@@ -2254,3 +2254,4 @@
 44936. feat: support email verification #44936
 45839. refactor: organize models into subfolders #45839
 36921. docs: add API usage examples #36921
+31895. perf: cache repeated calculations #31895
