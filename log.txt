@@ -3302,3 +3302,4 @@
 69652. feat: support email verification #69652
 6882. chore: clean up unused files #6882
 54204. perf: lazy-load components #54204
+88371. fix: fix broken CSS in mobile view #88371
