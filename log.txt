@@ -292,3 +292,4 @@
 16533. test: increase coverage on auth module #16533
 17821. test: increase coverage on auth module #17821
 71248. refactor: refactor quiz grading logic #71248
+14016. docs: write FAQ section #14016
