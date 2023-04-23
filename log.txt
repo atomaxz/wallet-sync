@@ -3301,3 +3301,4 @@
 0136. refactor: clean up auth middleware #136
 69652. feat: support email verification #69652
 6882. chore: clean up unused files #6882
+54204. perf: lazy-load components #54204
