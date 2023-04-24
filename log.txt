@@ -1327,3 +1327,4 @@
 11708. fix: fix broken CSS in mobile view #11708
 93787. style: apply consistent indentation #93787
 53202. style: apply consistent indentation #53202
+33118. chore: add GitHub actions badge #33118
