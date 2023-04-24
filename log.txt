@@ -293,3 +293,4 @@
 17821. test: increase coverage on auth module #17821
 71248. refactor: refactor quiz grading logic #71248
 14016. docs: write FAQ section #14016
+65789. perf: lazy-load components #65789
