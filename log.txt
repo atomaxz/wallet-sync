@@ -2264,3 +2264,4 @@
 93908. fix: prevent crash on empty input #93908
 21030. feat: add export to CSV option #21030
 68075. fix: fix broken CSS in mobile view #68075
+35472. fix: correct typo in registration form #35472
