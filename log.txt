@@ -3303,3 +3303,4 @@
 6882. chore: clean up unused files #6882
 54204. perf: lazy-load components #54204
 88371. fix: fix broken CSS in mobile view #88371
+16397. perf: cache repeated calculations #16397
