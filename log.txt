@@ -2267,3 +2267,4 @@
 35472. fix: correct typo in registration form #35472
 54882. feat: enable dark mode toggle #54882
 22260. refactor: organize models into subfolders #22260
+14858. docs: update README with setup steps #14858
