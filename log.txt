@@ -2265,3 +2265,4 @@
 21030. feat: add export to CSV option #21030
 68075. fix: fix broken CSS in mobile view #68075
 35472. fix: correct typo in registration form #35472
+54882. feat: enable dark mode toggle #54882
