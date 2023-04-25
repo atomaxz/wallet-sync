@@ -3306,3 +3306,4 @@
 16397. perf: cache repeated calculations #16397
 94406. chore: update .gitignore #94406
 32006. test: add integration test for /submit endpoint #32006
+63386. refactor: clean up auth middleware #63386
