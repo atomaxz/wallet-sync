@@ -1335,3 +1335,4 @@
 41202. style: apply consistent indentation #41202
 88842. fix: handle 500 error in quiz API #88842
 3241. fix: handle 500 error in quiz API #3241
+24608. perf: optimize database query for quiz results #24608
