@@ -2268,3 +2268,4 @@
 54882. feat: enable dark mode toggle #54882
 22260. refactor: organize models into subfolders #22260
 14858. docs: update README with setup steps #14858
+22438. test: test user registration edge cases #22438
