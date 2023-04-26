@@ -1333,3 +1333,4 @@
 69324. fix: resolve issue with date parsing #69324
 79070. feat: create admin dashboard #79070
 41202. style: apply consistent indentation #41202
+88842. fix: handle 500 error in quiz API #88842
