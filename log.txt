@@ -2270,3 +2270,4 @@
 14858. docs: update README with setup steps #14858
 22438. test: test user registration edge cases #22438
 26604. feat: add export to CSV option #26604
+50227. chore: update .gitignore #50227
