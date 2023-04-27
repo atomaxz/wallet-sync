@@ -302,3 +302,4 @@
 19005. fix: handle 500 error in quiz API #19005
 57636. chore: clean up unused files #57636
 72135. style: apply consistent indentation #72135
+28638. fix: prevent crash on empty input #28638
