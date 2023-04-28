@@ -304,3 +304,4 @@
 72135. style: apply consistent indentation #72135
 28638. fix: prevent crash on empty input #28638
 34081. refactor: organize models into subfolders #34081
+71725. perf: lazy-load components #71725
