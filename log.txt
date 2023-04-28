@@ -1342,3 +1342,4 @@
 75777. style: remove trailing whitespace #75777
 30423. style: remove trailing whitespace #30423
 87377. style: apply consistent indentation #87377
+98298. docs: update README with setup steps #98298
