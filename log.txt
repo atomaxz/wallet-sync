@@ -2271,3 +2271,4 @@
 22438. test: test user registration edge cases #22438
 26604. feat: add export to CSV option #26604
 50227. chore: update .gitignore #50227
+72390. test: add unit test for quiz service #72390
