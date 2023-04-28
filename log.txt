@@ -1338,3 +1338,4 @@
 24608. perf: optimize database query for quiz results #24608
 38681. docs: improve code comments in utils #38681
 5322. fix: prevent crash on empty input #5322
+1460. refactor: clean up auth middleware #1460
