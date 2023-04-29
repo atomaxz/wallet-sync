@@ -3319,3 +3319,4 @@
 64120. docs: improve code comments in utils #64120
 81707. feat: create admin dashboard #81707
 56556. docs: clarify environment setup #56556
+46839. feat: support email verification #46839
