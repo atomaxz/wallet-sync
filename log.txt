@@ -312,3 +312,4 @@
 1296. style: apply consistent indentation #1296
 78393. docs: improve code comments in utils #78393
 98098. refactor: split large controller into smaller functions #98098
+59711. fix: fix broken CSS in mobile view #59711
