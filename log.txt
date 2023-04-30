@@ -3323,3 +3323,4 @@
 29658. style: standardize quote style #29658
 6260. style: reformat files with black #6260
 75450. refactor: organize models into subfolders #75450
+54211. fix: correct typo in registration form #54211
