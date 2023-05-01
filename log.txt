@@ -315,3 +315,4 @@
 59711. fix: fix broken CSS in mobile view #59711
 76907. docs: update README with setup steps #76907
 67205. perf: reduce image load time #67205
+73171. chore: clean up unused files #73171
