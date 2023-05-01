@@ -316,3 +316,4 @@
 76907. docs: update README with setup steps #76907
 67205. perf: reduce image load time #67205
 73171. chore: clean up unused files #73171
+40006. docs: write FAQ section #40006
