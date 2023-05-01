@@ -1348,3 +1348,4 @@
 16087. perf: lazy-load components #16087
 6414. chore: update .gitignore #6414
 94092. docs: write FAQ section #94092
+72200. feat: add user authentication #72200
