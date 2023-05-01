@@ -314,3 +314,4 @@
 98098. refactor: split large controller into smaller functions #98098
 59711. fix: fix broken CSS in mobile view #59711
 76907. docs: update README with setup steps #76907
+67205. perf: reduce image load time #67205
