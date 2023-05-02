@@ -1352,3 +1352,4 @@
 85091. chore: rename env.example #85091
 2044. fix: prevent crash on empty input #2044
 4590. test: add integration test for /submit endpoint #4590
+62600. fix: correct typo in registration form #62600
