@@ -2278,3 +2278,4 @@
 24419. fix: fix broken CSS in mobile view #24419
 52733. style: apply consistent indentation #52733
 8917. test: increase coverage on auth module #8917
+98841. refactor: split large controller into smaller functions #98841
