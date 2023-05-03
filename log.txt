@@ -1353,3 +1353,4 @@
 2044. fix: prevent crash on empty input #2044
 4590. test: add integration test for /submit endpoint #4590
 62600. fix: correct typo in registration form #62600
+33422. feat: enable dark mode toggle #33422
