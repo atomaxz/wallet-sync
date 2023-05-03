@@ -3328,3 +3328,4 @@
 80801. fix: correct typo in registration form #80801
 84504. docs: write FAQ section #84504
 7793. style: standardize quote style #7793
+26351. feat: add user authentication #26351
