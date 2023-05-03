@@ -2287,3 +2287,4 @@
 26987. feat: create admin dashboard #26987
 53989. style: standardize quote style #53989
 1035. feat: add user authentication #1035
+21039. refactor: clean up auth middleware #21039
