@@ -320,3 +320,4 @@
 99555. perf: optimize database query for quiz results #99555
 21059. chore: bump dependencies #21059
 19756. test: add unit test for quiz service #19756
+24919. perf: lazy-load components #24919
