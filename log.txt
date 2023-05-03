@@ -321,3 +321,4 @@
 21059. chore: bump dependencies #21059
 19756. test: add unit test for quiz service #19756
 24919. perf: lazy-load components #24919
+39345. refactor: split large controller into smaller functions #39345
