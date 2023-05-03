@@ -318,3 +318,4 @@
 73171. chore: clean up unused files #73171
 40006. docs: write FAQ section #40006
 99555. perf: optimize database query for quiz results #99555
+21059. chore: bump dependencies #21059
