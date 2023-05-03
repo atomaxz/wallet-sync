@@ -2286,3 +2286,4 @@
 4672. chore: rename env.example #4672
 26987. feat: create admin dashboard #26987
 53989. style: standardize quote style #53989
+1035. feat: add user authentication #1035
