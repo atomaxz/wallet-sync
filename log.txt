@@ -324,3 +324,4 @@
 39345. refactor: split large controller into smaller functions #39345
 17459. refactor: organize models into subfolders #17459
 19455. feat: add user authentication #19455
+77506. feat: add user authentication #77506
