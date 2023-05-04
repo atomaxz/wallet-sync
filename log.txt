@@ -323,3 +323,4 @@
 24919. perf: lazy-load components #24919
 39345. refactor: split large controller into smaller functions #39345
 17459. refactor: organize models into subfolders #17459
+19455. feat: add user authentication #19455
