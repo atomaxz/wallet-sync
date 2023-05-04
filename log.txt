@@ -3334,3 +3334,4 @@
 29872. test: test user registration edge cases #29872
 7771. docs: clarify environment setup #7771
 7531. feat: add user authentication #7531
+94294. fix: fix broken CSS in mobile view #94294
