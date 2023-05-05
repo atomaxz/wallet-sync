@@ -3338,3 +3338,4 @@
 94868. style: reformat files with black #94868
 89618. docs: clarify environment setup #89618
 5714. style: reformat files with black #5714
+10753. refactor: organize models into subfolders #10753
