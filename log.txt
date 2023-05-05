@@ -3337,3 +3337,4 @@
 94294. fix: fix broken CSS in mobile view #94294
 94868. style: reformat files with black #94868
 89618. docs: clarify environment setup #89618
+5714. style: reformat files with black #5714
