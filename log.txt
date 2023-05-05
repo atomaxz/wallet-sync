@@ -1359,3 +1359,4 @@
 14267. refactor: organize models into subfolders #14267
 81271. feat: add export to CSV option #81271
 27575. docs: update README with setup steps #27575
+43024. fix: resolve issue with date parsing #43024
