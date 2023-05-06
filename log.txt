@@ -327,3 +327,4 @@
 77506. feat: add user authentication #77506
 13445. chore: bump dependencies #13445
 25990. chore: update .gitignore #25990
+54422. test: mock database connection in test suite #54422
