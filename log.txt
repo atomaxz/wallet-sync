@@ -1362,3 +1362,4 @@
 43024. fix: resolve issue with date parsing #43024
 11877. fix: resolve issue with date parsing #11877
 35788. perf: lazy-load components #35788
+87711. fix: correct typo in registration form #87711
