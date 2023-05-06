@@ -2296,3 +2296,4 @@
 55405. feat: implement quiz timer feature #55405
 1621. refactor: clean up auth middleware #1621
 76476. refactor: refactor quiz grading logic #76476
+97805. perf: reduce image load time #97805
