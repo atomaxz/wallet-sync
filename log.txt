@@ -1361,3 +1361,4 @@
 27575. docs: update README with setup steps #27575
 43024. fix: resolve issue with date parsing #43024
 11877. fix: resolve issue with date parsing #11877
+35788. perf: lazy-load components #35788
