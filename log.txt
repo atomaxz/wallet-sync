@@ -2298,3 +2298,4 @@
 76476. refactor: refactor quiz grading logic #76476
 97805. perf: reduce image load time #97805
 86137. docs: write FAQ section #86137
+62887. refactor: organize models into subfolders #62887
