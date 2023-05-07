@@ -1364,3 +1364,4 @@
 35788. perf: lazy-load components #35788
 87711. fix: correct typo in registration form #87711
 84273. test: test user registration edge cases #84273
+71479. docs: clarify environment setup #71479
