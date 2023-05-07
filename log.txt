@@ -330,3 +330,4 @@
 54422. test: mock database connection in test suite #54422
 56129. style: reformat files with black #56129
 83471. chore: clean up unused files #83471
+44669. fix: fix null pointer exception on login #44669
