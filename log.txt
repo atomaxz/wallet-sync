@@ -1365,3 +1365,4 @@
 87711. fix: correct typo in registration form #87711
 84273. test: test user registration edge cases #84273
 71479. docs: clarify environment setup #71479
+54972. fix: fix broken CSS in mobile view #54972
