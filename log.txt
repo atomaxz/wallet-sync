@@ -3344,3 +3344,4 @@
 23934. docs: clarify environment setup #23934
 75347. feat: create admin dashboard #75347
 61380. refactor: split large controller into smaller functions #61380
+44267. fix: handle 500 error in quiz API #44267
