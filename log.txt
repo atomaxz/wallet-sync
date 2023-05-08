@@ -1367,3 +1367,4 @@
 71479. docs: clarify environment setup #71479
 54972. fix: fix broken CSS in mobile view #54972
 34239. perf: reduce image load time #34239
+86318. perf: reduce image load time #86318
