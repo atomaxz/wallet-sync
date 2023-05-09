@@ -1369,3 +1369,4 @@
 34239. perf: reduce image load time #34239
 86318. perf: reduce image load time #86318
 16312. chore: clean up unused files #16312
+64138. test: test user registration edge cases #64138
