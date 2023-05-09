@@ -2306,3 +2306,4 @@
 60196. refactor: split large controller into smaller functions #60196
 56224. chore: clean up unused files #56224
 12475. docs: document token refresh logic #12475
+76343. test: add integration test for /submit endpoint #76343
