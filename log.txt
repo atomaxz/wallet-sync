@@ -340,3 +340,4 @@
 83732. feat: implement quiz timer feature #83732
 38124. chore: update .gitignore #38124
 47558. chore: bump dependencies #47558
+95688. test: mock database connection in test suite #95688
