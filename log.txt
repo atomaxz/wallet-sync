@@ -3350,3 +3350,4 @@
 77455. fix: handle 500 error in quiz API #77455
 8134. refactor: organize models into subfolders #8134
 26304. test: add integration test for /submit endpoint #26304
+19280. style: reformat files with black #19280
