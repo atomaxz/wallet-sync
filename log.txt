@@ -3352,3 +3352,4 @@
 26304. test: add integration test for /submit endpoint #26304
 19280. style: reformat files with black #19280
 75338. perf: reduce image load time #75338
+12197. perf: cache repeated calculations #12197
