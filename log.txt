@@ -342,3 +342,4 @@
 47558. chore: bump dependencies #47558
 95688. test: mock database connection in test suite #95688
 38343. docs: improve code comments in utils #38343
+49539. feat: add export to CSV option #49539
