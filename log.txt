@@ -344,3 +344,4 @@
 38343. docs: improve code comments in utils #38343
 49539. feat: add export to CSV option #49539
 35454. refactor: refactor quiz grading logic #35454
+7083. test: test user registration edge cases #7083
