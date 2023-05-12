@@ -3355,3 +3355,4 @@
 12197. perf: cache repeated calculations #12197
 66138. refactor: split large controller into smaller functions #66138
 12471. perf: optimize database query for quiz results #12471
+48872. refactor: clean up auth middleware #48872
