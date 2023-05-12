@@ -346,3 +346,4 @@
 35454. refactor: refactor quiz grading logic #35454
 7083. test: test user registration edge cases #7083
 55095. feat: add export to CSV option #55095
+80504. perf: reduce image load time #80504
