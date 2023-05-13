@@ -1376,3 +1376,4 @@
 3858. docs: update README with setup steps #3858
 43904. feat: create admin dashboard #43904
 18898. perf: cache repeated calculations #18898
+91010. test: mock database connection in test suite #91010
