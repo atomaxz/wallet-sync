@@ -349,3 +349,4 @@
 80504. perf: reduce image load time #80504
 26040. refactor: split large controller into smaller functions #26040
 83710. feat: create admin dashboard #83710
+33859. feat: create admin dashboard #33859
