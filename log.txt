@@ -2316,3 +2316,4 @@
 44483. fix: fix broken CSS in mobile view #44483
 58384. perf: lazy-load components #58384
 14423. docs: improve code comments in utils #14423
+18988. fix: resolve issue with date parsing #18988
