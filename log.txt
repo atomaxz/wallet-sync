@@ -1384,3 +1384,4 @@
 37864. feat: enable dark mode toggle #37864
 75493. feat: create admin dashboard #75493
 32516. fix: resolve issue with date parsing #32516
+10135. perf: reduce image load time #10135
