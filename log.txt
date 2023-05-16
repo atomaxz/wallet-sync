@@ -1387,3 +1387,4 @@
 10135. perf: reduce image load time #10135
 85065. fix: fix null pointer exception on login #85065
 19748. feat: implement quiz timer feature #19748
+50782. fix: handle 500 error in quiz API #50782
