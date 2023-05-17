@@ -2327,3 +2327,4 @@
 25589. fix: correct typo in registration form #25589
 70066. refactor: remove redundant code blocks #70066
 68586. perf: optimize database query for quiz results #68586
+11191. chore: rename env.example #11191
