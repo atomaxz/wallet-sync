@@ -1392,3 +1392,4 @@
 62892. style: standardize quote style #62892
 82231. feat: add user authentication #82231
 2105. docs: add API usage examples #2105
+6573. fix: fix null pointer exception on login #6573
