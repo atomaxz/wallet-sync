@@ -354,3 +354,4 @@
 72552. feat: add export to CSV option #72552
 47725. chore: update .gitignore #47725
 6507. fix: handle 500 error in quiz API #6507
+33293. style: remove trailing whitespace #33293
