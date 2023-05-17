@@ -2326,3 +2326,4 @@
 14173. style: remove trailing whitespace #14173
 25589. fix: correct typo in registration form #25589
 70066. refactor: remove redundant code blocks #70066
+68586. perf: optimize database query for quiz results #68586
