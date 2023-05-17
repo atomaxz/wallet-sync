@@ -1390,3 +1390,4 @@
 50782. fix: handle 500 error in quiz API #50782
 69240. refactor: refactor quiz grading logic #69240
 62892. style: standardize quote style #62892
+82231. feat: add user authentication #82231
