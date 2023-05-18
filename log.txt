@@ -1395,3 +1395,4 @@
 6573. fix: fix null pointer exception on login #6573
 91231. feat: enable dark mode toggle #91231
 20306. feat: create admin dashboard #20306
+25972. chore: bump dependencies #25972
