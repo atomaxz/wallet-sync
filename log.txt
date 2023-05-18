@@ -2330,3 +2330,4 @@
 11191. chore: rename env.example #11191
 64838. test: increase coverage on auth module #64838
 93063. test: test user registration edge cases #93063
+98430. perf: reduce image load time #98430
