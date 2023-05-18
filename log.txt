@@ -359,3 +359,4 @@
 95592. refactor: clean up auth middleware #95592
 71286. test: add unit test for quiz service #71286
 20192. style: remove trailing whitespace #20192
+97975. feat: enable dark mode toggle #97975
