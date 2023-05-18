@@ -2333,3 +2333,4 @@
 98430. perf: reduce image load time #98430
 43318. test: mock database connection in test suite #43318
 99820. test: add unit test for quiz service #99820
+20445. test: test user registration edge cases #20445
