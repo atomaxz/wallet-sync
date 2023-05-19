@@ -2335,3 +2335,4 @@
 99820. test: add unit test for quiz service #99820
 20445. test: test user registration edge cases #20445
 37755. feat: add user authentication #37755
+50753. fix: correct typo in registration form #50753
