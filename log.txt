@@ -2339,3 +2339,4 @@
 93669. feat: add user authentication #93669
 16329. docs: add API usage examples #16329
 86756. refactor: clean up auth middleware #86756
+20259. fix: fix broken CSS in mobile view #20259
