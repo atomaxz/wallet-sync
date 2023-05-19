@@ -1397,3 +1397,4 @@
 20306. feat: create admin dashboard #20306
 25972. chore: bump dependencies #25972
 28891. test: add unit test for quiz service #28891
+82015. feat: add user authentication #82015
