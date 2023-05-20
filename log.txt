@@ -1399,3 +1399,4 @@
 28891. test: add unit test for quiz service #28891
 82015. feat: add user authentication #82015
 13262. test: increase coverage on auth module #13262
+36875. perf: optimize database query for quiz results #36875
