@@ -1403,3 +1403,4 @@
 92371. feat: create admin dashboard #92371
 1917. docs: add API usage examples #1917
 31072. perf: lazy-load components #31072
+36257. test: mock database connection in test suite #36257
