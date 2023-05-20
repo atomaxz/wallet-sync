@@ -1402,3 +1402,4 @@
 36875. perf: optimize database query for quiz results #36875
 92371. feat: create admin dashboard #92371
 1917. docs: add API usage examples #1917
+31072. perf: lazy-load components #31072
