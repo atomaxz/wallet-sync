@@ -364,3 +364,4 @@
 67008. feat: enable dark mode toggle #67008
 17189. perf: cache repeated calculations #17189
 93702. perf: cache repeated calculations #93702
+21280. docs: write FAQ section #21280
