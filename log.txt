@@ -362,3 +362,4 @@
 97975. feat: enable dark mode toggle #97975
 43296. chore: rename env.example #43296
 67008. feat: enable dark mode toggle #67008
+17189. perf: cache repeated calculations #17189
