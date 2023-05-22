@@ -3379,3 +3379,4 @@
 23642. test: add integration test for /submit endpoint #23642
 58654. feat: add user authentication #58654
 28366. perf: optimize database query for quiz results #28366
+11876. feat: support email verification #11876
