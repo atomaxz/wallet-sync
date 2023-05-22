@@ -2350,3 +2350,4 @@
 9588. style: reformat files with black #9588
 26118. chore: update .gitignore #26118
 31377. style: remove trailing whitespace #31377
+33781. feat: create admin dashboard #33781
