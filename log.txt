@@ -3380,3 +3380,4 @@
 58654. feat: add user authentication #58654
 28366. perf: optimize database query for quiz results #28366
 11876. feat: support email verification #11876
+26147. docs: write FAQ section #26147
