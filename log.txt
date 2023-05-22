@@ -367,3 +367,4 @@
 21280. docs: write FAQ section #21280
 5383. chore: rename env.example #5383
 95084. feat: add export to CSV option #95084
+44353. perf: lazy-load components #44353
