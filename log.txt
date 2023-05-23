@@ -1411,3 +1411,4 @@
 68275. test: increase coverage on auth module #68275
 69222. fix: handle 500 error in quiz API #69222
 39775. refactor: clean up auth middleware #39775
+37475. feat: support email verification #37475
