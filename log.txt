@@ -3381,3 +3381,4 @@
 28366. perf: optimize database query for quiz results #28366
 11876. feat: support email verification #11876
 26147. docs: write FAQ section #26147
+12055. test: mock database connection in test suite #12055
