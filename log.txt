@@ -1412,3 +1412,4 @@
 69222. fix: handle 500 error in quiz API #69222
 39775. refactor: clean up auth middleware #39775
 37475. feat: support email verification #37475
+66566. docs: document token refresh logic #66566
