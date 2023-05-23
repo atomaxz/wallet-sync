@@ -372,3 +372,4 @@
 99265. refactor: remove redundant code blocks #99265
 61367. perf: lazy-load components #61367
 63525. perf: lazy-load components #63525
+45030. perf: lazy-load components #45030
