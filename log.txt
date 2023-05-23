@@ -3382,3 +3382,4 @@
 11876. feat: support email verification #11876
 26147. docs: write FAQ section #26147
 12055. test: mock database connection in test suite #12055
+0624. fix: handle 500 error in quiz API #624
