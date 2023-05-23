@@ -373,3 +373,4 @@
 61367. perf: lazy-load components #61367
 63525. perf: lazy-load components #63525
 45030. perf: lazy-load components #45030
+71827. perf: reduce image load time #71827
