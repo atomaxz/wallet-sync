@@ -3386,3 +3386,4 @@
 6030. fix: correct typo in registration form #6030
 33632. perf: reduce image load time #33632
 19023. chore: bump dependencies #19023
+21382. refactor: clean up auth middleware #21382
