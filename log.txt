@@ -378,3 +378,4 @@
 40529. fix: correct typo in registration form #40529
 36040. test: increase coverage on auth module #36040
 83450. test: mock database connection in test suite #83450
+26584. test: add unit test for quiz service #26584
