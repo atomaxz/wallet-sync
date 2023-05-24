@@ -1413,3 +1413,4 @@
 39775. refactor: clean up auth middleware #39775
 37475. feat: support email verification #37475
 66566. docs: document token refresh logic #66566
+8713. feat: implement quiz timer feature #8713
