@@ -3388,3 +3388,4 @@
 19023. chore: bump dependencies #19023
 21382. refactor: clean up auth middleware #21382
 51457. refactor: split large controller into smaller functions #51457
+87092. fix: handle 500 error in quiz API #87092
