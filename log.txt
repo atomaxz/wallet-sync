@@ -380,3 +380,4 @@
 83450. test: mock database connection in test suite #83450
 26584. test: add unit test for quiz service #26584
 10034. chore: clean up unused files #10034
+84748. perf: cache repeated calculations #84748
