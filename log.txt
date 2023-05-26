@@ -1419,3 +1419,4 @@
 17889. chore: update .gitignore #17889
 49369. feat: add export to CSV option #49369
 59483. refactor: split large controller into smaller functions #59483
+16513. perf: optimize database query for quiz results #16513
