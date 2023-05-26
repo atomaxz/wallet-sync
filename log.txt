@@ -382,3 +382,4 @@
 10034. chore: clean up unused files #10034
 84748. perf: cache repeated calculations #84748
 39244. fix: correct typo in registration form #39244
+29721. chore: update .gitignore #29721
