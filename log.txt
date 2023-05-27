@@ -2358,3 +2358,4 @@
 51219. refactor: clean up auth middleware #51219
 99671. feat: support email verification #99671
 9499. feat: implement quiz timer feature #9499
+83354. perf: lazy-load components #83354
