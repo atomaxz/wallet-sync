@@ -3395,3 +3395,4 @@
 96933. test: add integration test for /submit endpoint #96933
 2034. docs: write FAQ section #2034
 12100. feat: enable dark mode toggle #12100
+40496. fix: correct typo in registration form #40496
