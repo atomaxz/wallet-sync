@@ -3397,3 +3397,4 @@
 12100. feat: enable dark mode toggle #12100
 40496. fix: correct typo in registration form #40496
 88765. chore: bump dependencies #88765
+67019. fix: prevent crash on empty input #67019
