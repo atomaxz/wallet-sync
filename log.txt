@@ -2361,3 +2361,4 @@
 83354. perf: lazy-load components #83354
 93784. fix: resolve issue with date parsing #93784
 96615. docs: improve code comments in utils #96615
+90131. perf: optimize database query for quiz results #90131
