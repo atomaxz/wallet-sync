@@ -389,3 +389,4 @@
 92565. chore: add GitHub actions badge #92565
 75175. chore: add GitHub actions badge #75175
 81780. perf: optimize database query for quiz results #81780
+85011. fix: prevent crash on empty input #85011
