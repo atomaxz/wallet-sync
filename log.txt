@@ -3403,3 +3403,4 @@
 79586. feat: support email verification #79586
 39071. refactor: organize models into subfolders #39071
 10121. style: apply consistent indentation #10121
+49502. refactor: clean up auth middleware #49502
