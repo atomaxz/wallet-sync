@@ -3404,3 +3404,4 @@
 39071. refactor: organize models into subfolders #39071
 10121. style: apply consistent indentation #10121
 49502. refactor: clean up auth middleware #49502
+94832. fix: prevent crash on empty input #94832
