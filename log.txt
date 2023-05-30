@@ -2364,3 +2364,4 @@
 90131. perf: optimize database query for quiz results #90131
 17150. feat: implement quiz timer feature #17150
 0940. feat: implement quiz timer feature #940
+35218. test: add integration test for /submit endpoint #35218
