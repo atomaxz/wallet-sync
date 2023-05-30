@@ -2367,3 +2367,4 @@
 35218. test: add integration test for /submit endpoint #35218
 81968. fix: correct typo in registration form #81968
 73730. feat: implement quiz timer feature #73730
+91098. feat: support email verification #91098
