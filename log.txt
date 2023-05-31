@@ -397,3 +397,4 @@
 94407. refactor: remove redundant code blocks #94407
 47012. style: apply consistent indentation #47012
 10764. refactor: remove redundant code blocks #10764
+8167. perf: reduce image load time #8167
