@@ -396,3 +396,4 @@
 97499. fix: handle 500 error in quiz API #97499
 94407. refactor: remove redundant code blocks #94407
 47012. style: apply consistent indentation #47012
+10764. refactor: remove redundant code blocks #10764
