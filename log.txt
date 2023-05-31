@@ -3411,3 +3411,4 @@
 20817. perf: optimize database query for quiz results #20817
 6427. perf: optimize database query for quiz results #6427
 23727. chore: add GitHub actions badge #23727
+17234. refactor: refactor quiz grading logic #17234
