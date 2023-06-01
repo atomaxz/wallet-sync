@@ -2376,3 +2376,4 @@
 48570. refactor: clean up auth middleware #48570
 79979. chore: clean up unused files #79979
 15319. feat: create admin dashboard #15319
+51493. fix: prevent crash on empty input #51493
