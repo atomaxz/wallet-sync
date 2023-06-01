@@ -1432,3 +1432,4 @@
 71373. refactor: organize models into subfolders #71373
 73837. style: rename variables for clarity #73837
 7403. style: remove trailing whitespace #7403
+12263. fix: prevent crash on empty input #12263
