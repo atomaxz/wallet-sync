@@ -399,3 +399,4 @@
 10764. refactor: remove redundant code blocks #10764
 8167. perf: reduce image load time #8167
 6666. chore: update .gitignore #6666
+23198. style: standardize quote style #23198
