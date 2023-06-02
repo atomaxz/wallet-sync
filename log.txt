@@ -1439,3 +1439,4 @@
 79688. perf: cache repeated calculations #79688
 85836. docs: document token refresh logic #85836
 67902. chore: bump dependencies #67902
+72743. feat: enable dark mode toggle #72743
