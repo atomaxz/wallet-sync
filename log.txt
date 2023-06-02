@@ -1442,3 +1442,4 @@
 72743. feat: enable dark mode toggle #72743
 93210. style: remove trailing whitespace #93210
 8376. chore: bump dependencies #8376
+97586. fix: correct typo in registration form #97586
