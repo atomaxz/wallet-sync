@@ -404,3 +404,4 @@
 4805. chore: clean up unused files #4805
 77838. chore: bump dependencies #77838
 99932. chore: add GitHub actions badge #99932
+49992. feat: create admin dashboard #49992
