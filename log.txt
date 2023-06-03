@@ -1444,3 +1444,4 @@
 8376. chore: bump dependencies #8376
 97586. fix: correct typo in registration form #97586
 48664. docs: update README with setup steps #48664
+7921. chore: add GitHub actions badge #7921
