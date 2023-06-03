@@ -2385,3 +2385,4 @@
 1632. chore: clean up unused files #1632
 94095. docs: clarify environment setup #94095
 51622. fix: correct typo in registration form #51622
+41237. fix: fix null pointer exception on login #41237
