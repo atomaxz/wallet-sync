@@ -3413,3 +3413,4 @@
 23727. chore: add GitHub actions badge #23727
 17234. refactor: refactor quiz grading logic #17234
 54455. test: mock database connection in test suite #54455
+45483. feat: create admin dashboard #45483
