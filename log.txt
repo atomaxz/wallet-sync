@@ -2384,3 +2384,4 @@
 78664. test: mock database connection in test suite #78664
 1632. chore: clean up unused files #1632
 94095. docs: clarify environment setup #94095
+51622. fix: correct typo in registration form #51622
