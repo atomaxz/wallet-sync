@@ -407,3 +407,4 @@
 49992. feat: create admin dashboard #49992
 78940. perf: cache repeated calculations #78940
 2856. fix: fix null pointer exception on login #2856
+7308. refactor: clean up auth middleware #7308
