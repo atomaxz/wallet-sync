@@ -1445,3 +1445,4 @@
 97586. fix: correct typo in registration form #97586
 48664. docs: update README with setup steps #48664
 7921. chore: add GitHub actions badge #7921
+32287. perf: reduce image load time #32287
