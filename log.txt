@@ -3421,3 +3421,4 @@
 50903. perf: reduce image load time #50903
 63823. perf: lazy-load components #63823
 31084. fix: fix null pointer exception on login #31084
+5452. perf: reduce image load time #5452
