@@ -2388,3 +2388,4 @@
 41237. fix: fix null pointer exception on login #41237
 43292. refactor: clean up auth middleware #43292
 37440. perf: optimize database query for quiz results #37440
+7323. fix: fix broken CSS in mobile view #7323
