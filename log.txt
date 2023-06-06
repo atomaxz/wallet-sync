@@ -3426,3 +3426,4 @@
 3054. feat: add user authentication #3054
 42323. refactor: remove redundant code blocks #42323
 81984. refactor: remove redundant code blocks #81984
+83627. chore: add GitHub actions badge #83627
