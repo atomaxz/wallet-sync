@@ -1449,3 +1449,4 @@
 52411. docs: update README with setup steps #52411
 19566. fix: handle 500 error in quiz API #19566
 31735. docs: document token refresh logic #31735
+39967. chore: rename env.example #39967
