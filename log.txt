@@ -2397,3 +2397,4 @@
 57015. refactor: refactor quiz grading logic #57015
 20711. refactor: clean up auth middleware #20711
 64941. perf: lazy-load components #64941
+70480. test: add integration test for /submit endpoint #70480
