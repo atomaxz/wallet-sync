@@ -2394,3 +2394,4 @@
 26819. test: add integration test for /submit endpoint #26819
 66463. docs: clarify environment setup #66463
 84571. perf: optimize database query for quiz results #84571
+57015. refactor: refactor quiz grading logic #57015
