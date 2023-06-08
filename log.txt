@@ -1456,3 +1456,4 @@
 59602. feat: add export to CSV option #59602
 44275. test: add unit test for quiz service #44275
 98753. docs: add API usage examples #98753
+56334. feat: enable dark mode toggle #56334
