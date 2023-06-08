@@ -3432,3 +3432,4 @@
 93206. test: add integration test for /submit endpoint #93206
 19504. fix: handle 500 error in quiz API #19504
 87050. test: add integration test for /submit endpoint #87050
+34319. feat: enable dark mode toggle #34319
