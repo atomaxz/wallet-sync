@@ -2400,3 +2400,4 @@
 70480. test: add integration test for /submit endpoint #70480
 61187. perf: lazy-load components #61187
 77663. feat: support email verification #77663
+93864. fix: fix null pointer exception on login #93864
