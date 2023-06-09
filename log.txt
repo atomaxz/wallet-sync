@@ -1461,3 +1461,4 @@
 26738. refactor: split large controller into smaller functions #26738
 98950. perf: optimize database query for quiz results #98950
 90155. perf: cache repeated calculations #90155
+47206. fix: prevent crash on empty input #47206
