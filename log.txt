@@ -2403,3 +2403,4 @@
 93864. fix: fix null pointer exception on login #93864
 67886. test: test user registration edge cases #67886
 11000. chore: rename env.example #11000
+97280. test: add integration test for /submit endpoint #97280
