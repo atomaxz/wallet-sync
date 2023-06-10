@@ -1466,3 +1466,4 @@
 32320. perf: lazy-load components #32320
 44732. docs: clarify environment setup #44732
 48660. docs: update README with setup steps #48660
+10834. test: test user registration edge cases #10834
