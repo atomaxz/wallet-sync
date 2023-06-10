@@ -425,3 +425,4 @@
 67922. docs: document token refresh logic #67922
 37192. style: standardize quote style #37192
 47567. chore: add GitHub actions badge #47567
+75700. perf: cache repeated calculations #75700
