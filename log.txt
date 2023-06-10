@@ -1463,3 +1463,4 @@
 90155. perf: cache repeated calculations #90155
 47206. fix: prevent crash on empty input #47206
 53012. fix: handle 500 error in quiz API #53012
+32320. perf: lazy-load components #32320
