@@ -426,3 +426,4 @@
 37192. style: standardize quote style #37192
 47567. chore: add GitHub actions badge #47567
 75700. perf: cache repeated calculations #75700
+59459. docs: update README with setup steps #59459
