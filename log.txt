@@ -424,3 +424,4 @@
 58065. refactor: organize models into subfolders #58065
 67922. docs: document token refresh logic #67922
 37192. style: standardize quote style #37192
+47567. chore: add GitHub actions badge #47567
