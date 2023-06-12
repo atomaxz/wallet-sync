@@ -428,3 +428,4 @@
 75700. perf: cache repeated calculations #75700
 59459. docs: update README with setup steps #59459
 1490. chore: bump dependencies #1490
+36777. chore: add GitHub actions badge #36777
