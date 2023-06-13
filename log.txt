@@ -1471,3 +1471,4 @@
 60087. style: standardize quote style #60087
 71956. chore: add GitHub actions badge #71956
 0073. chore: update .gitignore #73
+8514. perf: lazy-load components #8514
