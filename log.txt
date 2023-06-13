@@ -2410,3 +2410,4 @@
 84451. perf: reduce image load time #84451
 45656. docs: update README with setup steps #45656
 67986. style: rename variables for clarity #67986
+26309. test: test user registration edge cases #26309
