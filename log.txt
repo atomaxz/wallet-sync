@@ -429,3 +429,4 @@
 59459. docs: update README with setup steps #59459
 1490. chore: bump dependencies #1490
 36777. chore: add GitHub actions badge #36777
+41783. refactor: clean up auth middleware #41783
