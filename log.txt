@@ -2415,3 +2415,4 @@
 31378. docs: clarify environment setup #31378
 88211. fix: correct typo in registration form #88211
 13516. chore: rename env.example #13516
+75039. style: rename variables for clarity #75039
