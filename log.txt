@@ -2412,3 +2412,4 @@
 67986. style: rename variables for clarity #67986
 26309. test: test user registration edge cases #26309
 37841. chore: rename env.example #37841
+31378. docs: clarify environment setup #31378
