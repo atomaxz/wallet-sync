@@ -2413,3 +2413,4 @@
 26309. test: test user registration edge cases #26309
 37841. chore: rename env.example #37841
 31378. docs: clarify environment setup #31378
+88211. fix: correct typo in registration form #88211
