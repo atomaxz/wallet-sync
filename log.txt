@@ -2417,3 +2417,4 @@
 13516. chore: rename env.example #13516
 75039. style: rename variables for clarity #75039
 67720. test: increase coverage on auth module #67720
+17424. test: add unit test for quiz service #17424
