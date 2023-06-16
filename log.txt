@@ -2419,3 +2419,4 @@
 67720. test: increase coverage on auth module #67720
 17424. test: add unit test for quiz service #17424
 83215. chore: bump dependencies #83215
+42404. docs: update README with setup steps #42404
