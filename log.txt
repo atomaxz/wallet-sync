@@ -437,3 +437,4 @@
 44615. chore: bump dependencies #44615
 51729. docs: write FAQ section #51729
 57760. chore: clean up unused files #57760
+55298. fix: prevent crash on empty input #55298
