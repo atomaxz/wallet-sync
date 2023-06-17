@@ -441,3 +441,4 @@
 73482. chore: update .gitignore #73482
 14708. style: standardize quote style #14708
 78052. refactor: clean up auth middleware #78052
+41076. perf: lazy-load components #41076
