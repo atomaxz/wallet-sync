@@ -1482,3 +1482,4 @@
 81341. style: apply consistent indentation #81341
 80914. perf: optimize database query for quiz results #80914
 55532. docs: clarify environment setup #55532
+71535. chore: update .gitignore #71535
