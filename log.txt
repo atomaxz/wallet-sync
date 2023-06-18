@@ -1484,3 +1484,4 @@
 55532. docs: clarify environment setup #55532
 71535. chore: update .gitignore #71535
 32430. perf: reduce image load time #32430
+14530. refactor: organize models into subfolders #14530
