@@ -1483,3 +1483,4 @@
 80914. perf: optimize database query for quiz results #80914
 55532. docs: clarify environment setup #55532
 71535. chore: update .gitignore #71535
+32430. perf: reduce image load time #32430
