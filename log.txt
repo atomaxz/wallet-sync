@@ -3450,3 +3450,4 @@
 64007. style: rename variables for clarity #64007
 6249. chore: rename env.example #6249
 1424. perf: reduce image load time #1424
+97695. style: remove trailing whitespace #97695
