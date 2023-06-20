@@ -3451,3 +3451,4 @@
 6249. chore: rename env.example #6249
 1424. perf: reduce image load time #1424
 97695. style: remove trailing whitespace #97695
+86241. chore: bump dependencies #86241
