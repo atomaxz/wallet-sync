@@ -447,3 +447,4 @@
 60341. refactor: clean up auth middleware #60341
 96958. test: mock database connection in test suite #96958
 91026. docs: document token refresh logic #91026
+80890. fix: fix broken CSS in mobile view #80890
