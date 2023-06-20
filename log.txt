@@ -2426,3 +2426,4 @@
 44398. refactor: remove redundant code blocks #44398
 48930. chore: update .gitignore #48930
 38907. perf: lazy-load components #38907
+95950. fix: prevent crash on empty input #95950
