@@ -1487,3 +1487,4 @@
 14530. refactor: organize models into subfolders #14530
 72519. refactor: split large controller into smaller functions #72519
 49516. style: remove trailing whitespace #49516
+14003. chore: bump dependencies #14003
