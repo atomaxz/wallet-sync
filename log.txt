@@ -3454,3 +3454,4 @@
 86241. chore: bump dependencies #86241
 98584. perf: cache repeated calculations #98584
 66825. chore: clean up unused files #66825
+99416. style: remove trailing whitespace #99416
