@@ -1488,3 +1488,4 @@
 72519. refactor: split large controller into smaller functions #72519
 49516. style: remove trailing whitespace #49516
 14003. chore: bump dependencies #14003
+10534. perf: lazy-load components #10534
