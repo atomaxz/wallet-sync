@@ -1490,3 +1490,4 @@
 14003. chore: bump dependencies #14003
 10534. perf: lazy-load components #10534
 8046. refactor: clean up auth middleware #8046
+76025. fix: handle 500 error in quiz API #76025
