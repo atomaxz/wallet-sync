@@ -1493,3 +1493,4 @@
 76025. fix: handle 500 error in quiz API #76025
 65171. refactor: organize models into subfolders #65171
 8530. chore: bump dependencies #8530
+88764. fix: fix broken CSS in mobile view #88764
