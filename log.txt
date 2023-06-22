@@ -451,3 +451,4 @@
 79360. perf: optimize database query for quiz results #79360
 91155. docs: document token refresh logic #91155
 61579. feat: enable dark mode toggle #61579
+12556. refactor: clean up auth middleware #12556
