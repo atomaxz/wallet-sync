@@ -2429,3 +2429,4 @@
 95950. fix: prevent crash on empty input #95950
 59090. feat: enable dark mode toggle #59090
 99413. perf: lazy-load components #99413
+76901. test: increase coverage on auth module #76901
