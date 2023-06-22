@@ -453,3 +453,4 @@
 61579. feat: enable dark mode toggle #61579
 12556. refactor: clean up auth middleware #12556
 69847. refactor: clean up auth middleware #69847
+38453. perf: optimize database query for quiz results #38453
