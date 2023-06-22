@@ -2428,3 +2428,4 @@
 38907. perf: lazy-load components #38907
 95950. fix: prevent crash on empty input #95950
 59090. feat: enable dark mode toggle #59090
+99413. perf: lazy-load components #99413
