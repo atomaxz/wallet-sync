@@ -2430,3 +2430,4 @@
 59090. feat: enable dark mode toggle #59090
 99413. perf: lazy-load components #99413
 76901. test: increase coverage on auth module #76901
+83870. style: remove trailing whitespace #83870
