@@ -3462,3 +3462,4 @@
 52144. docs: add API usage examples #52144
 19126. feat: enable dark mode toggle #19126
 36906. test: increase coverage on auth module #36906
+98882. refactor: clean up auth middleware #98882
