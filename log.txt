@@ -2434,3 +2434,4 @@
 74490. perf: cache repeated calculations #74490
 85076. fix: correct typo in registration form #85076
 68709. perf: cache repeated calculations #68709
+79612. fix: prevent crash on empty input #79612
