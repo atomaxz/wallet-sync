@@ -3458,3 +3458,4 @@
 87414. refactor: refactor quiz grading logic #87414
 68636. chore: clean up unused files #68636
 48703. feat: create admin dashboard #48703
+87563. test: mock database connection in test suite #87563
