@@ -1496,3 +1496,4 @@
 88764. fix: fix broken CSS in mobile view #88764
 92801. refactor: refactor quiz grading logic #92801
 90750. feat: enable dark mode toggle #90750
+36190. perf: reduce image load time #36190
