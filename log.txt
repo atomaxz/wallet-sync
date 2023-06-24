@@ -3466,3 +3466,4 @@
 70517. fix: resolve issue with date parsing #70517
 54559. feat: support email verification #54559
 66205. docs: improve code comments in utils #66205
+38947. chore: add GitHub actions badge #38947
