@@ -456,3 +456,4 @@
 38453. perf: optimize database query for quiz results #38453
 59331. feat: implement quiz timer feature #59331
 1096. chore: rename env.example #1096
+27978. fix: fix null pointer exception on login #27978
