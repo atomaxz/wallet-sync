@@ -3469,3 +3469,4 @@
 38947. chore: add GitHub actions badge #38947
 17531. test: add unit test for quiz service #17531
 3206. style: reformat files with black #3206
+41117. fix: fix broken CSS in mobile view #41117
