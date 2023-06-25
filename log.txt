@@ -459,3 +459,4 @@
 27978. fix: fix null pointer exception on login #27978
 15363. docs: update README with setup steps #15363
 1784. refactor: split large controller into smaller functions #1784
+73061. perf: lazy-load components #73061
