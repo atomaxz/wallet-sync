@@ -1499,3 +1499,4 @@
 36190. perf: reduce image load time #36190
 48563. perf: reduce image load time #48563
 23236. feat: add user authentication #23236
+91152. feat: support email verification #91152
