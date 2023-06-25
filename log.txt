@@ -464,3 +464,4 @@
 72428. feat: create admin dashboard #72428
 79394. style: reformat files with black #79394
 39199. style: standardize quote style #39199
+10080. chore: add GitHub actions badge #10080
