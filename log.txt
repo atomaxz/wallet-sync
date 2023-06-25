@@ -460,3 +460,4 @@
 15363. docs: update README with setup steps #15363
 1784. refactor: split large controller into smaller functions #1784
 73061. perf: lazy-load components #73061
+68920. chore: bump dependencies #68920
