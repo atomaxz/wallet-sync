@@ -461,3 +461,4 @@
 1784. refactor: split large controller into smaller functions #1784
 73061. perf: lazy-load components #73061
 68920. chore: bump dependencies #68920
+72428. feat: create admin dashboard #72428
