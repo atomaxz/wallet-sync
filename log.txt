@@ -458,3 +458,4 @@
 1096. chore: rename env.example #1096
 27978. fix: fix null pointer exception on login #27978
 15363. docs: update README with setup steps #15363
+1784. refactor: split large controller into smaller functions #1784
