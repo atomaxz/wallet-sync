@@ -2438,3 +2438,4 @@
 7178. perf: optimize database query for quiz results #7178
 22258. test: add unit test for quiz service #22258
 31273. test: add integration test for /submit endpoint #31273
+7602. fix: fix null pointer exception on login #7602
