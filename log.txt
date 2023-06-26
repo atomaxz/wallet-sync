@@ -2442,3 +2442,4 @@
 83255. fix: correct typo in registration form #83255
 6969. feat: enable dark mode toggle #6969
 14579. test: add integration test for /submit endpoint #14579
+41839. refactor: clean up auth middleware #41839
