@@ -2443,3 +2443,4 @@
 6969. feat: enable dark mode toggle #6969
 14579. test: add integration test for /submit endpoint #14579
 41839. refactor: clean up auth middleware #41839
+58915. test: add unit test for quiz service #58915
