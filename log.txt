@@ -3471,3 +3471,4 @@
 3206. style: reformat files with black #3206
 41117. fix: fix broken CSS in mobile view #41117
 9747. fix: fix null pointer exception on login #9747
+97899. test: test user registration edge cases #97899
