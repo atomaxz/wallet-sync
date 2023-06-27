@@ -3474,3 +3474,4 @@
 97899. test: test user registration edge cases #97899
 5698. refactor: clean up auth middleware #5698
 26342. feat: support email verification #26342
+45145. feat: add user authentication #45145
