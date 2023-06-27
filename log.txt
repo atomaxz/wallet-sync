@@ -471,3 +471,4 @@
 84532. fix: resolve issue with date parsing #84532
 73904. test: increase coverage on auth module #73904
 37344. perf: optimize database query for quiz results #37344
+95825. test: mock database connection in test suite #95825
