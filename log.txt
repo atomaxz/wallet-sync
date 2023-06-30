@@ -478,3 +478,4 @@
 92367. feat: add user authentication #92367
 4912. style: remove trailing whitespace #4912
 62134. fix: prevent crash on empty input #62134
+60042. docs: document token refresh logic #60042
