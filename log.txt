@@ -479,3 +479,4 @@
 4912. style: remove trailing whitespace #4912
 62134. fix: prevent crash on empty input #62134
 60042. docs: document token refresh logic #60042
+50712. fix: handle 500 error in quiz API #50712
