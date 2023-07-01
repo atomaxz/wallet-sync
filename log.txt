@@ -1511,3 +1511,4 @@
 21474. style: reformat files with black #21474
 74714. perf: lazy-load components #74714
 95085. test: add integration test for /submit endpoint #95085
+72575. refactor: split large controller into smaller functions #72575
