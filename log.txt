@@ -3491,3 +3491,4 @@
 93089. test: increase coverage on auth module #93089
 5747. refactor: clean up auth middleware #5747
 84024. refactor: refactor quiz grading logic #84024
+93073. style: reformat files with black #93073
