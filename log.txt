@@ -3489,3 +3489,4 @@
 58242. fix: fix null pointer exception on login #58242
 8918. style: remove trailing whitespace #8918
 93089. test: increase coverage on auth module #93089
+5747. refactor: clean up auth middleware #5747
