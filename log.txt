@@ -1514,3 +1514,4 @@
 72575. refactor: split large controller into smaller functions #72575
 88860. chore: bump dependencies #88860
 98764. style: rename variables for clarity #98764
+82183. perf: optimize database query for quiz results #82183
