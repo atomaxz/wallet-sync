@@ -2456,3 +2456,4 @@
 92215. style: apply consistent indentation #92215
 35862. test: add unit test for quiz service #35862
 12381. refactor: remove redundant code blocks #12381
+15718. chore: add GitHub actions badge #15718
