@@ -3495,3 +3495,4 @@
 55040. style: reformat files with black #55040
 23967. style: rename variables for clarity #23967
 46359. refactor: clean up auth middleware #46359
+8094. feat: create admin dashboard #8094
