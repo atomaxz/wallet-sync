@@ -1517,3 +1517,4 @@
 82183. perf: optimize database query for quiz results #82183
 82747. chore: clean up unused files #82747
 17301. fix: resolve issue with date parsing #17301
+90482. refactor: clean up auth middleware #90482
