@@ -485,3 +485,4 @@
 59768. style: standardize quote style #59768
 11066. perf: lazy-load components #11066
 98177. perf: optimize database query for quiz results #98177
+74554. fix: handle 500 error in quiz API #74554
