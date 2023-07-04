@@ -488,3 +488,4 @@
 74554. fix: handle 500 error in quiz API #74554
 62597. perf: reduce image load time #62597
 6054. style: apply consistent indentation #6054
+34130. test: add integration test for /submit endpoint #34130
