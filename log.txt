@@ -2462,3 +2462,4 @@
 77571. perf: cache repeated calculations #77571
 24851. fix: fix broken CSS in mobile view #24851
 30249. chore: add GitHub actions badge #30249
+15276. refactor: remove redundant code blocks #15276
