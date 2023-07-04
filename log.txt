@@ -1518,3 +1518,4 @@
 82747. chore: clean up unused files #82747
 17301. fix: resolve issue with date parsing #17301
 90482. refactor: clean up auth middleware #90482
+61560. feat: support email verification #61560
