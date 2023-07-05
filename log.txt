@@ -3497,3 +3497,4 @@
 46359. refactor: clean up auth middleware #46359
 8094. feat: create admin dashboard #8094
 30232. fix: correct typo in registration form #30232
+88157. fix: handle 500 error in quiz API #88157
