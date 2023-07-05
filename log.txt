@@ -1519,3 +1519,4 @@
 17301. fix: resolve issue with date parsing #17301
 90482. refactor: clean up auth middleware #90482
 61560. feat: support email verification #61560
+72541. feat: support email verification #72541
