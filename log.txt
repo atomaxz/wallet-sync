@@ -491,3 +491,4 @@
 34130. test: add integration test for /submit endpoint #34130
 55825. refactor: refactor quiz grading logic #55825
 29577. feat: enable dark mode toggle #29577
+44728. perf: reduce image load time #44728
