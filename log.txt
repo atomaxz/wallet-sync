@@ -1520,3 +1520,4 @@
 90482. refactor: clean up auth middleware #90482
 61560. feat: support email verification #61560
 72541. feat: support email verification #72541
+66397. feat: support email verification #66397
