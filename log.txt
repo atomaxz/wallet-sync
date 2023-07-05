@@ -3499,3 +3499,4 @@
 30232. fix: correct typo in registration form #30232
 88157. fix: handle 500 error in quiz API #88157
 19949. perf: cache repeated calculations #19949
+50796. test: test user registration edge cases #50796
