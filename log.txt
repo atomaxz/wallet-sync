@@ -493,3 +493,4 @@
 29577. feat: enable dark mode toggle #29577
 44728. perf: reduce image load time #44728
 77315. feat: enable dark mode toggle #77315
+24800. test: add integration test for /submit endpoint #24800
