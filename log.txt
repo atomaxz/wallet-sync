@@ -3501,3 +3501,4 @@
 19949. perf: cache repeated calculations #19949
 50796. test: test user registration edge cases #50796
 76630. refactor: remove redundant code blocks #76630
+24769. refactor: organize models into subfolders #24769
