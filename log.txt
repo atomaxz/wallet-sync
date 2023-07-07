@@ -498,3 +498,4 @@
 6225. docs: clarify environment setup #6225
 19591. docs: update README with setup steps #19591
 99618. chore: rename env.example #99618
+58119. chore: bump dependencies #58119
