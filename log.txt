@@ -3507,3 +3507,4 @@
 97708. style: remove trailing whitespace #97708
 21518. docs: write FAQ section #21518
 10411. docs: add API usage examples #10411
+67500. fix: fix null pointer exception on login #67500
