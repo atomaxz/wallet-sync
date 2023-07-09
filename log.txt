@@ -2479,3 +2479,4 @@
 57255. refactor: split large controller into smaller functions #57255
 6920. fix: prevent crash on empty input #6920
 68167. refactor: organize models into subfolders #68167
+70417. chore: add GitHub actions badge #70417
