@@ -1532,3 +1532,4 @@
 62551. perf: optimize database query for quiz results #62551
 72477. refactor: clean up auth middleware #72477
 59385. chore: rename env.example #59385
+22761. style: standardize quote style #22761
