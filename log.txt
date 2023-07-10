@@ -2483,3 +2483,4 @@
 21089. style: reformat files with black #21089
 38380. fix: fix null pointer exception on login #38380
 52975. chore: update .gitignore #52975
+90361. fix: handle 500 error in quiz API #90361
