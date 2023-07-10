@@ -2482,3 +2482,4 @@
 70417. chore: add GitHub actions badge #70417
 21089. style: reformat files with black #21089
 38380. fix: fix null pointer exception on login #38380
+52975. chore: update .gitignore #52975
