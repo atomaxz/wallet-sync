@@ -2481,3 +2481,4 @@
 68167. refactor: organize models into subfolders #68167
 70417. chore: add GitHub actions badge #70417
 21089. style: reformat files with black #21089
+38380. fix: fix null pointer exception on login #38380
