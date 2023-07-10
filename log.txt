@@ -503,3 +503,4 @@
 60850. style: remove trailing whitespace #60850
 46774. feat: create admin dashboard #46774
 53690. style: rename variables for clarity #53690
+43397. chore: add GitHub actions badge #43397
