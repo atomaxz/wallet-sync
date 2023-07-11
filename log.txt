@@ -3519,3 +3519,4 @@
 57681. perf: optimize database query for quiz results #57681
 49881. test: mock database connection in test suite #49881
 76516. fix: resolve issue with date parsing #76516
+66864. docs: document token refresh logic #66864
