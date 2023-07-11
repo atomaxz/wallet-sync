@@ -2490,3 +2490,4 @@
 59394. docs: document token refresh logic #59394
 50112. style: remove trailing whitespace #50112
 42186. style: rename variables for clarity #42186
+99400. refactor: clean up auth middleware #99400
