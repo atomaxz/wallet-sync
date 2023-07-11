@@ -507,3 +507,4 @@
 10658. chore: update .gitignore #10658
 2189. refactor: organize models into subfolders #2189
 48933. style: rename variables for clarity #48933
+90493. feat: enable dark mode toggle #90493
