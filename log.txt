@@ -3517,3 +3517,4 @@
 9806. fix: resolve issue with date parsing #9806
 45243. refactor: organize models into subfolders #45243
 57681. perf: optimize database query for quiz results #57681
+49881. test: mock database connection in test suite #49881
