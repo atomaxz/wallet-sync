@@ -511,3 +511,4 @@
 41341. fix: fix broken CSS in mobile view #41341
 86578. docs: update README with setup steps #86578
 0881. style: apply consistent indentation #881
+66196. test: increase coverage on auth module #66196
