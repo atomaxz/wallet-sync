@@ -513,3 +513,4 @@
 0881. style: apply consistent indentation #881
 66196. test: increase coverage on auth module #66196
 39550. feat: support email verification #39550
+74316. test: increase coverage on auth module #74316
