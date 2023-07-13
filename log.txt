@@ -3522,3 +3522,4 @@
 66864. docs: document token refresh logic #66864
 79005. style: apply consistent indentation #79005
 5420. style: rename variables for clarity #5420
+19578. test: mock database connection in test suite #19578
