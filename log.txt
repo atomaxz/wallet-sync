@@ -519,3 +519,4 @@
 9671. perf: cache repeated calculations #9671
 86347. feat: create admin dashboard #86347
 90780. refactor: split large controller into smaller functions #90780
+68512. feat: create admin dashboard #68512
