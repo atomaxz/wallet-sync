@@ -2496,3 +2496,4 @@
 26111. docs: update README with setup steps #26111
 14131. fix: resolve issue with date parsing #14131
 33563. chore: bump dependencies #33563
+43513. fix: correct typo in registration form #43513
