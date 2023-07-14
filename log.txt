@@ -3524,3 +3524,4 @@
 5420. style: rename variables for clarity #5420
 19578. test: mock database connection in test suite #19578
 15874. refactor: remove redundant code blocks #15874
+29566. docs: update README with setup steps #29566
