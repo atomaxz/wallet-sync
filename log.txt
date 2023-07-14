@@ -2497,3 +2497,4 @@
 14131. fix: resolve issue with date parsing #14131
 33563. chore: bump dependencies #33563
 43513. fix: correct typo in registration form #43513
+38850. test: test user registration edge cases #38850
