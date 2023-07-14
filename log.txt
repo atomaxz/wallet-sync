@@ -3525,3 +3525,4 @@
 19578. test: mock database connection in test suite #19578
 15874. refactor: remove redundant code blocks #15874
 29566. docs: update README with setup steps #29566
+97098. test: increase coverage on auth module #97098
