@@ -522,3 +522,4 @@
 68512. feat: create admin dashboard #68512
 71055. chore: rename env.example #71055
 89549. perf: optimize database query for quiz results #89549
+32147. fix: fix null pointer exception on login #32147
