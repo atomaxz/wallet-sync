@@ -2500,3 +2500,4 @@
 38850. test: test user registration edge cases #38850
 94641. refactor: split large controller into smaller functions #94641
 33907. fix: resolve issue with date parsing #33907
+28971. test: add unit test for quiz service #28971
