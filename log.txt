@@ -2501,3 +2501,4 @@
 94641. refactor: split large controller into smaller functions #94641
 33907. fix: resolve issue with date parsing #33907
 28971. test: add unit test for quiz service #28971
+36887. test: increase coverage on auth module #36887
