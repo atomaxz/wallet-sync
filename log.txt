@@ -1552,3 +1552,4 @@
 34334. refactor: clean up auth middleware #34334
 7062. perf: cache repeated calculations #7062
 44656. perf: lazy-load components #44656
+6967. fix: prevent crash on empty input #6967
