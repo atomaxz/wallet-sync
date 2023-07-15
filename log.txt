@@ -1551,3 +1551,4 @@
 38355. feat: enable dark mode toggle #38355
 34334. refactor: clean up auth middleware #34334
 7062. perf: cache repeated calculations #7062
+44656. perf: lazy-load components #44656
