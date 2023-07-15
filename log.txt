@@ -525,3 +525,4 @@
 32147. fix: fix null pointer exception on login #32147
 29488. test: mock database connection in test suite #29488
 74074. refactor: organize models into subfolders #74074
+8720. fix: fix broken CSS in mobile view #8720
