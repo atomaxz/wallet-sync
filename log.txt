@@ -523,3 +523,4 @@
 71055. chore: rename env.example #71055
 89549. perf: optimize database query for quiz results #89549
 32147. fix: fix null pointer exception on login #32147
+29488. test: mock database connection in test suite #29488
