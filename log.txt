@@ -3527,3 +3527,4 @@
 29566. docs: update README with setup steps #29566
 97098. test: increase coverage on auth module #97098
 3169. style: apply consistent indentation #3169
+70502. docs: write FAQ section #70502
