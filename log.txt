@@ -527,3 +527,4 @@
 74074. refactor: organize models into subfolders #74074
 8720. fix: fix broken CSS in mobile view #8720
 75524. fix: prevent crash on empty input #75524
+46539. perf: optimize database query for quiz results #46539
