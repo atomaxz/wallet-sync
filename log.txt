@@ -3529,3 +3529,4 @@
 3169. style: apply consistent indentation #3169
 70502. docs: write FAQ section #70502
 37908. test: test user registration edge cases #37908
+20953. docs: write FAQ section #20953
