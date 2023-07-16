@@ -2504,3 +2504,4 @@
 36887. test: increase coverage on auth module #36887
 21002. style: rename variables for clarity #21002
 14894. docs: document token refresh logic #14894
+94128. chore: rename env.example #94128
