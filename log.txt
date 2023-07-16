@@ -1555,3 +1555,4 @@
 6967. fix: prevent crash on empty input #6967
 77787. fix: handle 500 error in quiz API #77787
 19622. perf: reduce image load time #19622
+39191. chore: rename env.example #39191
