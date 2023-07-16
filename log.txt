@@ -3528,3 +3528,4 @@
 97098. test: increase coverage on auth module #97098
 3169. style: apply consistent indentation #3169
 70502. docs: write FAQ section #70502
+37908. test: test user registration edge cases #37908
