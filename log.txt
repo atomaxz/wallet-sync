@@ -529,3 +529,4 @@
 75524. fix: prevent crash on empty input #75524
 46539. perf: optimize database query for quiz results #46539
 8005. docs: clarify environment setup #8005
+58138. fix: fix broken CSS in mobile view #58138
