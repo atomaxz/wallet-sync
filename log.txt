@@ -3535,3 +3535,4 @@
 41413. docs: clarify environment setup #41413
 24055. docs: update README with setup steps #24055
 68979. refactor: refactor quiz grading logic #68979
+72864. fix: prevent crash on empty input #72864
