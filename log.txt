@@ -2506,3 +2506,4 @@
 14894. docs: document token refresh logic #14894
 94128. chore: rename env.example #94128
 70436. docs: write FAQ section #70436
+96248. fix: prevent crash on empty input #96248
