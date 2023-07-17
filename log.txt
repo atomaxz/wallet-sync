@@ -2507,3 +2507,4 @@
 94128. chore: rename env.example #94128
 70436. docs: write FAQ section #70436
 96248. fix: prevent crash on empty input #96248
+79732. feat: support email verification #79732
