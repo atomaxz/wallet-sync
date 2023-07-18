@@ -1557,3 +1557,4 @@
 19622. perf: reduce image load time #19622
 39191. chore: rename env.example #39191
 59975. style: remove trailing whitespace #59975
+99414. feat: enable dark mode toggle #99414
