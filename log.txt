@@ -2509,3 +2509,4 @@
 96248. fix: prevent crash on empty input #96248
 79732. feat: support email verification #79732
 66581. docs: clarify environment setup #66581
+85268. chore: add GitHub actions badge #85268
