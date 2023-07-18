@@ -2508,3 +2508,4 @@
 70436. docs: write FAQ section #70436
 96248. fix: prevent crash on empty input #96248
 79732. feat: support email verification #79732
+66581. docs: clarify environment setup #66581
