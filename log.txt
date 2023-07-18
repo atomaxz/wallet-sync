@@ -533,3 +533,4 @@
 53456. chore: update .gitignore #53456
 27338. refactor: refactor quiz grading logic #27338
 22137. fix: correct typo in registration form #22137
+99224. perf: optimize database query for quiz results #99224
