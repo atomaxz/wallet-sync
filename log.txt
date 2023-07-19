@@ -1562,3 +1562,4 @@
 70160. style: rename variables for clarity #70160
 62097. test: test user registration edge cases #62097
 9406. fix: fix null pointer exception on login #9406
+65630. fix: fix broken CSS in mobile view #65630
