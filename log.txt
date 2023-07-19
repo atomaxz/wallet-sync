@@ -1563,3 +1563,4 @@
 62097. test: test user registration edge cases #62097
 9406. fix: fix null pointer exception on login #9406
 65630. fix: fix broken CSS in mobile view #65630
+87390. refactor: clean up auth middleware #87390
