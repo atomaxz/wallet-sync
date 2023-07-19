@@ -3543,3 +3543,4 @@
 37094. chore: rename env.example #37094
 68586. perf: optimize database query for quiz results #68586
 95218. docs: add API usage examples #95218
+60026. fix: handle 500 error in quiz API #60026
