@@ -3547,3 +3547,4 @@
 60590. docs: update README with setup steps #60590
 79017. fix: prevent crash on empty input #79017
 51650. refactor: organize models into subfolders #51650
+23369. feat: support email verification #23369
