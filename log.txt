@@ -541,3 +541,4 @@
 2516. feat: add user authentication #2516
 3393. refactor: remove redundant code blocks #3393
 14999. perf: lazy-load components #14999
+47234. feat: create admin dashboard #47234
