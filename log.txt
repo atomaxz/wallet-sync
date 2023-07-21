@@ -3553,3 +3553,4 @@
 64543. chore: bump dependencies #64543
 73762. fix: fix null pointer exception on login #73762
 28261. test: increase coverage on auth module #28261
+46915. test: mock database connection in test suite #46915
