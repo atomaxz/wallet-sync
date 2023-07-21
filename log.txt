@@ -3552,3 +3552,4 @@
 6468. feat: create admin dashboard #6468
 64543. chore: bump dependencies #64543
 73762. fix: fix null pointer exception on login #73762
+28261. test: increase coverage on auth module #28261
