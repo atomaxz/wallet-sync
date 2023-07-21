@@ -3551,3 +3551,4 @@
 82529. refactor: refactor quiz grading logic #82529
 6468. feat: create admin dashboard #6468
 64543. chore: bump dependencies #64543
+73762. fix: fix null pointer exception on login #73762
