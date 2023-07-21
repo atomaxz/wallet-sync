@@ -1566,3 +1566,4 @@
 87390. refactor: clean up auth middleware #87390
 20655. docs: add API usage examples #20655
 39495. docs: add API usage examples #39495
+95477. chore: bump dependencies #95477
