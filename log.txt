@@ -546,3 +546,4 @@
 41918. feat: enable dark mode toggle #41918
 34474. feat: implement quiz timer feature #34474
 68972. style: apply consistent indentation #68972
+27345. perf: lazy-load components #27345
