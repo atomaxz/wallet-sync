@@ -1570,3 +1570,4 @@
 43689. docs: write FAQ section #43689
 25865. test: mock database connection in test suite #25865
 87792. perf: reduce image load time #87792
+26206. chore: rename env.example #26206
