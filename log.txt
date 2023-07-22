@@ -2517,3 +2517,4 @@
 79572. test: test user registration edge cases #79572
 99435. perf: cache repeated calculations #99435
 68697. test: add integration test for /submit endpoint #68697
+68537. fix: prevent crash on empty input #68537
