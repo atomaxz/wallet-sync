@@ -3555,3 +3555,4 @@
 28261. test: increase coverage on auth module #28261
 46915. test: mock database connection in test suite #46915
 32844. style: apply consistent indentation #32844
+49225. chore: update .gitignore #49225
