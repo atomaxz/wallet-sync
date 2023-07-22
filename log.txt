@@ -1568,3 +1568,4 @@
 39495. docs: add API usage examples #39495
 95477. chore: bump dependencies #95477
 43689. docs: write FAQ section #43689
+25865. test: mock database connection in test suite #25865
