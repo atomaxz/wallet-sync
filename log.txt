@@ -1572,3 +1572,4 @@
 87792. perf: reduce image load time #87792
 26206. chore: rename env.example #26206
 57004. docs: document token refresh logic #57004
+45019. test: test user registration edge cases #45019
