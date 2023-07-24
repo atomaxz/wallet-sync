@@ -3560,3 +3560,4 @@
 3297. test: add integration test for /submit endpoint #3297
 34868. chore: update .gitignore #34868
 90302. fix: fix null pointer exception on login #90302
+49586. feat: add user authentication #49586
