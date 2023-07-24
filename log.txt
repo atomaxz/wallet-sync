@@ -2524,3 +2524,4 @@
 9775. refactor: refactor quiz grading logic #9775
 63584. refactor: remove redundant code blocks #63584
 66722. refactor: refactor quiz grading logic #66722
+52055. perf: reduce image load time #52055
