@@ -3562,3 +3562,4 @@
 90302. fix: fix null pointer exception on login #90302
 49586. feat: add user authentication #49586
 53516. chore: add GitHub actions badge #53516
+48084. test: increase coverage on auth module #48084
