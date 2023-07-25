@@ -1579,3 +1579,4 @@
 88180. chore: rename env.example #88180
 56131. feat: add user authentication #56131
 97241. test: test user registration edge cases #97241
+66936. chore: bump dependencies #66936
