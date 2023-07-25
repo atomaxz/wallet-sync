@@ -3564,3 +3564,4 @@
 53516. chore: add GitHub actions badge #53516
 48084. test: increase coverage on auth module #48084
 32372. style: standardize quote style #32372
+89304. chore: update .gitignore #89304
