@@ -1580,3 +1580,4 @@
 56131. feat: add user authentication #56131
 97241. test: test user registration edge cases #97241
 66936. chore: bump dependencies #66936
+68977. fix: handle 500 error in quiz API #68977
