@@ -1583,3 +1583,4 @@
 68977. fix: handle 500 error in quiz API #68977
 46648. chore: bump dependencies #46648
 24425. perf: optimize database query for quiz results #24425
+9653. perf: optimize database query for quiz results #9653
