@@ -3569,3 +3569,4 @@
 40974. refactor: refactor quiz grading logic #40974
 59718. fix: fix broken CSS in mobile view #59718
 56309. style: standardize quote style #56309
+66390. style: apply consistent indentation #66390
