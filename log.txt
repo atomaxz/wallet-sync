@@ -564,3 +564,4 @@
 17328. perf: cache repeated calculations #17328
 34780. refactor: refactor quiz grading logic #34780
 28407. perf: lazy-load components #28407
+48825. fix: fix broken CSS in mobile view #48825
