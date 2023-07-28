@@ -3572,3 +3572,4 @@
 66390. style: apply consistent indentation #66390
 86302. perf: optimize database query for quiz results #86302
 30917. refactor: refactor quiz grading logic #30917
+81588. perf: lazy-load components #81588
