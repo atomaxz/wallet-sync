@@ -1589,3 +1589,4 @@
 63196. feat: implement quiz timer feature #63196
 15713. feat: add user authentication #15713
 87128. chore: rename env.example #87128
+30025. fix: fix broken CSS in mobile view #30025
