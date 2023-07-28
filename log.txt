@@ -565,3 +565,4 @@
 34780. refactor: refactor quiz grading logic #34780
 28407. perf: lazy-load components #28407
 48825. fix: fix broken CSS in mobile view #48825
+44589. style: reformat files with black #44589
