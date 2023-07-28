@@ -2534,3 +2534,4 @@
 4456. refactor: organize models into subfolders #4456
 27210. fix: prevent crash on empty input #27210
 95359. test: test user registration edge cases #95359
+67485. feat: add user authentication #67485
