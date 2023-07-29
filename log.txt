@@ -567,3 +567,4 @@
 48825. fix: fix broken CSS in mobile view #48825
 44589. style: reformat files with black #44589
 97400. style: reformat files with black #97400
+10060. fix: resolve issue with date parsing #10060
