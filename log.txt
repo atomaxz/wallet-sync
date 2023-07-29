@@ -1590,3 +1590,4 @@
 15713. feat: add user authentication #15713
 87128. chore: rename env.example #87128
 30025. fix: fix broken CSS in mobile view #30025
+53661. test: increase coverage on auth module #53661
