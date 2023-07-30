@@ -3579,3 +3579,4 @@
 17371. test: add unit test for quiz service #17371
 87495. feat: enable dark mode toggle #87495
 7670. feat: implement quiz timer feature #7670
+3629. refactor: clean up auth middleware #3629
