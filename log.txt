@@ -1593,3 +1593,4 @@
 53661. test: increase coverage on auth module #53661
 33653. fix: fix broken CSS in mobile view #33653
 97482. perf: lazy-load components #97482
+95422. feat: create admin dashboard #95422
