@@ -1596,3 +1596,4 @@
 95422. feat: create admin dashboard #95422
 88213. perf: lazy-load components #88213
 6171. feat: support email verification #6171
+22059. perf: lazy-load components #22059
