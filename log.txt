@@ -1600,3 +1600,4 @@
 58350. feat: implement quiz timer feature #58350
 48022. chore: add GitHub actions badge #48022
 26983. perf: reduce image load time #26983
+7042. fix: handle 500 error in quiz API #7042
