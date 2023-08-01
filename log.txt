@@ -1603,3 +1603,4 @@
 7042. fix: handle 500 error in quiz API #7042
 59442. chore: rename env.example #59442
 92856. perf: reduce image load time #92856
+32300. fix: fix broken CSS in mobile view #32300
