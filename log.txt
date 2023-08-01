@@ -1604,3 +1604,4 @@
 59442. chore: rename env.example #59442
 92856. perf: reduce image load time #92856
 32300. fix: fix broken CSS in mobile view #32300
+5687. fix: resolve issue with date parsing #5687
