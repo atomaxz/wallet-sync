@@ -573,3 +573,4 @@
 5260. style: reformat files with black #5260
 83984. feat: add export to CSV option #83984
 39470. perf: cache repeated calculations #39470
+72656. feat: enable dark mode toggle #72656
