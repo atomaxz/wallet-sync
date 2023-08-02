@@ -1606,3 +1606,4 @@
 32300. fix: fix broken CSS in mobile view #32300
 5687. fix: resolve issue with date parsing #5687
 45208. docs: write FAQ section #45208
+49464. perf: reduce image load time #49464
