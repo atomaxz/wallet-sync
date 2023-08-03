@@ -575,3 +575,4 @@
 39470. perf: cache repeated calculations #39470
 72656. feat: enable dark mode toggle #72656
 86943. test: increase coverage on auth module #86943
+65810. test: add unit test for quiz service #65810
