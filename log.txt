@@ -1607,3 +1607,4 @@
 5687. fix: resolve issue with date parsing #5687
 45208. docs: write FAQ section #45208
 49464. perf: reduce image load time #49464
+90054. fix: prevent crash on empty input #90054
