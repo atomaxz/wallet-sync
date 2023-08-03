@@ -1610,3 +1610,4 @@
 90054. fix: prevent crash on empty input #90054
 99029. chore: rename env.example #99029
 20274. fix: correct typo in registration form #20274
+92296. chore: bump dependencies #92296
