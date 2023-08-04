@@ -580,3 +580,4 @@
 90952. feat: add user authentication #90952
 85905. perf: cache repeated calculations #85905
 28570. perf: lazy-load components #28570
+49546. fix: fix broken CSS in mobile view #49546
