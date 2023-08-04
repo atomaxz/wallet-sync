@@ -2557,3 +2557,4 @@
 58841. feat: add export to CSV option #58841
 99365. perf: reduce image load time #99365
 82804. chore: bump dependencies #82804
+49420. perf: optimize database query for quiz results #49420
