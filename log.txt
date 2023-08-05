@@ -3590,3 +3590,4 @@
 15694. chore: bump dependencies #15694
 81929. docs: write FAQ section #81929
 10491. feat: implement quiz timer feature #10491
+86370. chore: rename env.example #86370
