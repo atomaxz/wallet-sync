@@ -2560,3 +2560,4 @@
 49420. perf: optimize database query for quiz results #49420
 91871. perf: lazy-load components #91871
 88979. feat: support email verification #88979
+18804. style: remove trailing whitespace #18804
