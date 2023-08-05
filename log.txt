@@ -1617,3 +1617,4 @@
 23323. refactor: refactor quiz grading logic #23323
 86883. test: increase coverage on auth module #86883
 2093. perf: cache repeated calculations #2093
+43488. chore: add GitHub actions badge #43488
