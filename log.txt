@@ -1623,3 +1623,4 @@
 30611. docs: write FAQ section #30611
 65297. refactor: clean up auth middleware #65297
 93136. style: remove trailing whitespace #93136
+44525. test: mock database connection in test suite #44525
