@@ -585,3 +585,4 @@
 6516. chore: update .gitignore #6516
 54840. refactor: refactor quiz grading logic #54840
 63033. perf: optimize database query for quiz results #63033
+72680. chore: add GitHub actions badge #72680
