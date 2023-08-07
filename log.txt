@@ -2564,3 +2564,4 @@
 30246. refactor: remove redundant code blocks #30246
 83303. fix: resolve issue with date parsing #83303
 76293. style: remove trailing whitespace #76293
+84750. perf: reduce image load time #84750
