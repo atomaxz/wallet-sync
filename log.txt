@@ -588,3 +588,4 @@
 72680. chore: add GitHub actions badge #72680
 36722. chore: update .gitignore #36722
 12677. test: test user registration edge cases #12677
+1534. fix: correct typo in registration form #1534
