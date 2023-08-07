@@ -3593,3 +3593,4 @@
 86370. chore: rename env.example #86370
 56632. docs: add API usage examples #56632
 89420. fix: prevent crash on empty input #89420
+93460. perf: cache repeated calculations #93460
