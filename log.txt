@@ -1624,3 +1624,4 @@
 65297. refactor: clean up auth middleware #65297
 93136. style: remove trailing whitespace #93136
 44525. test: mock database connection in test suite #44525
+30156. perf: optimize database query for quiz results #30156
