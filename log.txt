@@ -2569,3 +2569,4 @@
 48895. fix: fix broken CSS in mobile view #48895
 39131. refactor: remove redundant code blocks #39131
 44331. perf: lazy-load components #44331
+65399. perf: optimize database query for quiz results #65399
