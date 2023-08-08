@@ -1628,3 +1628,4 @@
 5942. refactor: remove redundant code blocks #5942
 26841. refactor: organize models into subfolders #26841
 27682. fix: correct typo in registration form #27682
+25881. perf: lazy-load components #25881
