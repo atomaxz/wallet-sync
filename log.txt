@@ -3598,3 +3598,4 @@
 73041. style: remove trailing whitespace #73041
 3476. chore: add GitHub actions badge #3476
 2945. test: add integration test for /submit endpoint #2945
+19194. fix: prevent crash on empty input #19194
