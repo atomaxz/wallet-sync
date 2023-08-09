@@ -2575,3 +2575,4 @@
 53367. refactor: organize models into subfolders #53367
 99271. refactor: remove redundant code blocks #99271
 35657. test: mock database connection in test suite #35657
+39856. chore: add GitHub actions badge #39856
