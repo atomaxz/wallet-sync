@@ -3601,3 +3601,4 @@
 19194. fix: prevent crash on empty input #19194
 73252. docs: improve code comments in utils #73252
 19619. style: standardize quote style #19619
+72006. fix: prevent crash on empty input #72006
