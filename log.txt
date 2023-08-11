@@ -2581,3 +2581,4 @@
 81338. fix: fix broken CSS in mobile view #81338
 76360. refactor: refactor quiz grading logic #76360
 23277. docs: write FAQ section #23277
+37194. fix: prevent crash on empty input #37194
