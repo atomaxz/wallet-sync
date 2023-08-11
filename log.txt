@@ -1632,3 +1632,4 @@
 52361. test: test user registration edge cases #52361
 41091. style: rename variables for clarity #41091
 70439. test: mock database connection in test suite #70439
+98539. fix: handle 500 error in quiz API #98539
