@@ -596,3 +596,4 @@
 64292. fix: correct typo in registration form #64292
 90715. style: remove trailing whitespace #90715
 33738. refactor: refactor quiz grading logic #33738
+15715. style: standardize quote style #15715
