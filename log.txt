@@ -3603,3 +3603,4 @@
 19619. style: standardize quote style #19619
 72006. fix: prevent crash on empty input #72006
 31692. style: standardize quote style #31692
+28740. chore: bump dependencies #28740
