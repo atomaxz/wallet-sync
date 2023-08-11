@@ -2582,3 +2582,4 @@
 76360. refactor: refactor quiz grading logic #76360
 23277. docs: write FAQ section #23277
 37194. fix: prevent crash on empty input #37194
+92727. test: test user registration edge cases #92727
