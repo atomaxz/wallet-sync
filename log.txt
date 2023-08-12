@@ -1636,3 +1636,4 @@
 86867. refactor: refactor quiz grading logic #86867
 27149. perf: lazy-load components #27149
 77433. perf: lazy-load components #77433
+51840. fix: prevent crash on empty input #51840
