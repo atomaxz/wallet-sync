@@ -601,3 +601,4 @@
 61387. chore: rename env.example #61387
 12752. refactor: refactor quiz grading logic #12752
 93285. refactor: split large controller into smaller functions #93285
+90611. perf: lazy-load components #90611
