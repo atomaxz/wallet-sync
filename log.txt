@@ -1634,3 +1634,4 @@
 70439. test: mock database connection in test suite #70439
 98539. fix: handle 500 error in quiz API #98539
 86867. refactor: refactor quiz grading logic #86867
+27149. perf: lazy-load components #27149
