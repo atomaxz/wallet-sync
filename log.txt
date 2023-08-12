@@ -1635,3 +1635,4 @@
 98539. fix: handle 500 error in quiz API #98539
 86867. refactor: refactor quiz grading logic #86867
 27149. perf: lazy-load components #27149
+77433. perf: lazy-load components #77433
