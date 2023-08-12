@@ -2585,3 +2585,4 @@
 92727. test: test user registration edge cases #92727
 3190. perf: lazy-load components #3190
 94859. refactor: remove redundant code blocks #94859
+74243. docs: write FAQ section #74243
