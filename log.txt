@@ -1638,3 +1638,4 @@
 77433. perf: lazy-load components #77433
 51840. fix: prevent crash on empty input #51840
 36043. docs: update README with setup steps #36043
+8606. fix: correct typo in registration form #8606
