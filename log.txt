@@ -3613,3 +3613,4 @@
 11389. style: rename variables for clarity #11389
 49911. perf: reduce image load time #49911
 34252. style: standardize quote style #34252
+90205. chore: add GitHub actions badge #90205
