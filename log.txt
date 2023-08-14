@@ -3612,3 +3612,4 @@
 27558. fix: fix broken CSS in mobile view #27558
 11389. style: rename variables for clarity #11389
 49911. perf: reduce image load time #49911
+34252. style: standardize quote style #34252
