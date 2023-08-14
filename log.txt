@@ -607,3 +607,4 @@
 68250. perf: optimize database query for quiz results #68250
 34529. feat: create admin dashboard #34529
 67802. fix: resolve issue with date parsing #67802
+75701. perf: reduce image load time #75701
