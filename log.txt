@@ -1640,3 +1640,4 @@
 36043. docs: update README with setup steps #36043
 8606. fix: correct typo in registration form #8606
 19213. test: mock database connection in test suite #19213
+83847. fix: prevent crash on empty input #83847
