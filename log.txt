@@ -2592,3 +2592,4 @@
 44524. feat: implement quiz timer feature #44524
 48408. test: add unit test for quiz service #48408
 4572. fix: handle 500 error in quiz API #4572
+20866. fix: correct typo in registration form #20866
