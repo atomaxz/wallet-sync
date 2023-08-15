@@ -1642,3 +1642,4 @@
 19213. test: mock database connection in test suite #19213
 83847. fix: prevent crash on empty input #83847
 59664. chore: bump dependencies #59664
+62567. chore: rename env.example #62567
