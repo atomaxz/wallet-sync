@@ -2595,3 +2595,4 @@
 20866. fix: correct typo in registration form #20866
 64936. test: test user registration edge cases #64936
 9355. refactor: split large controller into smaller functions #9355
+94595. refactor: clean up auth middleware #94595
