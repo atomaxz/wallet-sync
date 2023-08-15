@@ -2594,3 +2594,4 @@
 4572. fix: handle 500 error in quiz API #4572
 20866. fix: correct typo in registration form #20866
 64936. test: test user registration edge cases #64936
+9355. refactor: split large controller into smaller functions #9355
