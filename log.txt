@@ -2591,3 +2591,4 @@
 40271. feat: enable dark mode toggle #40271
 44524. feat: implement quiz timer feature #44524
 48408. test: add unit test for quiz service #48408
+4572. fix: handle 500 error in quiz API #4572
