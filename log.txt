@@ -611,3 +611,4 @@
 51947. refactor: remove redundant code blocks #51947
 30161. chore: rename env.example #30161
 16486. fix: fix null pointer exception on login #16486
+24428. test: increase coverage on auth module #24428
