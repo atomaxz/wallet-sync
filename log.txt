@@ -608,3 +608,4 @@
 34529. feat: create admin dashboard #34529
 67802. fix: resolve issue with date parsing #67802
 75701. perf: reduce image load time #75701
+51947. refactor: remove redundant code blocks #51947
