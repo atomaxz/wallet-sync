@@ -619,3 +619,4 @@
 80208. test: test user registration edge cases #80208
 80559. chore: clean up unused files #80559
 63927. docs: write FAQ section #63927
+17658. perf: reduce image load time #17658
