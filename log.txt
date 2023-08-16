@@ -3618,3 +3618,4 @@
 10785. docs: clarify environment setup #10785
 75574. style: apply consistent indentation #75574
 20622. feat: enable dark mode toggle #20622
+78104. fix: prevent crash on empty input #78104
