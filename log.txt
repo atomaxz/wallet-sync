@@ -614,3 +614,4 @@
 24428. test: increase coverage on auth module #24428
 76096. chore: clean up unused files #76096
 74430. docs: update README with setup steps #74430
+0373. feat: support email verification #373
