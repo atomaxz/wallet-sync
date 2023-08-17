@@ -2601,3 +2601,4 @@
 20581. refactor: remove redundant code blocks #20581
 83663. refactor: refactor quiz grading logic #83663
 35170. refactor: split large controller into smaller functions #35170
+51571. chore: bump dependencies #51571
