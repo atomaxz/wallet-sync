@@ -3625,3 +3625,4 @@
 51827. refactor: clean up auth middleware #51827
 22585. perf: reduce image load time #22585
 99360. style: reformat files with black #99360
+97635. chore: add GitHub actions badge #97635
