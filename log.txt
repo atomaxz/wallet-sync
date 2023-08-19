@@ -2605,3 +2605,4 @@
 49707. refactor: split large controller into smaller functions #49707
 45518. test: mock database connection in test suite #45518
 47784. chore: bump dependencies #47784
+92396. perf: lazy-load components #92396
