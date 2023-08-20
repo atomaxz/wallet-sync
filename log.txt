@@ -3631,3 +3631,4 @@
 30149. refactor: refactor quiz grading logic #30149
 48908. fix: fix null pointer exception on login #48908
 27640. chore: rename env.example #27640
+20528. fix: correct typo in registration form #20528
