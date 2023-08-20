@@ -2608,3 +2608,4 @@
 92396. perf: lazy-load components #92396
 65938. feat: add export to CSV option #65938
 18115. style: reformat files with black #18115
+51365. refactor: remove redundant code blocks #51365
