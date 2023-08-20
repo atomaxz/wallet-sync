@@ -3629,3 +3629,4 @@
 33523. refactor: split large controller into smaller functions #33523
 10070. perf: reduce image load time #10070
 30149. refactor: refactor quiz grading logic #30149
+48908. fix: fix null pointer exception on login #48908
