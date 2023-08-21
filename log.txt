@@ -630,3 +630,4 @@
 62598. fix: prevent crash on empty input #62598
 68462. perf: lazy-load components #68462
 68944. refactor: refactor quiz grading logic #68944
+40230. feat: add export to CSV option #40230
