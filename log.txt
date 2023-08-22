@@ -3634,3 +3634,4 @@
 20528. fix: correct typo in registration form #20528
 15822. fix: handle 500 error in quiz API #15822
 56363. style: rename variables for clarity #56363
+49356. docs: improve code comments in utils #49356
