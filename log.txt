@@ -634,3 +634,4 @@
 39792. refactor: split large controller into smaller functions #39792
 58668. fix: prevent crash on empty input #58668
 71380. fix: resolve issue with date parsing #71380
+38852. feat: add export to CSV option #38852
