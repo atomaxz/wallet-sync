@@ -3635,3 +3635,4 @@
 15822. fix: handle 500 error in quiz API #15822
 56363. style: rename variables for clarity #56363
 49356. docs: improve code comments in utils #49356
+55050. fix: prevent crash on empty input #55050
