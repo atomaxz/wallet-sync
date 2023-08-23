@@ -636,3 +636,4 @@
 71380. fix: resolve issue with date parsing #71380
 38852. feat: add export to CSV option #38852
 5943. chore: clean up unused files #5943
+5702. docs: document token refresh logic #5702
