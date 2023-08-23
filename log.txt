@@ -2617,3 +2617,4 @@
 15158. perf: reduce image load time #15158
 33282. chore: update .gitignore #33282
 23452. docs: update README with setup steps #23452
+75305. fix: correct typo in registration form #75305
