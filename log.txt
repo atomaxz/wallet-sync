@@ -1666,3 +1666,4 @@
 59650. fix: handle 500 error in quiz API #59650
 86612. docs: improve code comments in utils #86612
 26599. test: increase coverage on auth module #26599
+15858. style: apply consistent indentation #15858
