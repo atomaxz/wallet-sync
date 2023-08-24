@@ -3641,3 +3641,4 @@
 8580. style: reformat files with black #8580
 34426. style: standardize quote style #34426
 29657. docs: clarify environment setup #29657
+20840. fix: correct typo in registration form #20840
