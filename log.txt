@@ -3643,3 +3643,4 @@
 29657. docs: clarify environment setup #29657
 20840. fix: correct typo in registration form #20840
 67533. docs: add API usage examples #67533
+32300. fix: fix broken CSS in mobile view #32300
