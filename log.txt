@@ -3646,3 +3646,4 @@
 32300. fix: fix broken CSS in mobile view #32300
 51789. style: reformat files with black #51789
 32961. fix: fix null pointer exception on login #32961
+7324. perf: cache repeated calculations #7324
