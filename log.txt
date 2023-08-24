@@ -3642,3 +3642,4 @@
 34426. style: standardize quote style #34426
 29657. docs: clarify environment setup #29657
 20840. fix: correct typo in registration form #20840
+67533. docs: add API usage examples #67533
