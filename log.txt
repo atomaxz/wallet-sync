@@ -2626,3 +2626,4 @@
 47020. fix: handle 500 error in quiz API #47020
 28632. feat: add export to CSV option #28632
 40289. test: add unit test for quiz service #40289
+63382. test: test user registration edge cases #63382
