@@ -640,3 +640,4 @@
 54993. fix: fix null pointer exception on login #54993
 75880. chore: bump dependencies #75880
 7792. style: apply consistent indentation #7792
+49728. fix: fix broken CSS in mobile view #49728
