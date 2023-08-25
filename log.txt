@@ -3648,3 +3648,4 @@
 32961. fix: fix null pointer exception on login #32961
 7324. perf: cache repeated calculations #7324
 71451. feat: enable dark mode toggle #71451
+30293. test: test user registration edge cases #30293
