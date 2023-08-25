@@ -2629,3 +2629,4 @@
 63382. test: test user registration edge cases #63382
 96652. perf: reduce image load time #96652
 59285. chore: rename env.example #59285
+45790. docs: write FAQ section #45790
