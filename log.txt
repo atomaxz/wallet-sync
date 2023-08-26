@@ -1668,3 +1668,4 @@
 26599. test: increase coverage on auth module #26599
 15858. style: apply consistent indentation #15858
 49656. feat: enable dark mode toggle #49656
+87747. refactor: refactor quiz grading logic #87747
