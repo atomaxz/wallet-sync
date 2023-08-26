@@ -642,3 +642,4 @@
 7792. style: apply consistent indentation #7792
 49728. fix: fix broken CSS in mobile view #49728
 5231. test: test user registration edge cases #5231
+63071. feat: enable dark mode toggle #63071
