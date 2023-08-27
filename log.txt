@@ -3657,3 +3657,4 @@
 71215. feat: create admin dashboard #71215
 87332. chore: update .gitignore #87332
 30650. style: standardize quote style #30650
+45075. feat: enable dark mode toggle #45075
