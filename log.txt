@@ -3658,3 +3658,4 @@
 87332. chore: update .gitignore #87332
 30650. style: standardize quote style #30650
 45075. feat: enable dark mode toggle #45075
+97197. style: remove trailing whitespace #97197
