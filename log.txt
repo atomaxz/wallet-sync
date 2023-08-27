@@ -647,3 +647,4 @@
 53038. style: reformat files with black #53038
 41407. refactor: remove redundant code blocks #41407
 76506. style: remove trailing whitespace #76506
+82728. refactor: organize models into subfolders #82728
