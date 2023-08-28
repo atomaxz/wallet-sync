@@ -2633,3 +2633,4 @@
 48623. test: add integration test for /submit endpoint #48623
 73443. feat: add user authentication #73443
 79868. docs: add API usage examples #79868
+59788. test: test user registration edge cases #59788
