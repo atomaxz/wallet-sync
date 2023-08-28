@@ -3660,3 +3660,4 @@
 45075. feat: enable dark mode toggle #45075
 97197. style: remove trailing whitespace #97197
 96672. refactor: clean up auth middleware #96672
+96178. refactor: refactor quiz grading logic #96178
