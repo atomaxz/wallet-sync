@@ -650,3 +650,4 @@
 82728. refactor: organize models into subfolders #82728
 46081. refactor: split large controller into smaller functions #46081
 84917. perf: lazy-load components #84917
+17411. fix: fix broken CSS in mobile view #17411
