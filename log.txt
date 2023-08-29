@@ -652,3 +652,4 @@
 84917. perf: lazy-load components #84917
 17411. fix: fix broken CSS in mobile view #17411
 4424. perf: reduce image load time #4424
+71190. test: mock database connection in test suite #71190
