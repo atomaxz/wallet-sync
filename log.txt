@@ -3663,3 +3663,4 @@
 96178. refactor: refactor quiz grading logic #96178
 43497. style: remove trailing whitespace #43497
 2367. perf: cache repeated calculations #2367
+28807. perf: reduce image load time #28807
