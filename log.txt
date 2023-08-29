@@ -1677,3 +1677,4 @@
 71574. docs: improve code comments in utils #71574
 90218. test: add unit test for quiz service #90218
 71572. test: add integration test for /submit endpoint #71572
+54771. perf: optimize database query for quiz results #54771
