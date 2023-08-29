@@ -651,3 +651,4 @@
 46081. refactor: split large controller into smaller functions #46081
 84917. perf: lazy-load components #84917
 17411. fix: fix broken CSS in mobile view #17411
+4424. perf: reduce image load time #4424
