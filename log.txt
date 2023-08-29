@@ -1680,3 +1680,4 @@
 54771. perf: optimize database query for quiz results #54771
 87741. refactor: clean up auth middleware #87741
 13155. test: add integration test for /submit endpoint #13155
+92290. feat: enable dark mode toggle #92290
