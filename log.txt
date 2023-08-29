@@ -1676,3 +1676,4 @@
 5926. docs: add API usage examples #5926
 71574. docs: improve code comments in utils #71574
 90218. test: add unit test for quiz service #90218
+71572. test: add integration test for /submit endpoint #71572
