@@ -3666,3 +3666,4 @@
 28807. perf: reduce image load time #28807
 74991. chore: bump dependencies #74991
 76450. feat: add export to CSV option #76450
+29640. test: increase coverage on auth module #29640
