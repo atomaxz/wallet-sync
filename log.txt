@@ -657,3 +657,4 @@
 5619. docs: clarify environment setup #5619
 19270. test: add unit test for quiz service #19270
 24546. docs: clarify environment setup #24546
+26047. feat: add user authentication #26047
