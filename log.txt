@@ -3667,3 +3667,4 @@
 74991. chore: bump dependencies #74991
 76450. feat: add export to CSV option #76450
 29640. test: increase coverage on auth module #29640
+1339. perf: lazy-load components #1339
