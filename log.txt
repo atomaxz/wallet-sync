@@ -3668,3 +3668,4 @@
 76450. feat: add export to CSV option #76450
 29640. test: increase coverage on auth module #29640
 1339. perf: lazy-load components #1339
+7361. test: mock database connection in test suite #7361
