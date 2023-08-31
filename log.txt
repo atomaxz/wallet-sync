@@ -3671,3 +3671,4 @@
 7361. test: mock database connection in test suite #7361
 29728. refactor: remove redundant code blocks #29728
 11047. style: reformat files with black #11047
+11134. feat: add export to CSV option #11134
