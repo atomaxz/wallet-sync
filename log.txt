@@ -2640,3 +2640,4 @@
 2278. test: add unit test for quiz service #2278
 72893. perf: reduce image load time #72893
 2595. docs: clarify environment setup #2595
+2992. perf: optimize database query for quiz results #2992
