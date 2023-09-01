@@ -2645,3 +2645,4 @@
 31137. fix: resolve issue with date parsing #31137
 16533. test: increase coverage on auth module #16533
 65237. docs: document token refresh logic #65237
+64555. perf: lazy-load components #64555
