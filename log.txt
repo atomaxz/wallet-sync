@@ -1689,3 +1689,4 @@
 12155. chore: add GitHub actions badge #12155
 66662. chore: add GitHub actions badge #66662
 95374. perf: lazy-load components #95374
+67636. chore: add GitHub actions badge #67636
