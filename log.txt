@@ -2651,3 +2651,4 @@
 96717. feat: enable dark mode toggle #96717
 24059. test: mock database connection in test suite #24059
 68004. docs: clarify environment setup #68004
+54485. test: mock database connection in test suite #54485
