@@ -2650,3 +2650,4 @@
 68601. test: add unit test for quiz service #68601
 96717. feat: enable dark mode toggle #96717
 24059. test: mock database connection in test suite #24059
+68004. docs: clarify environment setup #68004
