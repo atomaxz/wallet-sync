@@ -661,3 +661,4 @@
 28215. style: apply consistent indentation #28215
 65792. style: apply consistent indentation #65792
 11914. test: increase coverage on auth module #11914
+52862. style: reformat files with black #52862
