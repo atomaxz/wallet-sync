@@ -1693,3 +1693,4 @@
 24330. test: add unit test for quiz service #24330
 18139. fix: fix null pointer exception on login #18139
 78938. feat: add export to CSV option #78938
+69110. perf: lazy-load components #69110
