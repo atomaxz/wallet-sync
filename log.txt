@@ -1700,3 +1700,4 @@
 27624. perf: lazy-load components #27624
 50593. test: mock database connection in test suite #50593
 96898. feat: support email verification #96898
+1902. style: apply consistent indentation #1902
