@@ -1698,3 +1698,4 @@
 45931. test: mock database connection in test suite #45931
 27042. docs: clarify environment setup #27042
 27624. perf: lazy-load components #27624
+50593. test: mock database connection in test suite #50593
