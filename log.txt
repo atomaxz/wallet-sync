@@ -668,3 +668,4 @@
 29705. fix: resolve issue with date parsing #29705
 99014. perf: cache repeated calculations #99014
 17145. style: reformat files with black #17145
+8378. test: test user registration edge cases #8378
