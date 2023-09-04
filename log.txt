@@ -1701,3 +1701,4 @@
 50593. test: mock database connection in test suite #50593
 96898. feat: support email verification #96898
 1902. style: apply consistent indentation #1902
+66436. fix: resolve issue with date parsing #66436
