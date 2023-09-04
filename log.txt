@@ -3681,3 +3681,4 @@
 39833. feat: create admin dashboard #39833
 89694. chore: bump dependencies #89694
 0491. refactor: refactor quiz grading logic #491
+90971. feat: enable dark mode toggle #90971
