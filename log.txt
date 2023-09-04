@@ -669,3 +669,4 @@
 99014. perf: cache repeated calculations #99014
 17145. style: reformat files with black #17145
 8378. test: test user registration edge cases #8378
+7365. fix: handle 500 error in quiz API #7365
