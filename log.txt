@@ -3683,3 +3683,4 @@
 0491. refactor: refactor quiz grading logic #491
 90971. feat: enable dark mode toggle #90971
 97576. perf: cache repeated calculations #97576
+39334. perf: optimize database query for quiz results #39334
