@@ -672,3 +672,4 @@
 7365. fix: handle 500 error in quiz API #7365
 9659. perf: optimize database query for quiz results #9659
 32016. chore: rename env.example #32016
+22403. feat: create admin dashboard #22403
