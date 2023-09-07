@@ -3690,3 +3690,4 @@
 94283. perf: optimize database query for quiz results #94283
 58186. refactor: organize models into subfolders #58186
 29357. test: mock database connection in test suite #29357
+83960. fix: fix null pointer exception on login #83960
