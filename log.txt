@@ -676,3 +676,4 @@
 89783. docs: clarify environment setup #89783
 92315. chore: clean up unused files #92315
 64120. docs: improve code comments in utils #64120
+67748. refactor: organize models into subfolders #67748
