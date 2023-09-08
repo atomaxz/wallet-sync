@@ -1711,3 +1711,4 @@
 49002. feat: implement quiz timer feature #49002
 70913. style: remove trailing whitespace #70913
 65397. feat: create admin dashboard #65397
+6378. feat: enable dark mode toggle #6378
