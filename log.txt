@@ -679,3 +679,4 @@
 67748. refactor: organize models into subfolders #67748
 50947. fix: resolve issue with date parsing #50947
 31373. test: add integration test for /submit endpoint #31373
+95870. perf: lazy-load components #95870
