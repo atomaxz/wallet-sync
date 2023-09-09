@@ -2664,3 +2664,4 @@
 28906. fix: correct typo in registration form #28906
 4272. refactor: organize models into subfolders #4272
 63833. fix: correct typo in registration form #63833
+57022. docs: write FAQ section #57022
