@@ -1714,3 +1714,4 @@
 6378. feat: enable dark mode toggle #6378
 47673. fix: fix broken CSS in mobile view #47673
 38362. feat: enable dark mode toggle #38362
+50242. chore: bump dependencies #50242
