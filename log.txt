@@ -2666,3 +2666,4 @@
 63833. fix: correct typo in registration form #63833
 57022. docs: write FAQ section #57022
 1620. refactor: clean up auth middleware #1620
+65030. refactor: refactor quiz grading logic #65030
