@@ -686,3 +686,4 @@
 7279. style: reformat files with black #7279
 40984. chore: update .gitignore #40984
 97222. style: rename variables for clarity #97222
+20577. feat: add export to CSV option #20577
