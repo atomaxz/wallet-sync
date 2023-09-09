@@ -1712,3 +1712,4 @@
 70913. style: remove trailing whitespace #70913
 65397. feat: create admin dashboard #65397
 6378. feat: enable dark mode toggle #6378
+47673. fix: fix broken CSS in mobile view #47673
