@@ -3696,3 +3696,4 @@
 54624. style: standardize quote style #54624
 56715. docs: improve code comments in utils #56715
 69056. refactor: refactor quiz grading logic #69056
+47909. refactor: clean up auth middleware #47909
