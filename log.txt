@@ -682,3 +682,4 @@
 95870. perf: lazy-load components #95870
 67369. fix: resolve issue with date parsing #67369
 4149. fix: handle 500 error in quiz API #4149
+90955. refactor: clean up auth middleware #90955
