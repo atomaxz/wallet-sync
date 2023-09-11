@@ -2674,3 +2674,4 @@
 8996. test: increase coverage on auth module #8996
 43321. test: add unit test for quiz service #43321
 15689. test: add integration test for /submit endpoint #15689
+27160. test: add integration test for /submit endpoint #27160
