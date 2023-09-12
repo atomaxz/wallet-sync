@@ -1719,3 +1719,4 @@
 48566. perf: cache repeated calculations #48566
 98089. style: standardize quote style #98089
 74929. chore: add GitHub actions badge #74929
+21593. style: apply consistent indentation #21593
