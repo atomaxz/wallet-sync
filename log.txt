@@ -2681,3 +2681,4 @@
 80790. style: standardize quote style #80790
 95708. style: apply consistent indentation #95708
 78589. chore: bump dependencies #78589
+0074. docs: write FAQ section #74
