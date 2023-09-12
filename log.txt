@@ -3703,3 +3703,4 @@
 7522. style: apply consistent indentation #7522
 0758. fix: correct typo in registration form #758
 95620. style: reformat files with black #95620
+55018. feat: support email verification #55018
