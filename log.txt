@@ -3705,3 +3705,4 @@
 95620. style: reformat files with black #95620
 55018. feat: support email verification #55018
 27490. refactor: clean up auth middleware #27490
+9865. docs: improve code comments in utils #9865
