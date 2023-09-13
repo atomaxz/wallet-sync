@@ -1723,3 +1723,4 @@
 85202. style: apply consistent indentation #85202
 26381. docs: update README with setup steps #26381
 87641. test: add integration test for /submit endpoint #87641
+17469. chore: add GitHub actions badge #17469
