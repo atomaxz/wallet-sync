@@ -2683,3 +2683,4 @@
 78589. chore: bump dependencies #78589
 0074. docs: write FAQ section #74
 28466. fix: correct typo in registration form #28466
+8469. refactor: split large controller into smaller functions #8469
