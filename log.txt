@@ -695,3 +695,4 @@
 44086. fix: resolve issue with date parsing #44086
 52706. perf: optimize database query for quiz results #52706
 29296. chore: rename env.example #29296
+9346. style: standardize quote style #9346
