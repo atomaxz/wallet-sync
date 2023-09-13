@@ -3707,3 +3707,4 @@
 27490. refactor: clean up auth middleware #27490
 9865. docs: improve code comments in utils #9865
 21023. feat: create admin dashboard #21023
+93047. fix: prevent crash on empty input #93047
