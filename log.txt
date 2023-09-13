@@ -2686,3 +2686,4 @@
 8469. refactor: split large controller into smaller functions #8469
 9372. test: test user registration edge cases #9372
 70343. fix: correct typo in registration form #70343
+21141. chore: update .gitignore #21141
