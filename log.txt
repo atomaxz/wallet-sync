@@ -2688,3 +2688,4 @@
 70343. fix: correct typo in registration form #70343
 21141. chore: update .gitignore #21141
 60412. test: test user registration edge cases #60412
+17884. test: add integration test for /submit endpoint #17884
