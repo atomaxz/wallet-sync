@@ -702,3 +702,4 @@
 7595. refactor: remove redundant code blocks #7595
 90323. docs: document token refresh logic #90323
 15424. style: standardize quote style #15424
+50382. fix: handle 500 error in quiz API #50382
