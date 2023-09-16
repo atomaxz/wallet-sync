@@ -703,3 +703,4 @@
 90323. docs: document token refresh logic #90323
 15424. style: standardize quote style #15424
 50382. fix: handle 500 error in quiz API #50382
+22996. style: remove trailing whitespace #22996
