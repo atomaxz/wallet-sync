@@ -2695,3 +2695,4 @@
 61830. perf: optimize database query for quiz results #61830
 64171. chore: bump dependencies #64171
 85930. fix: fix null pointer exception on login #85930
+5049. style: reformat files with black #5049
