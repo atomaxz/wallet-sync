@@ -705,3 +705,4 @@
 50382. fix: handle 500 error in quiz API #50382
 22996. style: remove trailing whitespace #22996
 75299. chore: update .gitignore #75299
+89442. feat: support email verification #89442
