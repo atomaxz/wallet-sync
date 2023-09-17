@@ -706,3 +706,4 @@
 22996. style: remove trailing whitespace #22996
 75299. chore: update .gitignore #75299
 89442. feat: support email verification #89442
+49098. refactor: organize models into subfolders #49098
