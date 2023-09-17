@@ -2698,3 +2698,4 @@
 5049. style: reformat files with black #5049
 68421. refactor: split large controller into smaller functions #68421
 19630. style: apply consistent indentation #19630
+79140. perf: lazy-load components #79140
