@@ -1726,3 +1726,4 @@
 17469. chore: add GitHub actions badge #17469
 91296. fix: prevent crash on empty input #91296
 11615. chore: rename env.example #11615
+47791. chore: add GitHub actions badge #47791
