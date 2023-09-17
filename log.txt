@@ -1727,3 +1727,4 @@
 91296. fix: prevent crash on empty input #91296
 11615. chore: rename env.example #11615
 47791. chore: add GitHub actions badge #47791
+18270. style: reformat files with black #18270
