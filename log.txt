@@ -1729,3 +1729,4 @@
 47791. chore: add GitHub actions badge #47791
 18270. style: reformat files with black #18270
 14526. perf: lazy-load components #14526
+9370. chore: rename env.example #9370
