@@ -1730,3 +1730,4 @@
 18270. style: reformat files with black #18270
 14526. perf: lazy-load components #14526
 9370. chore: rename env.example #9370
+87252. docs: document token refresh logic #87252
