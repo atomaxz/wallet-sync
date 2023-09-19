@@ -3718,3 +3718,4 @@
 33099. test: add integration test for /submit endpoint #33099
 62709. perf: optimize database query for quiz results #62709
 46510. test: add integration test for /submit endpoint #46510
+73542. feat: add export to CSV option #73542
