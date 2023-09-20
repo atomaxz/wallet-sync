@@ -711,3 +711,4 @@
 37237. chore: clean up unused files #37237
 48958. perf: reduce image load time #48958
 32651. style: remove trailing whitespace #32651
+28765. chore: update .gitignore #28765
