@@ -2703,3 +2703,4 @@
 22839. feat: add export to CSV option #22839
 67781. fix: fix broken CSS in mobile view #67781
 59323. perf: lazy-load components #59323
+56620. refactor: split large controller into smaller functions #56620
