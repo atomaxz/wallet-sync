@@ -3722,3 +3722,4 @@
 81073. style: remove trailing whitespace #81073
 37551. style: remove trailing whitespace #37551
 9968. docs: clarify environment setup #9968
+46813. fix: fix broken CSS in mobile view #46813
