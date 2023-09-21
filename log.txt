@@ -2709,3 +2709,4 @@
 62667. refactor: remove redundant code blocks #62667
 72333. feat: add export to CSV option #72333
 47460. feat: support email verification #47460
+63132. feat: enable dark mode toggle #63132
