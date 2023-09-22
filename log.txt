@@ -2711,3 +2711,4 @@
 47460. feat: support email verification #47460
 63132. feat: enable dark mode toggle #63132
 41827. refactor: clean up auth middleware #41827
+13103. docs: update README with setup steps #13103
