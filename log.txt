@@ -1738,3 +1738,4 @@
 72999. test: test user registration edge cases #72999
 50342. style: reformat files with black #50342
 36559. style: remove trailing whitespace #36559
+35632. docs: document token refresh logic #35632
