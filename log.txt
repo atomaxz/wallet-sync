@@ -1735,3 +1735,4 @@
 74802. test: add integration test for /submit endpoint #74802
 12598. refactor: split large controller into smaller functions #12598
 89403. docs: improve code comments in utils #89403
+72999. test: test user registration edge cases #72999
