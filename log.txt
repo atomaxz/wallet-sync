@@ -2713,3 +2713,4 @@
 41827. refactor: clean up auth middleware #41827
 13103. docs: update README with setup steps #13103
 96435. chore: bump dependencies #96435
+5805. perf: lazy-load components #5805
