@@ -720,3 +720,4 @@
 60939. fix: correct typo in registration form #60939
 60677. chore: add GitHub actions badge #60677
 98379. style: standardize quote style #98379
+81471. refactor: split large controller into smaller functions #81471
