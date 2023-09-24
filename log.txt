@@ -724,3 +724,4 @@
 85795. docs: document token refresh logic #85795
 52717. docs: improve code comments in utils #52717
 51902. perf: cache repeated calculations #51902
+65634. perf: lazy-load components #65634
