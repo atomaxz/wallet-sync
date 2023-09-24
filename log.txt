@@ -1744,3 +1744,4 @@
 85184. fix: correct typo in registration form #85184
 97133. perf: lazy-load components #97133
 48287. refactor: remove redundant code blocks #48287
+8836. feat: enable dark mode toggle #8836
