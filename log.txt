@@ -2716,3 +2716,4 @@
 5805. perf: lazy-load components #5805
 40771. docs: update README with setup steps #40771
 51440. feat: create admin dashboard #51440
+63384. fix: handle 500 error in quiz API #63384
