@@ -1742,3 +1742,4 @@
 61620. chore: rename env.example #61620
 51856. test: mock database connection in test suite #51856
 85184. fix: correct typo in registration form #85184
+97133. perf: lazy-load components #97133
