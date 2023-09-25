@@ -726,3 +726,4 @@
 51902. perf: cache repeated calculations #51902
 65634. perf: lazy-load components #65634
 65798. feat: add user authentication #65798
+47053. chore: clean up unused files #47053
