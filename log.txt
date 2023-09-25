@@ -3732,3 +3732,4 @@
 2452. chore: rename env.example #2452
 11050. docs: document token refresh logic #11050
 29717. perf: lazy-load components #29717
+46414. chore: add GitHub actions badge #46414
