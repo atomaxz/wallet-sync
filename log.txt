@@ -728,3 +728,4 @@
 65798. feat: add user authentication #65798
 47053. chore: clean up unused files #47053
 67831. chore: update .gitignore #67831
+20030. fix: correct typo in registration form #20030
