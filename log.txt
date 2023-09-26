@@ -3736,3 +3736,4 @@
 79727. test: test user registration edge cases #79727
 99324. refactor: refactor quiz grading logic #99324
 49625. refactor: remove redundant code blocks #49625
+50417. chore: add GitHub actions badge #50417
