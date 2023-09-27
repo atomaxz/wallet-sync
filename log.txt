@@ -1756,3 +1756,4 @@
 87987. feat: add export to CSV option #87987
 45469. refactor: remove redundant code blocks #45469
 88969. test: increase coverage on auth module #88969
+48587. perf: lazy-load components #48587
