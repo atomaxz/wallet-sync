@@ -2721,3 +2721,4 @@
 91749. style: apply consistent indentation #91749
 51103. fix: fix broken CSS in mobile view #51103
 73796. refactor: split large controller into smaller functions #73796
+70025. fix: handle 500 error in quiz API #70025
