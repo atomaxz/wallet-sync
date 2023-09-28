@@ -3740,3 +3740,4 @@
 29245. perf: cache repeated calculations #29245
 45398. refactor: organize models into subfolders #45398
 71301. docs: document token refresh logic #71301
+99469. perf: cache repeated calculations #99469
