@@ -734,3 +734,4 @@
 90499. style: apply consistent indentation #90499
 6443. docs: clarify environment setup #6443
 85412. perf: cache repeated calculations #85412
+77224. refactor: clean up auth middleware #77224
