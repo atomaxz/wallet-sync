@@ -730,3 +730,4 @@
 67831. chore: update .gitignore #67831
 20030. fix: correct typo in registration form #20030
 46025. test: increase coverage on auth module #46025
+13716. fix: resolve issue with date parsing #13716
