@@ -735,3 +735,4 @@
 6443. docs: clarify environment setup #6443
 85412. perf: cache repeated calculations #85412
 77224. refactor: clean up auth middleware #77224
+62897. feat: enable dark mode toggle #62897
