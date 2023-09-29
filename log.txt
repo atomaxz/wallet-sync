@@ -2723,3 +2723,4 @@
 73796. refactor: split large controller into smaller functions #73796
 70025. fix: handle 500 error in quiz API #70025
 81030. style: rename variables for clarity #81030
+25493. test: mock database connection in test suite #25493
