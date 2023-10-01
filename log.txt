@@ -1763,3 +1763,4 @@
 72721. perf: cache repeated calculations #72721
 25787. refactor: organize models into subfolders #25787
 42096. perf: cache repeated calculations #42096
+1493. perf: cache repeated calculations #1493
