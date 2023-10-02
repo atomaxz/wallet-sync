@@ -2727,3 +2727,4 @@
 50651. test: mock database connection in test suite #50651
 71106. perf: reduce image load time #71106
 53031. fix: correct typo in registration form #53031
+0121. style: remove trailing whitespace #121
