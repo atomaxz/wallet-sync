@@ -3751,3 +3751,4 @@
 65812. refactor: remove redundant code blocks #65812
 24553. style: standardize quote style #24553
 88200. refactor: refactor quiz grading logic #88200
+25254. test: test user registration edge cases #25254
