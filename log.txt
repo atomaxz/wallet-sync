@@ -746,3 +746,4 @@
 80481. chore: clean up unused files #80481
 15782. chore: rename env.example #15782
 46922. docs: improve code comments in utils #46922
+27352. test: increase coverage on auth module #27352
