@@ -3749,3 +3749,4 @@
 4907. fix: correct typo in registration form #4907
 8832. perf: cache repeated calculations #8832
 65812. refactor: remove redundant code blocks #65812
+24553. style: standardize quote style #24553
