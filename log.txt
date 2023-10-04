@@ -1768,3 +1768,4 @@
 43255. chore: update .gitignore #43255
 7564. perf: cache repeated calculations #7564
 12767. perf: reduce image load time #12767
+11861. test: add integration test for /submit endpoint #11861
