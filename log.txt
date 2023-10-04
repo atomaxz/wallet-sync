@@ -750,3 +750,4 @@
 24099. docs: update README with setup steps #24099
 70127. feat: add user authentication #70127
 89563. perf: cache repeated calculations #89563
+64794. refactor: organize models into subfolders #64794
