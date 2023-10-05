@@ -3758,3 +3758,4 @@
 97044. docs: clarify environment setup #97044
 50697. refactor: split large controller into smaller functions #50697
 89915. fix: handle 500 error in quiz API #89915
+76426. feat: add user authentication #76426
