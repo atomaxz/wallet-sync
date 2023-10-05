@@ -1774,3 +1774,4 @@
 75169. docs: update README with setup steps #75169
 54716. test: test user registration edge cases #54716
 11189. style: standardize quote style #11189
+30467. feat: enable dark mode toggle #30467
