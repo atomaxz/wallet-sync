@@ -2737,3 +2737,4 @@
 42156. test: test user registration edge cases #42156
 20201. perf: cache repeated calculations #20201
 23790. perf: reduce image load time #23790
+22013. test: test user registration edge cases #22013
