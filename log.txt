@@ -762,3 +762,4 @@
 41731. docs: add API usage examples #41731
 89326. chore: clean up unused files #89326
 84834. feat: enable dark mode toggle #84834
+12981. style: rename variables for clarity #12981
