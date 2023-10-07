@@ -759,3 +759,4 @@
 54132. fix: fix broken CSS in mobile view #54132
 67823. refactor: remove redundant code blocks #67823
 19612. test: test user registration edge cases #19612
+41731. docs: add API usage examples #41731
