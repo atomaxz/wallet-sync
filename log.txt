@@ -3766,3 +3766,4 @@
 45415. docs: update README with setup steps #45415
 13426. perf: reduce image load time #13426
 57198. chore: bump dependencies #57198
+51178. style: remove trailing whitespace #51178
