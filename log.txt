@@ -1780,3 +1780,4 @@
 69621. feat: enable dark mode toggle #69621
 80375. docs: clarify environment setup #80375
 9144. style: reformat files with black #9144
+14232. fix: correct typo in registration form #14232
