@@ -2744,3 +2744,4 @@
 2680. docs: add API usage examples #2680
 34512. test: add unit test for quiz service #34512
 18418. test: mock database connection in test suite #18418
+19487. chore: add GitHub actions badge #19487
