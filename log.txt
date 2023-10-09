@@ -766,3 +766,4 @@
 17373. docs: clarify environment setup #17373
 99592. perf: cache repeated calculations #99592
 71394. chore: update .gitignore #71394
+25668. test: mock database connection in test suite #25668
