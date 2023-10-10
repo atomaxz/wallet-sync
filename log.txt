@@ -2746,3 +2746,4 @@
 18418. test: mock database connection in test suite #18418
 19487. chore: add GitHub actions badge #19487
 63025. test: mock database connection in test suite #63025
+84752. test: add integration test for /submit endpoint #84752
