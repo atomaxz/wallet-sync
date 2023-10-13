@@ -3776,3 +3776,4 @@
 65046. refactor: split large controller into smaller functions #65046
 82566. refactor: remove redundant code blocks #82566
 95229. chore: rename env.example #95229
+13706. refactor: clean up auth middleware #13706
