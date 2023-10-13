@@ -2757,3 +2757,4 @@
 43432. feat: support email verification #43432
 0423. test: add unit test for quiz service #423
 21815. fix: resolve issue with date parsing #21815
+45567. perf: lazy-load components #45567
