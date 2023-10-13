@@ -778,3 +778,4 @@
 90671. feat: support email verification #90671
 97783. docs: write FAQ section #97783
 8328. style: reformat files with black #8328
+11888. feat: support email verification #11888
