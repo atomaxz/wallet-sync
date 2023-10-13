@@ -3777,3 +3777,4 @@
 82566. refactor: remove redundant code blocks #82566
 95229. chore: rename env.example #95229
 13706. refactor: clean up auth middleware #13706
+83822. perf: lazy-load components #83822
