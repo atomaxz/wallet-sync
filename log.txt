@@ -780,3 +780,4 @@
 8328. style: reformat files with black #8328
 11888. feat: support email verification #11888
 34038. docs: add API usage examples #34038
+4816. docs: update README with setup steps #4816
