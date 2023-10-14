@@ -781,3 +781,4 @@
 11888. feat: support email verification #11888
 34038. docs: add API usage examples #34038
 4816. docs: update README with setup steps #4816
+36161. perf: cache repeated calculations #36161
