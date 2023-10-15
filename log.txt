@@ -3782,3 +3782,4 @@
 31038. refactor: organize models into subfolders #31038
 85057. style: apply consistent indentation #85057
 34538. refactor: remove redundant code blocks #34538
+38911. test: test user registration edge cases #38911
