@@ -785,3 +785,4 @@
 9538. docs: improve code comments in utils #9538
 88297. refactor: split large controller into smaller functions #88297
 51336. refactor: clean up auth middleware #51336
+18615. feat: support email verification #18615
