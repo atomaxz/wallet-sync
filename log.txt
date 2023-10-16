@@ -1796,3 +1796,4 @@
 90764. perf: cache repeated calculations #90764
 97120. perf: optimize database query for quiz results #97120
 45807. fix: resolve issue with date parsing #45807
+37777. test: mock database connection in test suite #37777
