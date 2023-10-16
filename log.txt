@@ -2763,3 +2763,4 @@
 80536. perf: cache repeated calculations #80536
 38557. test: add integration test for /submit endpoint #38557
 30365. perf: lazy-load components #30365
+87715. fix: resolve issue with date parsing #87715
