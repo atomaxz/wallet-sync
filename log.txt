@@ -1797,3 +1797,4 @@
 97120. perf: optimize database query for quiz results #97120
 45807. fix: resolve issue with date parsing #45807
 37777. test: mock database connection in test suite #37777
+31407. perf: reduce image load time #31407
