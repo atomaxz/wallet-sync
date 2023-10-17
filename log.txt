@@ -2765,3 +2765,4 @@
 30365. perf: lazy-load components #30365
 87715. fix: resolve issue with date parsing #87715
 24297. docs: add API usage examples #24297
+45039. perf: lazy-load components #45039
