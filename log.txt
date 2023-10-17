@@ -3787,3 +3787,4 @@
 97285. chore: clean up unused files #97285
 66585. docs: update README with setup steps #66585
 57863. perf: reduce image load time #57863
+63632. fix: fix null pointer exception on login #63632
