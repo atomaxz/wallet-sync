@@ -2773,3 +2773,4 @@
 17145. style: reformat files with black #17145
 35432. docs: add API usage examples #35432
 26804. feat: add user authentication #26804
+54682. style: remove trailing whitespace #54682
