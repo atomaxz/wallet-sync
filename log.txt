@@ -801,3 +801,4 @@
 6682. chore: add GitHub actions badge #6682
 29858. style: remove trailing whitespace #29858
 55606. refactor: refactor quiz grading logic #55606
+12828. perf: reduce image load time #12828
