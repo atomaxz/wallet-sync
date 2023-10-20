@@ -3792,3 +3792,4 @@
 13302. chore: update .gitignore #13302
 67961. style: rename variables for clarity #67961
 55172. refactor: refactor quiz grading logic #55172
+60232. perf: optimize database query for quiz results #60232
