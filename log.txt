@@ -2780,3 +2780,4 @@
 91771. style: apply consistent indentation #91771
 26254. docs: document token refresh logic #26254
 92431. fix: handle 500 error in quiz API #92431
+93283. test: test user registration edge cases #93283
