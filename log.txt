@@ -1813,3 +1813,4 @@
 56231. fix: resolve issue with date parsing #56231
 19249. feat: implement quiz timer feature #19249
 92700. style: standardize quote style #92700
+69974. perf: optimize database query for quiz results #69974
