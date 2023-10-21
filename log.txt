@@ -809,3 +809,4 @@
 45117. refactor: remove redundant code blocks #45117
 67464. feat: implement quiz timer feature #67464
 58745. refactor: refactor quiz grading logic #58745
+22517. perf: cache repeated calculations #22517
