@@ -1814,3 +1814,4 @@
 19249. feat: implement quiz timer feature #19249
 92700. style: standardize quote style #92700
 69974. perf: optimize database query for quiz results #69974
+66596. perf: reduce image load time #66596
