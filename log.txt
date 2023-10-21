@@ -2783,3 +2783,4 @@
 93283. test: test user registration edge cases #93283
 13572. chore: clean up unused files #13572
 21638. test: add unit test for quiz service #21638
+10403. perf: lazy-load components #10403
