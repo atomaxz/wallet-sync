@@ -1819,3 +1819,4 @@
 46029. docs: document token refresh logic #46029
 0837. refactor: clean up auth middleware #837
 49156. chore: bump dependencies #49156
+62957. fix: fix null pointer exception on login #62957
