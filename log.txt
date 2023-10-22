@@ -1818,3 +1818,4 @@
 38527. feat: support email verification #38527
 46029. docs: document token refresh logic #46029
 0837. refactor: clean up auth middleware #837
+49156. chore: bump dependencies #49156
