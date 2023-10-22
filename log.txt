@@ -3798,3 +3798,4 @@
 23160. feat: support email verification #23160
 85570. perf: cache repeated calculations #85570
 40047. test: add unit test for quiz service #40047
+15198. refactor: remove redundant code blocks #15198
