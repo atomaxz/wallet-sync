@@ -3806,3 +3806,4 @@
 93667. fix: resolve issue with date parsing #93667
 87044. style: remove trailing whitespace #87044
 6004. refactor: split large controller into smaller functions #6004
+56297. perf: optimize database query for quiz results #56297
