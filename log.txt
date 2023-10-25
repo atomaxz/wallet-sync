@@ -2795,3 +2795,4 @@
 80558. fix: handle 500 error in quiz API #80558
 67003. style: standardize quote style #67003
 7916. chore: add GitHub actions badge #7916
+18757. style: reformat files with black #18757
