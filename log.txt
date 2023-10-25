@@ -3804,3 +3804,4 @@
 11386. refactor: clean up auth middleware #11386
 34259. docs: add API usage examples #34259
 93667. fix: resolve issue with date parsing #93667
+87044. style: remove trailing whitespace #87044
