@@ -817,3 +817,4 @@
 75930. test: add integration test for /submit endpoint #75930
 73058. style: apply consistent indentation #73058
 85180. fix: correct typo in registration form #85180
+94200. test: mock database connection in test suite #94200
