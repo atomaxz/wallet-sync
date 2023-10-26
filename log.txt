@@ -3810,3 +3810,4 @@
 52637. style: reformat files with black #52637
 28937. chore: rename env.example #28937
 43513. fix: correct typo in registration form #43513
+88052. docs: document token refresh logic #88052
