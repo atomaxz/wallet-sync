@@ -821,3 +821,4 @@
 45651. feat: create admin dashboard #45651
 41771. perf: reduce image load time #41771
 71382. chore: clean up unused files #71382
+33551. fix: fix broken CSS in mobile view #33551
