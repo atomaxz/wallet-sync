@@ -3809,3 +3809,4 @@
 56297. perf: optimize database query for quiz results #56297
 52637. style: reformat files with black #52637
 28937. chore: rename env.example #28937
+43513. fix: correct typo in registration form #43513
