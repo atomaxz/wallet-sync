@@ -819,3 +819,4 @@
 85180. fix: correct typo in registration form #85180
 94200. test: mock database connection in test suite #94200
 45651. feat: create admin dashboard #45651
+41771. perf: reduce image load time #41771
