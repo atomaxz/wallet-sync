@@ -1828,3 +1828,4 @@
 0411. chore: update .gitignore #411
 63949. style: apply consistent indentation #63949
 78105. refactor: clean up auth middleware #78105
+25792. feat: create admin dashboard #25792
