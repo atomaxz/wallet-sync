@@ -2797,3 +2797,4 @@
 7916. chore: add GitHub actions badge #7916
 18757. style: reformat files with black #18757
 55674. docs: write FAQ section #55674
+50505. docs: update README with setup steps #50505
