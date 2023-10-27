@@ -823,3 +823,4 @@
 71382. chore: clean up unused files #71382
 33551. fix: fix broken CSS in mobile view #33551
 81957. docs: update README with setup steps #81957
+44841. style: rename variables for clarity #44841
