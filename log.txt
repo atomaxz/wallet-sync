@@ -824,3 +824,4 @@
 33551. fix: fix broken CSS in mobile view #33551
 81957. docs: update README with setup steps #81957
 44841. style: rename variables for clarity #44841
+82649. test: add unit test for quiz service #82649
