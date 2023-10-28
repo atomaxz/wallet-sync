@@ -827,3 +827,4 @@
 82649. test: add unit test for quiz service #82649
 38520. fix: prevent crash on empty input #38520
 78473. fix: fix null pointer exception on login #78473
+82478. fix: correct typo in registration form #82478
