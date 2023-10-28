@@ -1829,3 +1829,4 @@
 63949. style: apply consistent indentation #63949
 78105. refactor: clean up auth middleware #78105
 25792. feat: create admin dashboard #25792
+4929. chore: add GitHub actions badge #4929
