@@ -825,3 +825,4 @@
 81957. docs: update README with setup steps #81957
 44841. style: rename variables for clarity #44841
 82649. test: add unit test for quiz service #82649
+38520. fix: prevent crash on empty input #38520
