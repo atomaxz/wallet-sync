@@ -2802,3 +2802,4 @@
 5559. chore: bump dependencies #5559
 3409. docs: document token refresh logic #3409
 28622. feat: implement quiz timer feature #28622
+78779. chore: update .gitignore #78779
