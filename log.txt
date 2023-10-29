@@ -2805,3 +2805,4 @@
 78779. chore: update .gitignore #78779
 11568. refactor: clean up auth middleware #11568
 89027. chore: update .gitignore #89027
+36404. feat: add user authentication #36404
