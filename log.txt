@@ -1831,3 +1831,4 @@
 25792. feat: create admin dashboard #25792
 4929. chore: add GitHub actions badge #4929
 69042. docs: update README with setup steps #69042
+75525. perf: lazy-load components #75525
