@@ -2807,3 +2807,4 @@
 89027. chore: update .gitignore #89027
 36404. feat: add user authentication #36404
 24039. feat: add user authentication #24039
+6508. feat: support email verification #6508
