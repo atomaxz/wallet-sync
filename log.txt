@@ -3814,3 +3814,4 @@
 72002. test: increase coverage on auth module #72002
 17480. test: mock database connection in test suite #17480
 49815. style: remove trailing whitespace #49815
+59309. refactor: organize models into subfolders #59309
