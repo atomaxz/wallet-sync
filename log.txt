@@ -1836,3 +1836,4 @@
 71292. chore: update .gitignore #71292
 95796. feat: create admin dashboard #95796
 30190. feat: support email verification #30190
+57721. test: mock database connection in test suite #57721
