@@ -2813,3 +2813,4 @@
 26799. test: add unit test for quiz service #26799
 57562. docs: add API usage examples #57562
 43439. refactor: refactor quiz grading logic #43439
+23800. feat: support email verification #23800
