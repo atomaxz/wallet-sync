@@ -832,3 +832,4 @@
 34464. docs: update README with setup steps #34464
 58309. perf: cache repeated calculations #58309
 38002. test: add unit test for quiz service #38002
+4057. feat: enable dark mode toggle #4057
