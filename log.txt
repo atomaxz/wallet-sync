@@ -831,3 +831,4 @@
 62045. test: increase coverage on auth module #62045
 34464. docs: update README with setup steps #34464
 58309. perf: cache repeated calculations #58309
+38002. test: add unit test for quiz service #38002
