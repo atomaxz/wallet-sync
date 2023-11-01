@@ -3824,3 +3824,4 @@
 97088. test: add integration test for /submit endpoint #97088
 44649. feat: create admin dashboard #44649
 56495. chore: rename env.example #56495
+24120. fix: prevent crash on empty input #24120
