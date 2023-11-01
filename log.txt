@@ -3826,3 +3826,4 @@
 56495. chore: rename env.example #56495
 24120. fix: prevent crash on empty input #24120
 15145. chore: rename env.example #15145
+39838. docs: document token refresh logic #39838
