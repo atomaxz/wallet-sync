@@ -1839,3 +1839,4 @@
 57721. test: mock database connection in test suite #57721
 64611. feat: add export to CSV option #64611
 27197. test: increase coverage on auth module #27197
+10642. refactor: organize models into subfolders #10642
