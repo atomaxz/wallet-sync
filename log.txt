@@ -2818,3 +2818,4 @@
 94446. fix: resolve issue with date parsing #94446
 10089. style: remove trailing whitespace #10089
 23804. style: rename variables for clarity #23804
+73006. fix: fix broken CSS in mobile view #73006
