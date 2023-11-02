@@ -834,3 +834,4 @@
 38002. test: add unit test for quiz service #38002
 4057. feat: enable dark mode toggle #4057
 75286. feat: create admin dashboard #75286
+38177. style: reformat files with black #38177
