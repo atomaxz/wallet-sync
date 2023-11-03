@@ -2822,3 +2822,4 @@
 55792. fix: correct typo in registration form #55792
 94509. chore: clean up unused files #94509
 10368. feat: create admin dashboard #10368
+87755. style: rename variables for clarity #87755
