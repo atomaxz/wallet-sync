@@ -837,3 +837,4 @@
 38177. style: reformat files with black #38177
 79772. feat: create admin dashboard #79772
 40605. chore: add GitHub actions badge #40605
+48218. style: apply consistent indentation #48218
