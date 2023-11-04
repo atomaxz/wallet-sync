@@ -2823,3 +2823,4 @@
 94509. chore: clean up unused files #94509
 10368. feat: create admin dashboard #10368
 87755. style: rename variables for clarity #87755
+74861. docs: update README with setup steps #74861
