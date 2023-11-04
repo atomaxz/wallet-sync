@@ -1848,3 +1848,4 @@
 57316. perf: cache repeated calculations #57316
 70955. style: standardize quote style #70955
 21512. perf: reduce image load time #21512
+34192. feat: support email verification #34192
