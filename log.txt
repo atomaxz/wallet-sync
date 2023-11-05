@@ -839,3 +839,4 @@
 40605. chore: add GitHub actions badge #40605
 48218. style: apply consistent indentation #48218
 51053. test: increase coverage on auth module #51053
+83676. style: remove trailing whitespace #83676
