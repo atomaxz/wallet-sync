@@ -3833,3 +3833,4 @@
 6283. docs: clarify environment setup #6283
 93999. refactor: split large controller into smaller functions #93999
 40141. fix: resolve issue with date parsing #40141
+14650. fix: prevent crash on empty input #14650
