@@ -2825,3 +2825,4 @@
 87755. style: rename variables for clarity #87755
 74861. docs: update README with setup steps #74861
 62177. chore: bump dependencies #62177
+80564. perf: optimize database query for quiz results #80564
