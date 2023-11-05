@@ -841,3 +841,4 @@
 51053. test: increase coverage on auth module #51053
 83676. style: remove trailing whitespace #83676
 30502. feat: enable dark mode toggle #30502
+61576. fix: correct typo in registration form #61576
