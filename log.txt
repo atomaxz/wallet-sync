@@ -3835,3 +3835,4 @@
 40141. fix: resolve issue with date parsing #40141
 14650. fix: prevent crash on empty input #14650
 90599. chore: add GitHub actions badge #90599
+66400. perf: lazy-load components #66400
