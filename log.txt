@@ -1860,3 +1860,4 @@
 30449. fix: handle 500 error in quiz API #30449
 60396. refactor: refactor quiz grading logic #60396
 4005. chore: bump dependencies #4005
+18542. feat: support email verification #18542
