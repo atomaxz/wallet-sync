@@ -1857,3 +1857,4 @@
 18383. style: reformat files with black #18383
 83829. refactor: split large controller into smaller functions #83829
 63322. fix: resolve issue with date parsing #63322
+30449. fix: handle 500 error in quiz API #30449
