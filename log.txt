@@ -3843,3 +3843,4 @@
 74585. docs: add API usage examples #74585
 19835. perf: optimize database query for quiz results #19835
 48449. test: test user registration edge cases #48449
+33129. feat: enable dark mode toggle #33129
