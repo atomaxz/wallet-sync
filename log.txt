@@ -847,3 +847,4 @@
 43452. docs: clarify environment setup #43452
 2986. refactor: split large controller into smaller functions #2986
 52643. fix: fix broken CSS in mobile view #52643
+69654. refactor: organize models into subfolders #69654
