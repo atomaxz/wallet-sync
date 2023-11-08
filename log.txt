@@ -1861,3 +1861,4 @@
 60396. refactor: refactor quiz grading logic #60396
 4005. chore: bump dependencies #4005
 18542. feat: support email verification #18542
+65994. perf: optimize database query for quiz results #65994
