@@ -1863,3 +1863,4 @@
 18542. feat: support email verification #18542
 65994. perf: optimize database query for quiz results #65994
 52653. fix: resolve issue with date parsing #52653
+24899. docs: clarify environment setup #24899
