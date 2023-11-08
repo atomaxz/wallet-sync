@@ -3846,3 +3846,4 @@
 33129. feat: enable dark mode toggle #33129
 34244. docs: write FAQ section #34244
 95274. docs: write FAQ section #95274
+40898. perf: lazy-load components #40898
