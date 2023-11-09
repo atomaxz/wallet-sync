@@ -1865,3 +1865,4 @@
 52653. fix: resolve issue with date parsing #52653
 24899. docs: clarify environment setup #24899
 94132. fix: fix broken CSS in mobile view #94132
+8235. perf: reduce image load time #8235
