@@ -3847,3 +3847,4 @@
 34244. docs: write FAQ section #34244
 95274. docs: write FAQ section #95274
 40898. perf: lazy-load components #40898
+95844. docs: update README with setup steps #95844
