@@ -2841,3 +2841,4 @@
 4385. style: standardize quote style #4385
 10390. style: standardize quote style #10390
 26812. perf: optimize database query for quiz results #26812
+97451. perf: optimize database query for quiz results #97451
