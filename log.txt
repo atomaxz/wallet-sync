@@ -850,3 +850,4 @@
 69654. refactor: organize models into subfolders #69654
 67589. perf: cache repeated calculations #67589
 33077. chore: update .gitignore #33077
+38424. feat: support email verification #38424
