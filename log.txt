@@ -851,3 +851,4 @@
 67589. perf: cache repeated calculations #67589
 33077. chore: update .gitignore #33077
 38424. feat: support email verification #38424
+41914. fix: fix null pointer exception on login #41914
