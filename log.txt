@@ -2847,3 +2847,4 @@
 10607. docs: update README with setup steps #10607
 33934. refactor: split large controller into smaller functions #33934
 58717. refactor: organize models into subfolders #58717
+81248. chore: bump dependencies #81248
