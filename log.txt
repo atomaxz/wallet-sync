@@ -860,3 +860,4 @@
 73835. fix: fix broken CSS in mobile view #73835
 12892. perf: lazy-load components #12892
 12710. feat: add user authentication #12710
+85241. perf: optimize database query for quiz results #85241
