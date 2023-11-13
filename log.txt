@@ -859,3 +859,4 @@
 51965. refactor: split large controller into smaller functions #51965
 73835. fix: fix broken CSS in mobile view #73835
 12892. perf: lazy-load components #12892
+12710. feat: add user authentication #12710
