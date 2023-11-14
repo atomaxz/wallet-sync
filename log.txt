@@ -1871,3 +1871,4 @@
 77603. chore: bump dependencies #77603
 77169. refactor: clean up auth middleware #77169
 80494. refactor: split large controller into smaller functions #80494
+4286. test: mock database connection in test suite #4286
