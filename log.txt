@@ -3855,3 +3855,4 @@
 70100. refactor: split large controller into smaller functions #70100
 84904. docs: add API usage examples #84904
 96358. docs: document token refresh logic #96358
+59710. refactor: organize models into subfolders #59710
