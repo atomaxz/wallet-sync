@@ -1869,3 +1869,4 @@
 75344. feat: implement quiz timer feature #75344
 22518. docs: improve code comments in utils #22518
 77603. chore: bump dependencies #77603
+77169. refactor: clean up auth middleware #77169
