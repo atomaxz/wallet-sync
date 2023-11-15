@@ -868,3 +868,4 @@
 27843. feat: add user authentication #27843
 84689. perf: reduce image load time #84689
 78442. refactor: split large controller into smaller functions #78442
+41269. feat: support email verification #41269
