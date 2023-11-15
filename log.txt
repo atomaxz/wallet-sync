@@ -869,3 +869,4 @@
 84689. perf: reduce image load time #84689
 78442. refactor: split large controller into smaller functions #78442
 41269. feat: support email verification #41269
+67679. fix: correct typo in registration form #67679
