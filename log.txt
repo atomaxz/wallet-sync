@@ -866,3 +866,4 @@
 27941. perf: optimize database query for quiz results #27941
 78508. refactor: refactor quiz grading logic #78508
 27843. feat: add user authentication #27843
+84689. perf: reduce image load time #84689
