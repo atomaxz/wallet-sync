@@ -1873,3 +1873,4 @@
 80494. refactor: split large controller into smaller functions #80494
 4286. test: mock database connection in test suite #4286
 3512. docs: improve code comments in utils #3512
+15914. fix: prevent crash on empty input #15914
