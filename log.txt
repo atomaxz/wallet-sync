@@ -1875,3 +1875,4 @@
 3512. docs: improve code comments in utils #3512
 15914. fix: prevent crash on empty input #15914
 33305. refactor: clean up auth middleware #33305
+28045. fix: handle 500 error in quiz API #28045
