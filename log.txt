@@ -3864,3 +3864,4 @@
 98278. perf: optimize database query for quiz results #98278
 76621. feat: support email verification #76621
 86277. docs: write FAQ section #86277
+25530. fix: handle 500 error in quiz API #25530
