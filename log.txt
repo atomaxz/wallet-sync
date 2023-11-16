@@ -871,3 +871,4 @@
 41269. feat: support email verification #41269
 67679. fix: correct typo in registration form #67679
 13738. fix: correct typo in registration form #13738
+26792. docs: document token refresh logic #26792
