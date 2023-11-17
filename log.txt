@@ -1878,3 +1878,4 @@
 28045. fix: handle 500 error in quiz API #28045
 50371. fix: resolve issue with date parsing #50371
 43029. refactor: clean up auth middleware #43029
+58246. fix: correct typo in registration form #58246
