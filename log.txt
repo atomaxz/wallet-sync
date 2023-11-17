@@ -2863,3 +2863,4 @@
 51624. fix: resolve issue with date parsing #51624
 12940. test: add unit test for quiz service #12940
 95885. perf: cache repeated calculations #95885
+13925. refactor: clean up auth middleware #13925
