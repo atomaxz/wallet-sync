@@ -1880,3 +1880,4 @@
 43029. refactor: clean up auth middleware #43029
 58246. fix: correct typo in registration form #58246
 18359. feat: enable dark mode toggle #18359
+69302. chore: update .gitignore #69302
