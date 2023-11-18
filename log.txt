@@ -879,3 +879,4 @@
 89054. feat: add user authentication #89054
 50446. chore: update .gitignore #50446
 70651. docs: clarify environment setup #70651
+28249. test: test user registration edge cases #28249
