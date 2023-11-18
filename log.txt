@@ -3872,3 +3872,4 @@
 16110. chore: clean up unused files #16110
 60802. docs: update README with setup steps #60802
 51603. feat: add user authentication #51603
+75961. test: test user registration edge cases #75961
