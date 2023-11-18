@@ -876,3 +876,4 @@
 82718. refactor: clean up auth middleware #82718
 89980. feat: create admin dashboard #89980
 48961. fix: prevent crash on empty input #48961
+89054. feat: add user authentication #89054
