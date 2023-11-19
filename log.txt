@@ -3874,3 +3874,4 @@
 51603. feat: add user authentication #51603
 75961. test: test user registration edge cases #75961
 76528. feat: add export to CSV option #76528
+25733. style: reformat files with black #25733
