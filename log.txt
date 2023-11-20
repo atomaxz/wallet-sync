@@ -887,3 +887,4 @@
 45902. perf: cache repeated calculations #45902
 3538. chore: bump dependencies #3538
 83694. fix: fix null pointer exception on login #83694
+77234. test: add integration test for /submit endpoint #77234
