@@ -2871,3 +2871,4 @@
 96477. chore: add GitHub actions badge #96477
 80497. docs: improve code comments in utils #80497
 75822. style: rename variables for clarity #75822
+84733. perf: reduce image load time #84733
