@@ -3878,3 +3878,4 @@
 81250. docs: add API usage examples #81250
 26368. test: mock database connection in test suite #26368
 0563. fix: fix broken CSS in mobile view #563
+41365. test: test user registration edge cases #41365
