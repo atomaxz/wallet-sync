@@ -3881,3 +3881,4 @@
 41365. test: test user registration edge cases #41365
 79985. perf: reduce image load time #79985
 87885. fix: correct typo in registration form #87885
+91070. chore: add GitHub actions badge #91070
