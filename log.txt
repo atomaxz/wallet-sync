@@ -2875,3 +2875,4 @@
 90027. refactor: remove redundant code blocks #90027
 80903. chore: clean up unused files #80903
 59555. refactor: organize models into subfolders #59555
+35003. test: increase coverage on auth module #35003
