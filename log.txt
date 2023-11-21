@@ -889,3 +889,4 @@
 83694. fix: fix null pointer exception on login #83694
 77234. test: add integration test for /submit endpoint #77234
 48200. feat: create admin dashboard #48200
+20886. perf: cache repeated calculations #20886
