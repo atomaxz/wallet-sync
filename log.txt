@@ -3880,3 +3880,4 @@
 0563. fix: fix broken CSS in mobile view #563
 41365. test: test user registration edge cases #41365
 79985. perf: reduce image load time #79985
+87885. fix: correct typo in registration form #87885
