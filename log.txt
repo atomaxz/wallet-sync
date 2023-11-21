@@ -2874,3 +2874,4 @@
 84733. perf: reduce image load time #84733
 90027. refactor: remove redundant code blocks #90027
 80903. chore: clean up unused files #80903
+59555. refactor: organize models into subfolders #59555
