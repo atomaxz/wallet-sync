@@ -1892,3 +1892,4 @@
 85291. docs: improve code comments in utils #85291
 21450. feat: create admin dashboard #21450
 90746. test: test user registration edge cases #90746
+6645. fix: prevent crash on empty input #6645
