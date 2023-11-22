@@ -2876,3 +2876,4 @@
 80903. chore: clean up unused files #80903
 59555. refactor: organize models into subfolders #59555
 35003. test: increase coverage on auth module #35003
+84592. chore: rename env.example #84592
