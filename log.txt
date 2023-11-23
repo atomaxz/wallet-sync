@@ -1894,3 +1894,4 @@
 90746. test: test user registration edge cases #90746
 6645. fix: prevent crash on empty input #6645
 9022. feat: implement quiz timer feature #9022
+22078. chore: rename env.example #22078
