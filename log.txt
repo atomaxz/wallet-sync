@@ -1896,3 +1896,4 @@
 9022. feat: implement quiz timer feature #9022
 22078. chore: rename env.example #22078
 77850. style: standardize quote style #77850
+16737. fix: prevent crash on empty input #16737
