@@ -899,3 +899,4 @@
 77759. refactor: remove redundant code blocks #77759
 17369. refactor: organize models into subfolders #17369
 2487. docs: improve code comments in utils #2487
+74471. feat: enable dark mode toggle #74471
