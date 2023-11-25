@@ -1904,3 +1904,4 @@
 12568. test: test user registration edge cases #12568
 17751. refactor: split large controller into smaller functions #17751
 26173. style: rename variables for clarity #26173
+90520. docs: update README with setup steps #90520
