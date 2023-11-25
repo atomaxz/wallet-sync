@@ -2889,3 +2889,4 @@
 10596. fix: prevent crash on empty input #10596
 62806. feat: create admin dashboard #62806
 50136. fix: handle 500 error in quiz API #50136
+49936. fix: prevent crash on empty input #49936
