@@ -2886,3 +2886,4 @@
 36050. feat: create admin dashboard #36050
 18017. fix: fix broken CSS in mobile view #18017
 72127. perf: optimize database query for quiz results #72127
+10596. fix: prevent crash on empty input #10596
