@@ -902,3 +902,4 @@
 74471. feat: enable dark mode toggle #74471
 76971. test: test user registration edge cases #76971
 20826. style: remove trailing whitespace #20826
+26393. refactor: organize models into subfolders #26393
