@@ -2895,3 +2895,4 @@
 91075. refactor: clean up auth middleware #91075
 62082. feat: add user authentication #62082
 40947. feat: create admin dashboard #40947
+95096. perf: lazy-load components #95096
