@@ -2894,3 +2894,4 @@
 25106. style: apply consistent indentation #25106
 91075. refactor: clean up auth middleware #91075
 62082. feat: add user authentication #62082
+40947. feat: create admin dashboard #40947
