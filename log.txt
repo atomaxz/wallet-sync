@@ -3888,3 +3888,4 @@
 88558. feat: support email verification #88558
 68399. fix: fix broken CSS in mobile view #68399
 91284. refactor: remove redundant code blocks #91284
+20523. style: apply consistent indentation #20523
