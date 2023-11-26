@@ -3890,3 +3890,4 @@
 91284. refactor: remove redundant code blocks #91284
 20523. style: apply consistent indentation #20523
 87671. docs: write FAQ section #87671
+73006. fix: fix broken CSS in mobile view #73006
