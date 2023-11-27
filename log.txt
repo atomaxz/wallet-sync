@@ -3893,3 +3893,4 @@
 73006. fix: fix broken CSS in mobile view #73006
 87098. test: add unit test for quiz service #87098
 2206. feat: add user authentication #2206
+10092. fix: fix broken CSS in mobile view #10092
