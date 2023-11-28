@@ -3895,3 +3895,4 @@
 2206. feat: add user authentication #2206
 10092. fix: fix broken CSS in mobile view #10092
 80675. feat: implement quiz timer feature #80675
+99193. fix: correct typo in registration form #99193
