@@ -3897,3 +3897,4 @@
 80675. feat: implement quiz timer feature #80675
 99193. fix: correct typo in registration form #99193
 49676. fix: handle 500 error in quiz API #49676
+43081. docs: write FAQ section #43081
