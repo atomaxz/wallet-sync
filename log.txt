@@ -909,3 +909,4 @@
 80423. docs: write FAQ section #80423
 23030. perf: reduce image load time #23030
 53326. fix: resolve issue with date parsing #53326
+74300. chore: add GitHub actions badge #74300
