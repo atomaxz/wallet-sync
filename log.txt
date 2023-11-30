@@ -2909,3 +2909,4 @@
 74278. perf: optimize database query for quiz results #74278
 17377. chore: rename env.example #17377
 70540. feat: create admin dashboard #70540
+65441. chore: bump dependencies #65441
