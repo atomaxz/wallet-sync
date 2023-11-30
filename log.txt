@@ -2906,3 +2906,4 @@
 1122. docs: update README with setup steps #1122
 25005. perf: reduce image load time #25005
 62686. feat: enable dark mode toggle #62686
+74278. perf: optimize database query for quiz results #74278
