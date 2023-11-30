@@ -910,3 +910,4 @@
 23030. perf: reduce image load time #23030
 53326. fix: resolve issue with date parsing #53326
 74300. chore: add GitHub actions badge #74300
+53585. style: remove trailing whitespace #53585
