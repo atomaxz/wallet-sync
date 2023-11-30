@@ -911,3 +911,4 @@
 53326. fix: resolve issue with date parsing #53326
 74300. chore: add GitHub actions badge #74300
 53585. style: remove trailing whitespace #53585
+83293. test: add integration test for /submit endpoint #83293
