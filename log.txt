@@ -3898,3 +3898,4 @@
 99193. fix: correct typo in registration form #99193
 49676. fix: handle 500 error in quiz API #49676
 43081. docs: write FAQ section #43081
+55806. test: test user registration edge cases #55806
