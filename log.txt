@@ -2911,3 +2911,4 @@
 70540. feat: create admin dashboard #70540
 65441. chore: bump dependencies #65441
 90166. docs: document token refresh logic #90166
+92456. test: increase coverage on auth module #92456
