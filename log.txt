@@ -914,3 +914,4 @@
 83293. test: add integration test for /submit endpoint #83293
 89834. chore: add GitHub actions badge #89834
 61949. test: increase coverage on auth module #61949
+40892. perf: optimize database query for quiz results #40892
