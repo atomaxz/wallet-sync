@@ -3899,3 +3899,4 @@
 49676. fix: handle 500 error in quiz API #49676
 43081. docs: write FAQ section #43081
 55806. test: test user registration edge cases #55806
+19983. test: mock database connection in test suite #19983
