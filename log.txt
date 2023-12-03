@@ -918,3 +918,4 @@
 90978. perf: optimize database query for quiz results #90978
 58022. docs: add API usage examples #58022
 17791. fix: fix null pointer exception on login #17791
+42976. test: increase coverage on auth module #42976
