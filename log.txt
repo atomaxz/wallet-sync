@@ -915,3 +915,4 @@
 89834. chore: add GitHub actions badge #89834
 61949. test: increase coverage on auth module #61949
 40892. perf: optimize database query for quiz results #40892
+90978. perf: optimize database query for quiz results #90978
