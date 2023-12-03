@@ -3901,3 +3901,4 @@
 55806. test: test user registration edge cases #55806
 19983. test: mock database connection in test suite #19983
 22022. perf: reduce image load time #22022
+38259. docs: add API usage examples #38259
