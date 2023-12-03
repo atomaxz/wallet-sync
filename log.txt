@@ -3902,3 +3902,4 @@
 19983. test: mock database connection in test suite #19983
 22022. perf: reduce image load time #22022
 38259. docs: add API usage examples #38259
+41375. fix: fix broken CSS in mobile view #41375
