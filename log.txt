@@ -1914,3 +1914,4 @@
 50505. docs: update README with setup steps #50505
 23124. feat: add user authentication #23124
 66505. style: rename variables for clarity #66505
+84339. refactor: clean up auth middleware #84339
