@@ -3905,3 +3905,4 @@
 41375. fix: fix broken CSS in mobile view #41375
 73909. docs: add API usage examples #73909
 96442. refactor: organize models into subfolders #96442
+26021. style: rename variables for clarity #26021
