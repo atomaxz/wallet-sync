@@ -2918,3 +2918,4 @@
 68693. feat: implement quiz timer feature #68693
 25101. feat: enable dark mode toggle #25101
 18707. style: remove trailing whitespace #18707
+73076. perf: reduce image load time #73076
