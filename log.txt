@@ -920,3 +920,4 @@
 17791. fix: fix null pointer exception on login #17791
 42976. test: increase coverage on auth module #42976
 18566. style: rename variables for clarity #18566
+8478. fix: handle 500 error in quiz API #8478
