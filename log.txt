@@ -1918,3 +1918,4 @@
 37544. chore: add GitHub actions badge #37544
 84453. feat: support email verification #84453
 51699. feat: create admin dashboard #51699
+52444. test: increase coverage on auth module #52444
