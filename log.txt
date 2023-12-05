@@ -2924,3 +2924,4 @@
 11404. test: add integration test for /submit endpoint #11404
 92112. docs: clarify environment setup #92112
 59938. fix: fix broken CSS in mobile view #59938
+16113. docs: write FAQ section #16113
