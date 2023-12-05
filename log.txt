@@ -1921,3 +1921,4 @@
 52444. test: increase coverage on auth module #52444
 13063. refactor: organize models into subfolders #13063
 80541. refactor: clean up auth middleware #80541
+19175. test: add unit test for quiz service #19175
