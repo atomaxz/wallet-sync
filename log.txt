@@ -3908,3 +3908,4 @@
 26021. style: rename variables for clarity #26021
 38084. chore: update .gitignore #38084
 25621. chore: bump dependencies #25621
+26914. style: remove trailing whitespace #26914
