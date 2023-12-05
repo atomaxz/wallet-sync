@@ -923,3 +923,4 @@
 8478. fix: handle 500 error in quiz API #8478
 70482. docs: document token refresh logic #70482
 81395. test: test user registration edge cases #81395
+31680. style: remove trailing whitespace #31680
