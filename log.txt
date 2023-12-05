@@ -1922,3 +1922,4 @@
 13063. refactor: organize models into subfolders #13063
 80541. refactor: clean up auth middleware #80541
 19175. test: add unit test for quiz service #19175
+33559. perf: lazy-load components #33559
