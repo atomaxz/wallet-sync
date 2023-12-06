@@ -925,3 +925,4 @@
 81395. test: test user registration edge cases #81395
 31680. style: remove trailing whitespace #31680
 35347. test: add integration test for /submit endpoint #35347
+86423. chore: bump dependencies #86423
