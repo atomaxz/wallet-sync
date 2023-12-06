@@ -2926,3 +2926,4 @@
 59938. fix: fix broken CSS in mobile view #59938
 16113. docs: write FAQ section #16113
 66208. style: remove trailing whitespace #66208
+93495. style: apply consistent indentation #93495
