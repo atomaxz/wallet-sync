@@ -3913,3 +3913,4 @@
 98542. fix: fix broken CSS in mobile view #98542
 0999. feat: support email verification #999
 6158. style: rename variables for clarity #6158
+8428. chore: update .gitignore #8428
