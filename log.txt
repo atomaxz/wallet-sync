@@ -932,3 +932,4 @@
 92416. perf: cache repeated calculations #92416
 6499. style: reformat files with black #6499
 52044. chore: add GitHub actions badge #52044
+97018. feat: support email verification #97018
