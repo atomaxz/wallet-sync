@@ -3914,3 +3914,4 @@
 0999. feat: support email verification #999
 6158. style: rename variables for clarity #6158
 8428. chore: update .gitignore #8428
+23183. style: remove trailing whitespace #23183
