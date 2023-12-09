@@ -3918,3 +3918,4 @@
 17025. refactor: remove redundant code blocks #17025
 23508. chore: update .gitignore #23508
 28982. style: reformat files with black #28982
+49156. chore: bump dependencies #49156
