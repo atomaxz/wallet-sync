@@ -2935,3 +2935,4 @@
 57638. fix: resolve issue with date parsing #57638
 8347. refactor: split large controller into smaller functions #8347
 99004. test: test user registration edge cases #99004
+69574. refactor: split large controller into smaller functions #69574
