@@ -935,3 +935,4 @@
 97018. feat: support email verification #97018
 68271. style: remove trailing whitespace #68271
 95153. style: remove trailing whitespace #95153
+65173. chore: update .gitignore #65173
