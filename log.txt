@@ -1930,3 +1930,4 @@
 63341. perf: lazy-load components #63341
 62229. chore: clean up unused files #62229
 70008. chore: add GitHub actions badge #70008
+44502. fix: handle 500 error in quiz API #44502
