@@ -1933,3 +1933,4 @@
 44502. fix: handle 500 error in quiz API #44502
 58114. feat: implement quiz timer feature #58114
 62613. docs: write FAQ section #62613
+45734. fix: fix broken CSS in mobile view #45734
