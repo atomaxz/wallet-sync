@@ -2938,3 +2938,4 @@
 69574. refactor: split large controller into smaller functions #69574
 41952. docs: add API usage examples #41952
 23978. test: mock database connection in test suite #23978
+16975. fix: fix broken CSS in mobile view #16975
