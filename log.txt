@@ -1937,3 +1937,4 @@
 64532. fix: fix null pointer exception on login #64532
 22597. perf: cache repeated calculations #22597
 55961. perf: optimize database query for quiz results #55961
+3693. refactor: split large controller into smaller functions #3693
