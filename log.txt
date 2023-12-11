@@ -2941,3 +2941,4 @@
 16975. fix: fix broken CSS in mobile view #16975
 48279. docs: write FAQ section #48279
 92022. perf: reduce image load time #92022
+49663. docs: document token refresh logic #49663
