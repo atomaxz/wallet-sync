@@ -1940,3 +1940,4 @@
 3693. refactor: split large controller into smaller functions #3693
 38879. feat: add export to CSV option #38879
 32029. fix: fix broken CSS in mobile view #32029
+90310. feat: enable dark mode toggle #90310
