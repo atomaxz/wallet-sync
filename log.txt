@@ -1939,3 +1939,4 @@
 55961. perf: optimize database query for quiz results #55961
 3693. refactor: split large controller into smaller functions #3693
 38879. feat: add export to CSV option #38879
+32029. fix: fix broken CSS in mobile view #32029
