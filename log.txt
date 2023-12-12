@@ -2942,3 +2942,4 @@
 48279. docs: write FAQ section #48279
 92022. perf: reduce image load time #92022
 49663. docs: document token refresh logic #49663
+91632. chore: add GitHub actions badge #91632
