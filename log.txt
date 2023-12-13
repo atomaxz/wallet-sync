@@ -946,3 +946,4 @@
 28658. docs: document token refresh logic #28658
 16719. fix: correct typo in registration form #16719
 52525. test: increase coverage on auth module #52525
+3446. perf: cache repeated calculations #3446
