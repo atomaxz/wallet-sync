@@ -1944,3 +1944,4 @@
 19259. style: apply consistent indentation #19259
 49572. feat: enable dark mode toggle #49572
 55491. perf: cache repeated calculations #55491
+1754. chore: clean up unused files #1754
