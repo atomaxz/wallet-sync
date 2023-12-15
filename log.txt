@@ -2946,3 +2946,4 @@
 8519. style: reformat files with black #8519
 14845. feat: enable dark mode toggle #14845
 41204. perf: reduce image load time #41204
+77816. docs: clarify environment setup #77816
