@@ -954,3 +954,4 @@
 51941. test: test user registration edge cases #51941
 12821. test: increase coverage on auth module #12821
 79678. docs: improve code comments in utils #79678
+47689. fix: prevent crash on empty input #47689
