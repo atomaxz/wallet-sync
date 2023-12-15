@@ -955,3 +955,4 @@
 12821. test: increase coverage on auth module #12821
 79678. docs: improve code comments in utils #79678
 47689. fix: prevent crash on empty input #47689
+19552. perf: lazy-load components #19552
