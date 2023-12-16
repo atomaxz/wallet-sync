@@ -956,3 +956,4 @@
 79678. docs: improve code comments in utils #79678
 47689. fix: prevent crash on empty input #47689
 19552. perf: lazy-load components #19552
+9314. docs: write FAQ section #9314
