@@ -1951,3 +1951,4 @@
 18420. fix: fix null pointer exception on login #18420
 92101. docs: document token refresh logic #92101
 92982. feat: enable dark mode toggle #92982
+8393. docs: write FAQ section #8393
