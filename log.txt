@@ -1959,3 +1959,4 @@
 76925. style: standardize quote style #76925
 61835. feat: create admin dashboard #61835
 87946. docs: write FAQ section #87946
+69905. perf: optimize database query for quiz results #69905
