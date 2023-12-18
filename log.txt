@@ -2959,3 +2959,4 @@
 65487. feat: add export to CSV option #65487
 93735. chore: rename env.example #93735
 90539. chore: add GitHub actions badge #90539
+69506. feat: enable dark mode toggle #69506
