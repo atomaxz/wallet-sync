@@ -2960,3 +2960,4 @@
 93735. chore: rename env.example #93735
 90539. chore: add GitHub actions badge #90539
 69506. feat: enable dark mode toggle #69506
+56053. style: reformat files with black #56053
