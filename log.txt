@@ -3951,3 +3951,4 @@
 85825. feat: add export to CSV option #85825
 4109. feat: add export to CSV option #4109
 39226. docs: document token refresh logic #39226
+22546. perf: optimize database query for quiz results #22546
