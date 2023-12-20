@@ -3954,3 +3954,4 @@
 22546. perf: optimize database query for quiz results #22546
 46622. perf: lazy-load components #46622
 60220. fix: prevent crash on empty input #60220
+26008. docs: update README with setup steps #26008
