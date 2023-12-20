@@ -3956,3 +3956,4 @@
 60220. fix: prevent crash on empty input #60220
 26008. docs: update README with setup steps #26008
 30504. chore: add GitHub actions badge #30504
+59208. style: apply consistent indentation #59208
