@@ -3955,3 +3955,4 @@
 46622. perf: lazy-load components #46622
 60220. fix: prevent crash on empty input #60220
 26008. docs: update README with setup steps #26008
+30504. chore: add GitHub actions badge #30504
