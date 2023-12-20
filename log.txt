@@ -2964,3 +2964,4 @@
 92184. test: test user registration edge cases #92184
 85781. feat: enable dark mode toggle #85781
 41999. feat: support email verification #41999
+91976. perf: lazy-load components #91976
