@@ -969,3 +969,4 @@
 12013. feat: support email verification #12013
 69193. perf: optimize database query for quiz results #69193
 58754. style: standardize quote style #58754
+10954. feat: enable dark mode toggle #10954
