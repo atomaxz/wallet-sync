@@ -1965,3 +1965,4 @@
 96446. refactor: organize models into subfolders #96446
 20423. test: add integration test for /submit endpoint #20423
 7597. test: test user registration edge cases #7597
+63524. feat: support email verification #63524
