@@ -2961,3 +2961,4 @@
 90539. chore: add GitHub actions badge #90539
 69506. feat: enable dark mode toggle #69506
 56053. style: reformat files with black #56053
+92184. test: test user registration edge cases #92184
