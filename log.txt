@@ -2971,3 +2971,4 @@
 30666. fix: correct typo in registration form #30666
 19581. chore: bump dependencies #19581
 71252. fix: correct typo in registration form #71252
+70817. feat: support email verification #70817
