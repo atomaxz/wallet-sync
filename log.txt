@@ -3959,3 +3959,4 @@
 59208. style: apply consistent indentation #59208
 5176. perf: reduce image load time #5176
 32496. chore: update .gitignore #32496
+83727. docs: update README with setup steps #83727
