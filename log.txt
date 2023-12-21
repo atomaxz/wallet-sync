@@ -3961,3 +3961,4 @@
 32496. chore: update .gitignore #32496
 83727. docs: update README with setup steps #83727
 33135. docs: document token refresh logic #33135
+65588. fix: prevent crash on empty input #65588
