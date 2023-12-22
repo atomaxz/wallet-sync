@@ -979,3 +979,4 @@
 20688. feat: add user authentication #20688
 68586. perf: optimize database query for quiz results #68586
 20958. chore: update .gitignore #20958
+53167. chore: clean up unused files #53167
