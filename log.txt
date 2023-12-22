@@ -2974,3 +2974,4 @@
 70817. feat: support email verification #70817
 86956. docs: add API usage examples #86956
 15258. chore: rename env.example #15258
+27960. docs: document token refresh logic #27960
