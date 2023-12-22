@@ -978,3 +978,4 @@
 94068. docs: update README with setup steps #94068
 20688. feat: add user authentication #20688
 68586. perf: optimize database query for quiz results #68586
+20958. chore: update .gitignore #20958
