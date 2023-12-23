@@ -983,3 +983,4 @@
 23266. chore: update .gitignore #23266
 93792. feat: add user authentication #93792
 17786. style: reformat files with black #17786
+83770. test: increase coverage on auth module #83770
