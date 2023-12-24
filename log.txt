@@ -1978,3 +1978,4 @@
 45296. style: reformat files with black #45296
 23183. style: remove trailing whitespace #23183
 77509. fix: correct typo in registration form #77509
+2622. test: add unit test for quiz service #2622
