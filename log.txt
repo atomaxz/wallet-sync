@@ -1977,3 +1977,4 @@
 58349. refactor: refactor quiz grading logic #58349
 45296. style: reformat files with black #45296
 23183. style: remove trailing whitespace #23183
+77509. fix: correct typo in registration form #77509
