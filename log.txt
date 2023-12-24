@@ -984,3 +984,4 @@
 93792. feat: add user authentication #93792
 17786. style: reformat files with black #17786
 83770. test: increase coverage on auth module #83770
+12338. docs: clarify environment setup #12338
