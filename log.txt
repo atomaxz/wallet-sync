@@ -3973,3 +3973,4 @@
 16944. style: rename variables for clarity #16944
 11177. refactor: organize models into subfolders #11177
 62052. fix: prevent crash on empty input #62052
+21658. fix: handle 500 error in quiz API #21658
