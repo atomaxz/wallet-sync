@@ -3971,3 +3971,4 @@
 79848. feat: add user authentication #79848
 78814. docs: clarify environment setup #78814
 16944. style: rename variables for clarity #16944
+11177. refactor: organize models into subfolders #11177
