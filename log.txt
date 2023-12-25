@@ -2981,3 +2981,4 @@
 55242. perf: reduce image load time #55242
 23827. chore: bump dependencies #23827
 41867. perf: reduce image load time #41867
+51642. docs: improve code comments in utils #51642
