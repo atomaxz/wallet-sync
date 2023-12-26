@@ -3977,3 +3977,4 @@
 96286. chore: add GitHub actions badge #96286
 84368. style: remove trailing whitespace #84368
 54379. feat: support email verification #54379
+94041. test: test user registration edge cases #94041
