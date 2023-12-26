@@ -3974,3 +3974,4 @@
 11177. refactor: organize models into subfolders #11177
 62052. fix: prevent crash on empty input #62052
 21658. fix: handle 500 error in quiz API #21658
+96286. chore: add GitHub actions badge #96286
