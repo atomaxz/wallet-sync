@@ -1987,3 +1987,4 @@
 3635. docs: add API usage examples #3635
 91509. docs: add API usage examples #91509
 12956. style: apply consistent indentation #12956
+92056. fix: correct typo in registration form #92056
