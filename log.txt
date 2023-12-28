@@ -1989,3 +1989,4 @@
 12956. style: apply consistent indentation #12956
 92056. fix: correct typo in registration form #92056
 21925. docs: add API usage examples #21925
+15604. test: test user registration edge cases #15604
