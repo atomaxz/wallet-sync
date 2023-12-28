@@ -1991,3 +1991,4 @@
 21925. docs: add API usage examples #21925
 15604. test: test user registration edge cases #15604
 56759. docs: clarify environment setup #56759
+63061. test: add integration test for /submit endpoint #63061
