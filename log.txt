@@ -3984,3 +3984,4 @@
 40115. docs: update README with setup steps #40115
 90527. refactor: organize models into subfolders #90527
 1578. feat: support email verification #1578
+5093. test: increase coverage on auth module #5093
