@@ -1993,3 +1993,4 @@
 56759. docs: clarify environment setup #56759
 63061. test: add integration test for /submit endpoint #63061
 88730. test: add integration test for /submit endpoint #88730
+49731. feat: enable dark mode toggle #49731
