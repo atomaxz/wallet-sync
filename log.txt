@@ -3986,3 +3986,4 @@
 1578. feat: support email verification #1578
 5093. test: increase coverage on auth module #5093
 34670. chore: clean up unused files #34670
+73092. style: reformat files with black #73092
