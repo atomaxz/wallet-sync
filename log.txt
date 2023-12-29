@@ -1995,3 +1995,4 @@
 88730. test: add integration test for /submit endpoint #88730
 49731. feat: enable dark mode toggle #49731
 60659. docs: document token refresh logic #60659
+88839. style: remove trailing whitespace #88839
