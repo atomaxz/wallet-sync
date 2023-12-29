@@ -3989,3 +3989,4 @@
 73092. style: reformat files with black #73092
 64461. fix: handle 500 error in quiz API #64461
 74671. feat: add user authentication #74671
+64049. docs: clarify environment setup #64049
