@@ -994,3 +994,4 @@
 45512. style: rename variables for clarity #45512
 74543. test: increase coverage on auth module #74543
 12317. perf: reduce image load time #12317
+69929. refactor: organize models into subfolders #69929
