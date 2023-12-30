@@ -3992,3 +3992,4 @@
 64049. docs: clarify environment setup #64049
 22917. chore: add GitHub actions badge #22917
 83946. refactor: organize models into subfolders #83946
+78420. fix: handle 500 error in quiz API #78420
