@@ -995,3 +995,4 @@
 74543. test: increase coverage on auth module #74543
 12317. perf: reduce image load time #12317
 69929. refactor: organize models into subfolders #69929
+63618. feat: add user authentication #63618
