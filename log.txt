@@ -3997,3 +3997,4 @@
 49955. test: add integration test for /submit endpoint #49955
 60151. perf: optimize database query for quiz results #60151
 80624. perf: optimize database query for quiz results #80624
+15919. docs: write FAQ section #15919
