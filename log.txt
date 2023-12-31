@@ -996,3 +996,4 @@
 12317. perf: reduce image load time #12317
 69929. refactor: organize models into subfolders #69929
 63618. feat: add user authentication #63618
+20050. feat: add export to CSV option #20050
